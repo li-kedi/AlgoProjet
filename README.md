@@ -188,9 +188,23 @@ Ce code en Python définit une classe KNNClass qui implémente l'algorithme des 
 ### Main.py
 * Description: il permet de réaliser une classification de textes en utilisant l'algorithme KNN (K-nearest neighbors).Le principe est de représenter les textes sous forme de vecteurs TF-IDF, puis de mesurer les similarités entre ces vecteurs pour déterminer les K textes les plus proches d'un texte donné. La classe KNNClass implémentée permet de stocker les vecteurs TF-IDF des différents textes dans différentes classes, et de réaliser des opérations telles que l'ajout ou la suppression de classes ou de vecteurs selon le choix de l'utilisateur.
 
-##Les bougues
-
-![Image text](https://github.com/li-kedi/AlgoProjet/commit/0e662bb726d6ddb581ce298ca86a51847af89c96)
+## Les bougues
+* 
+veillez taper le nom de documents：test</br>
+veillez donner votre ordonnance: (Choix parmi 'classify','add_class','add_vector','del_class','save','laod'): classify</br>
+veillez taper le nom de documents：BOU.txt</br>
+Veuillez indiquer la méthode de calcul. (cosinus=1,euclidean_distance=2, manhattan_distance=3): 1</br>
+Veuillez indiquer la valeur de k: 5</br>
+label: roman n: 3 average similarity: 0.9995566455617556</br>
+label: poésie n: 2 average similarity: 0.9994010729002618</br>
+kedi@KedideMacBook-Air python % /usr/bin/python3 /Users/kedi/Downloads/M1/python/Main.py</br>
+veillez taper le nom de documents：test</br>
+veillez donner votre ordonnance: (Choix parmi 'classify','add_class','add_vector','del_class','save','laod'): classify</br>
+veillez taper le nom de documents：BOU.txt</br>
+Veuillez indiquer la méthode de calcul. (cosinus=1,euclidean_distance=2, manhattan_distance=3): 1</br>
+Veuillez indiquer la valeur de k: 11</br>
+label: roman n: 8 average similarity: 0.9993879411416243</br>
+label: poésie n: 3 average similarity: 0.999368047283594</br>
 
 
 ## Améliorations possibles
