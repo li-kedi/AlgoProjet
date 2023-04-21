@@ -1,0 +1,749 @@
+********************************************************
+	DC.Title                  = L'AVARE AMOUREUX, COM…DIE
+	DC.Author                 = AIGUEBERRE, Jean Dumas d'
+	DC.Creator                = FIEVRE, Paul
+	DC.Publisher              = FIEVRE, Paul
+	DC.Subject                = ComÈdie
+	DC.Subject.Classification = 842
+	DC.Description            = Edition du texte citÈ en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = 
+	DC.Date.Issued content    = 
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 01/02/2021 ‡ 07:00:04.
+	DC.Coverage               = France
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/documents/AIGUEBERRE_AVAREAMOUREUX.xml
+	DC.Source                 = http://gallica.bnf.fr/ark:/12148/bpt6k58182419
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = ThÈ‚tre Classique, (creative commons CC BY-NC-ND)
+***************************************************************
+
+L'AVARE AMOUREUX
+COM…DIE EN UN ACTE ET EN PROSE
+REPR…SENT…E SUR LE TH…¬TRE DE LA NATION.
+M. DCC. LXXXI. AVEC APPROBATION ET PERMISSION.
+Par MONSIEUR d'AIGUEBERT.
+¿ TOULOUSE, Chez BROULHIET, Libraire, acquÈreur de fond de M. Baour, rue St. Rome, faisant coin de la rue Dunai.
+
+
+
+ACTEURS.
+ARGANTE, amant de Julie.
+G…RONTE, pËre de Julie.
+JULIE, fille de GÈronte.
+DORIM»NE, soeur de GÈronte.
+VAL»RE, amant de Julie.
+N…RINE, suivante de Julie.
+MONSIEUR SUBTIL, notaire.
+MONSIEUR COURTELIGNE, notaire.
+La ScËne est ‡ la Maison de Campagne de...
+
+
+
+			
+
+
+
+				
+				SC»NE PREMI»RE. Argante, NÈrine.
+				
+				
+							ARGANTE.
+							Enfin NÈrine, me voil‡ tout dÈterminÈ ‡ Èpouser Julie ; et je viens pour la demander en mariage ‡ son pËre.
+							N…RINE.
+							Et Dieu, sait si les prÈparatifs sont magnifiques, Ètoffes prÈcieuses, diamants de prix, valets nombreux, carrosse brillant...
+							ARGANTE.
+							Oh ! Pour moi je hais comme le Diable toute sorte de voitures ; et je trouve que l'exercice me fait du bien. ¿ l'Ègard de Julie, je lui ferai si bonne compagnie, qu'elle n'aura pas besoin d'Èquipage pour aller se dÈsennuyer ailleurs.
+							N…RINE.
+							Voil‡ qui vous Èpargnera bien de l'argent, Monsieur Argante.
+							ARGANTE.
+							Est-ce que tu crois que ce que j'en fais, c'est par avarice ?
+							N…RINE.
+							Je ne dis pas cela.
+							ARGANTE.
+							Tu sais le peu de cas que je fais de l'argent.
+							N…RINE.
+							Je sais que vous Ítes l'homme du monde le plus gÈnÈreux : cependant qui ne vous connaÓtrait pas, ne saurait qu'en croire.
+							ARGANTE.
+							Que veux-tu dire ?
+							N…RINE.
+							[Note : Passy : village hors de Paris, annexÈ au XVIËme arrondissement en 1860. C'est aussi l'endroit o˘ est jouÈ ce spectacle.]Vous m'aviez dit ces jours passÈs, quand nous f˚mes ‡ Passy, que vous prÈtendiez donner ‡ Julie une fÍte sur l'eau qui charmerait tout le monde.
+							ARGANTE.
+							Les ordres Ètaient donnÈs ; et la fÍte e˚t ÈtÈ magnifique, si elle e˚t ÈtÈ exÈcutÈe ; mais je songeai que cela aurait pu faire tort ‡ la rÈputation de Julie, et qu'il valait mieux renvoyer la FÍte aprËs notre mariage.
+							N…RINE.
+							[Note : Rue Mouffetard : rue du 5Ëme arrondissement de Paris, trËs en pente et Ètroite et qui monte sur la Montagne Sainte-GeneviËve.]La chose en effet en sera plus rare. Mais vous aviez promis aussi de quitter cette vilaine maison que vous occupez dans la rue Mouffetard.
+							ARGANTE.
+							Qu'appelles-tu, vilaine maison ? Elle est grande, commode, et je m'y porte bien.
+							N…RINE.
+							Il y a encore une chose qui dÈplaÓt infiniment ‡ Julie.
+							ARGANTE.
+							Quelque fantaisie, sans doute.
+							N…RINE.
+							C'est votre profession d'homme de robe ; et si vous pouviez...
+							ARGANTE.
+							Quoi, veut-elle qu'‡ mon ‚ge, je me fasse mousquetaire.
+							N…RINE.
+							Vous ne feriez peut-Ítre pas si mal ; si je lui ai toujours vu un fond d'estime pour ce corps l‡.
+							ARGANTE.
+							[Note : Robe : se prend aussi pour La profession des gens de Judicature. Les gens de robe. [Ac 1762]]Folies que tout cela. Quand Julie connaÓtra tout ce que vaut un homme de robe, elle sera ravie d'Ítre ma femme. Adieu, NÈrine, je vais presser les choses, et savoir de Monsieur GÈronte ce qu'il prÈtend faire pour sa fille en la mariant.
+				
+				SC»NE II.
+				
+				
+							N…RINE, seule.
+							Voil‡ une nouvelle ‡ donner ‡ Julie ; qui ne lui fera pas grand plaisir ; mais je la vois, elle me paraÓt dÈj‡ toute informÈe de ce qui se passe.
+				
+				SC»NE III. Julie, NÈrine.
+				
+				
+							JULIE.
+							Ah ! Ma chËre NÈrine, je suis dans le dernier dÈsespoir. Monsieur Argante est dans le cabinet de mon pËre ; et peut-Ítre que les articles font dÈj‡ dressÈs.
+							N…RINE.
+							[Note : Robin : Terme de dÈnigrement. Homme de robe. [L]]Et moi je vous dis qu'ils ne le font, ni ne le feront. Jamais avares n'ont fait affaire ensemble. Votre PËre s'est trËs raisonnablement, et pour le vieux robin, votre amant, c'est l'avarice parlante : je les dÈfie de conclure.
+							JULIE.
+							Mais s'ils venaient ‡ terminer ...
+							N…RINE.
+							Et si par dessus le marchÈ, vous y donniez les mains, il n'en serait rien.
+							JULIE.
+							Et la raison ?
+							N…RINE.
+							La raison est que je m'y oppose ; et qu'on n'a jamais vu de mariage se faire sans l'aveu de la suivante.
+							JULIE.
+							Sont-ce l‡ les s˚retÈs que tu me donnes ?
+							N…RINE.
+							Il faut bien vous en donner d'extravagantes, puisque les raisonnables n'y font rien. Faut-il vous rÈpÈter vingt fois que Monsieur votre pËre n'est pas homme ‡ vous faire le moindre avantage ; et que Monsieur Argante n'est pas homme... Mais voici votre tante qui achËvera de vous rassurer.
+				
+				SC»NE IV. DorimËne, Julie, ValËre, NÈrine.
+				
+				
+							JULIE.
+							Ah ! Ma chËre Tante, vous me voyez dans une inquiÈtude mortelle.
+							DORIM»NE.
+							Et de quoi s'agit-il, ma niËce ?
+							JULIE.
+							Monsieur Argante et mon pËre sont ensemble, et je vais Ítre mariÈe ‡ l'homme du monde que je hais le plus. 
+							VAL»RE.
+							Madame, vous connaissez mes sentiments pour Julie ; et il serait temps de vouloir bien les appuyer auprËs de Monsieur votre frËre.
+							DORIM»NE.
+							Point du tout. Je connais mon frËre, c'est l'homme du monde le plus opini‚tre. Il n'a maintenant que son Monsieur Argante en tÍte, et quand je donnerais tout mon bien en votre faveur, tout cela serait inutile. Il faut attendre qu'ils se brouillent, ce qui ne manquera pas d'arriver, sitÙt qu'il s'agira de conclure.
+							JULIE.
+							Ma chËre tante, vous m'aviez promis de lui faire accroire que vous vouliez l'Èpouser.
+							DORIM»NE.
+							Il n'a pas tenu ‡ moi qu'il n'en f˚t persuadÈ ; et si jamais l'avarice me le ramËne, je te promets, de ne rien oublier pour le faire donner dans le piËge.
+							N…RINE.
+							Pour moi je peins aux yeux de Monsieur Argante ma chËre MaÓtresse, comme la plus impertinente petite crÈature...
+							VAL»RE.
+							Mais NÈrine.
+							N…RINE.
+							Mais, quoi, voulez-vous que je lui fasse son Èloge ? Mon Dieu ! Que je hais les amants ! Paix. J'entends ouvrir le cabinet. Il faut qu'Argante passe par cette salle. Retirez-vous ; et laissez-moi savoir de lui comment tout s'est passÈ.
+							DORIM»NE.
+							Ma niËce, rentrez dans votre chambre. Il pourra venir chez moi. Il est bon que vous n'y soyez pas. Et vous, ValËre, ne vous Ècartez point qu'on sache o˘ vous trouver, lorsqu'on aura besoin de vous.
+							VAL»RE A Julie.
+							Ah Julie !
+							N…RINE, le contrefaisant.
+							Ah Monsieur ! Retirez-vous, vous dis-je ; votre rival approche.
+							VAL»RE, ‡ Julie, en s'en allant.
+							Il faut donc vous quitter.
+							N…RINE, ‡ Julie.
+							Rentrez donc vite. Je l'entends qui grogne tout seul. Tous ces vieux fous sont grands faiseurs de monologues. …coutons.
+				
+				SC»NE V. Argante, NÈrine.
+				
+				
+							ARGANTE sans voir NÈrine.
+							En agir de la forte avec un ami de quarante ans ! Allez Monsieur GÈronte, cela est indigne. Vous savez que j'ai du faible pour votre fille ; et vous voulez en abuser ! Oh ! Parbleu vous en serez la dupe ; et voil‡ un procÈdÈ qui vous co˚tera diablement cher, Monsieur GÈronte. Ah ! C'est toi, NÈrine.
+							N…RINE.
+							Oui, Monsieur, c'est votre trËs humble Servante.
+							ARGANTE.
+							Julie sait-elle ce que son pËre lui veut donner en mariage ?
+							N…RINE.
+							Non Monsieur.
+							ARGANTE.
+							Rien.
+							N…RINE.
+							Rien ?
+							ARGANTE.
+							Oui, rien ; rien ; ce qui s'appelle rien. Mais je m'en vengerai, Monsieur GÈronte, je m'en vengerai. Vous avez une soeur qui jouit de trente mille livres de rente : c'est la seule personne raisonnable qui soit dans votre maison. Elle a pour moi une estime toute particuliËre : je l'Èpouserai, Monsieur GÈronte, je l'Èpouserai.
+							N…RINE, le contrefaisant.
+							Vous n'en ferez rien, Monsieur Argante, vous n'en ferez rien.
+							ARGANTE.
+							Je n'en ferai rien.
+							N…RINE.
+							Non.
+							ARGANTE.
+							Et pourquoi.
+							N…RINE.
+							Parce que je vous ai vu cent fois entrer chez elle, dans ce dessein ; et revenir toujours ‡ ma maÓtresse plus amoureux que jamais.
+							ARGANTE.
+							Eh bien, voil‡ ce que tu ne verras plus ; et pour t'en mieux convaincre, je vais tout de ce pas entrer chez DorimËne, pour lui en faire la proposition.
+							N…RINE, ‡ part.
+							Et nous allons porter ‡ Julie cette agrÈable nouvelle. 		Elle voit Monsieur Argante prÍt a entrer chez Julie, et le pousse vers l'appartement de DorimËne.Eh, Monsieur vous n'y songez pas. C'est ici l'appartement de Julie, voil‡ celui de DorimËne.
+							ARGANTE.
+							Je suis si troublÈ de colËre contre Monsieur GÈronte, que je ne sais ce que je fais.
+							N…RINE, ‡ part.
+							Il faut le voir entrer.
+							ARGANTE, revenant sur ses pas.
+							Comment penses-tu que la petite Julie prendra la chose ?
+							N…RINE.
+							Et mort de ma vie que vous importe ? Ce font ses affaires. Ce ne sont plus les vÙtres.
+							ARGANTE.
+							Tu as raison. Mais enfin l‡, que crois-tu qu'elle dise en apprenant la duretÈ de son pËre pour elle, et mon mariage avec sa tante ?
+							N…RINE.
+							Commencez par Èpouser DorimËne : et puis vous vous informerez de toutes ces bagatelles. 		Elle le pousse dans la chambre de DorimËne. Allons, Monsieur entrez. Que j'aie la satisfaction de vous voir faire dans la vie une action de vigueur.
+							ARGANTE.
+							Ne prÈcipitons rien. Si je pouvais rÈduire ta maÓtresse ‡ vivre en femme qui n'a rien apportÈ en mariage, enfin comme une femme raisonnable...
+							N…RINE.
+							Elle ! Jamais. Il suffit qu'une chose soit raisonnable pour qu'elle soit en droit de lui dÈplaire : et vous savez que la dÈpense est sa folie.
+							ARGANTE.
+							Avoue qu'on est bien malheureux d'aimer une personne de ce caractËre.
+							N…RINE.
+							Vous ne serez pas plutÙt le mari de la tante que vous ne songerez plus ‡ la niËce.
+							ARGANTE.
+							Eh bien, je ne balance plus. Aussi bien l'une ne m'apporterait qu'un grand appÈtit pour mander tout mon bien ; et l'autre me donnera de quoi l'Èpargner. Adieu, NÈrine, dis ‡ Julie...
+							N…RINE.
+							Je n'y manquerai pas.
+							ARGANTE.
+							Si je la voyais auparavant.
+							N…RINE, ‡ part.
+							Nous voil‡ bien avancÈs
+							ARGANTE.
+							Quand ce ne serait que pour lui dire que si je ne l'Èpouse pas, ce n'est pas ma faute.
+							N…RINE.
+							Vous ferez tout comme il vous plaira : mais je vous avertis d'avance qu'avec un pareil compliment, vous serez mal reÁu.
+							ARGANTE.
+							Qu'importe ? Tiens : je ne veux rien avoir ‡ me reprocher ; et il faut que je la mette dans son tort aussi bien que son pËre.
+							N…RINE.
+							Cela ne sera pas difficile ; et puisque vous voulez, je vais l'avertir que vous la demandez.		¿ part. Et lui faire sa leÁon.
+				
+				SC»NE VI.
+				
+				
+							ARGANTE seul.
+							Monsieur GÈronte ne laisse pas que d'avoir prËs de cent mille Ècus de bien ; il n'a point d'autre enfant que Julie ; il est vieux, cassÈ, mourra bientÙt, j'en suis s˚r : ainsi donc ‡ tout prendre, je ne ferais pas une si mauvaise affaire en Èpousant Julie, mÍme sans dot, n'Ètait ce maudit go˚t qu'elle a pour la dÈpense. Mais je vois la friponne ; et je ne sais plus o˘ j'en suis.
+				
+				SC»NE VII. Argante, Julie, NÈrine.
+				
+				
+							N…RINE, ‡ Julie.
+							Jouez bien.
+							JULIE.
+							Laisse-moi faire.
+							ARGANTE, regardant Julie.
+							Non, je ne conÁois point qu'on puisse Ítre le pËre d'une aussi jolie enfant ; et ne lui pas donner tout son bien en la mariant.
+							JULIE.
+							[Note : Obole : Monnaie de cuivre valant une maille, ou deux pites ; la moitiÈ d'un denier. Quelques-uns veulent que ce soit seulement la quart d'un denier, la moitiÈ d'une maille. [F]]Et moi , Monsieur je ne conÁois point comment il le trouve des PËres assez bons pour donner quelque chose en mariant leurs filles : et si faite, comme je suis, il en co˚tait une obole au mien, je me croirais dÈshonorÈe.
+							N…RINE, ‡ Julie.
+							Bon.
+							ARGANTE.
+							Vous vous croiriez dÈshonorÈe.
+							JULIE.
+							Oui, Monsieur.
+							ARGANTE, ‡ part.
+							Quel Diable de raffinement est-ceci ?
+							JULIE.
+							Et vous pouvez compter qu'un homme qui aura voulu me faire cet affront, ne fera jamais mon Èpoux.
+							N…RINE, ‡ Julie.
+							¿ merveilles.
+							ARGANTE, ‡ Julie.
+							Eh bien, trop charmante Julie. 		Puis ‡ part.Voici un moment qui va me co˚ter tout mon bien et par consÈquent la vie. 		Ensuite regardant Julie. Eh bien, on vous Èpousera tour comme vous voudrez. En souhaitez vous davantage.
+							N…RINE, ‡ part.
+							Peste soit du vieux fou.
+							JULIE, ÈtonnÈe.
+							NÈrine !
+							N…RINE, ÈtonnÈe.
+							Mademoiselle !
+							ARGANTE, continue.
+							Oui, cher objet de mes dÈsirs, je n'en veux qu'‡ votre petit coeur, et je le prÈfËre ‡ tous les trÈsors du monde. Disposez de ma personne, disposez de ma vie : mais songez que mon bien n'est pas des plus considÈrable, et que Monsieur GÈronte est d'une complexion ‡ vivre encore longtemps.
+							N…RINE.
+							¿ voir la fin du monde.		¿ Julie.Vous ne dites rien !
+							ARGANTE.
+							Faites-moi donc espÈrer que...
+							JULIE.
+							Non, Monsieur, je vous tromperais. Je vous entends : vous voudriez que je vÈcusse en femme qui n'a rien apportÈ en mariage, n'est-ce pas ?
+							ARGANTE.
+							¿ peu prËs.
+							JULIE.
+							Et moi je prÈtends vivre en femme qui doit un jour Ítre riche ; et qui, en attendant se sent les plus heureuses dispositions du monde pour se faire honneur du bien de son mari.
+							ARGANTE.
+							Vous ne voulez donc m'Èpouser, que pour avoir le plaisir de me ruiner ?
+							JULIE.
+							Vous Èpouser ! Et qui vous a dit que j'en aie la moindre envie ? Je croyais vous avoir assez marquÈ le contraire.
+							ARGANTE.
+							Ah ! Petite ingrate, c'est donc-l‡ le prix de tout ce que je fais pour vous. Ce n'est point assez que vous me co˚tiez dÈj‡ plus de vingt mille Ècus...
+							JULIE.
+							Moi, Monsieur !
+							N…RINE.
+							Voici du neuf.
+							ARGANTE.
+							Par les bonnes affaires que j'ai manquÈes en venant roder ici vingt fois le jour...
+							N…RINE.
+							Pour avoir l'honneur de m'entretenir.
+							ARGANTE.
+							Oui, j'achËterais de la moitiÈ de mes jours, l'avantage de ne vous avoir jamais vue.
+							JULIE.
+							NÈrine, allons nous-en.
+							ARGANTE.
+							Non, vous ne mÈritez pas d'Ítre aussi jolie ; que vous l'Ítes.
+							JULIE.
+							Ni vous, Monsieur, qu'on vous Ècoute plus longtemps. Rentrons, NÈrine, et laissons Monsieur extravaguer ‡ son aise.
+				
+				SC»NE VIII.
+				
+				
+							ARGANTE seul.
+							Vous avez raison ; et mon amour pour vous est une vÈritable extravagance. Au plus petit mot de tendresse qu'elle m'e˚t dit, c'en Ètait fait, je l'Èpousais : Mais je ne crois pas qu'il m'arrive de la rechercher d'avantage. Or sus, mon coeur , plus de faiblesse. Et vous Monsieur Argante, songez ‡ ce que vous faites. Voil‡ l'appartement de Julie : c'est-l‡ qu'il ne faut plus aller de votre vie. Voici celui de DorimËne : c'est ici qu'il faut entrer, et n'en sortir que pour vous marier avec elle.
+				
+				SC»NE IX. Argante, DorimËne.
+				
+				
+							ARGANTE.
+							Ah ! Madame, j'allais chez vous, vengez moi.
+							DORIM»NE.
+							Et qui peut avoir offensÈ Monsieur Argante. Lui dont le caractËre est si charmant, qui possËde un esprit si supÈrieur, et qui a quelque chose de si gracieux rÈpandu dans toute la personne, que j'ai souvent dit que ma niËce Ètait trop heureuse d'Èpouser un homme de son mÈrite !
+							ARGANTE.
+							Voil‡ ce qu'elle, ni son pËre n'ont jamais pu comprendre. Julie me refuse son coeur.
+							DORIM»NE.
+							Peut-on vous refuser quelque chose ?
+							ARGANTE.
+							Et GÈronte, son argent.
+							DORIM»NE.
+							Tout ce qu'il a ne devrait-il pas Ítre ‡ votre service ? Ah ! Que vous m'affligez ! Et que je souffre de voir dans ma famille deux personnes aussi injustes, sans que je puisse rÈparer leur faute !
+							ARGANTE.
+							Et qui le pourrait mieux que vous, Madame, si vous le vouliez en effet ?
+							DORIM»NE.
+							Parlez, je n'ai rien ‡ vous refuser.
+							ARGANTE.
+							[Note : Balancer : hÈsiter.]HÈ bien, Madame, Èpousez-moi. C'est ainsi qu'il faut tous les deux nous venger : car vous Ítes offensÈe ; et vous devez punir Julie de l'injuste prÈfÈrence que je lui donnais. Vous riez ; et je le mÈrite. Je n'aurais pas d˚ balancer si longtemps entre vous deux : mais pardonnez-moi.
+							DORIM»NE.
+							Je vous pardonne de tout mon coeur. Mais le moyen d'en croire un transport que ma niËce dÈtruira d'un regard.
+							ARGANTE.
+							Ne craignez rien, je ne la verrai de ma vie : et si vous voulez y donner les mains, je suis prÍt ‡ me marier avec vous dËs ce soir.
+							DORIM»NE.
+							Mais ne serait-il pas ‡ propos de faire un contrat ?
+							ARGANTE.
+							Oui, Madame : et je vais chez non notaire le faire dresser.
+							DORIM»NE.
+							Allez et n'oubliez pas d'y faire mettre que je vous donne tout mon bien.
+							ARGANTE.
+							Non, je ne crois pas qu'il y ait sous le ciel une aussi bonne femme que vous.		¿ part.Ah ! Julie, que n'Ítes-vous aussi raisonnable que DorimËne ? Ah ! DorimËne, que n'Ítes-vous aussi charmante que Julie ?
+							DORIM»NE.
+							Vous restez.
+							ARGANTE.
+							Pardonnez-moi, je cours chez mon notaire.
+							DORIM»NE, seule.
+							Je n'en pouvais plus. Encore un instant, et j'allais Èclater. Mais il faut donner cette bonne nouvelle ‡ Julie. Ah ! Te voil‡, NÈrine.
+				
+				SC»NE X. DorimËne, NÈrine.
+				
+				
+							N…RINE.
+							J'allais chez vous, Madame, vous rendre compte de nos rÙles, et vous demander des nouvelles du vÙtre. Ma foi, pour nous, moi et votre niËce, nous avons fait des merveilles.
+							DORIM»NE.
+							Et moi, sans vanitÈ, pas trop mal. J'Èpouse ce soir Monsieur Argante.
+							N…RINE.
+							C'est-‡-dire qu'il s'en flatte.
+							DORIM»NE.
+							Il croit la chose s˚re, et il vient de me quitter pour aller faire dresser le contrat.
+							N…RINE.
+							Cela ne me surprend point, et nous vous l'avons envoyÈ en disposition de faire tout ce que vous voudriez.
+							DORIM»NE.
+							Je t'assure qu'au fond, je ne suis guËre propre ‡ jouer un tel personnage, et qu'il faut aimer ma niËce autant que je l'aime, pour m'en Ítre chargÈe.
+							N…RINE.
+							Bon, Madame, cela vous plaÓt ‡ dire. Il n'y a point de femme qui ne soit comÈdienne. Il y en a mÍme qui le sont sans le savoir, tant cela nous est naturel, et nous n'avons besoin que d'Ítre employÈes.
+							DORIM»NE.
+							O˘ est Julie ?
+							N…RINE.
+							Son pËre vient de l'envoyer chercher, et c'est pour lui dire que son mariage avec Argante est rompu. Mais ne songez-vous pas aussi ‡ ce pauvre ValËre ? Il me fait pitiÈ.
+							DORIM»NE.
+							Je vais lui Ècrire qu'il se rende ici, pour le prÈsenter ‡ mon frËre. Toi, va rendre compte ‡ Julie de ce qui se passe.
+							N…RINE.
+							Voil‡ les affaires en assez bon chemin. Ma foi, Monsieur Argante, vous en tenez, et nous verrons la figure que vous ferez avec votre Contrat ‡ la main, quand personne ne voudra le signer, mais le voici lui-mÍme, la joie est peinte sur son visage, nous serait-il arrivÈ quelque malheur ? Sachons ce qui en est.
+				
+				SC»NE XI. Argante, NÈrine.
+				
+				
+							N…RINE.
+							Eh bien, Monsieur, vous avez pris votre parti en homme de courage : et DorimËne...
+							ARGANTE.
+							Il n'est plus question de DorimËne, et c'est enfin Julie que j'Èpouse.
+							N…RINE.
+							Julie !
+							ARGANTE.
+							Oui, elle-mÍme. Je suis tout rempli de satisfaction : et jamais je ne fus si content. Ce soir elle fera ma Femme, et je serai son mari, cela te surprend ?
+							N…RINE.
+							Point du tout.
+							ARGANTE.
+							La friponne a ÈtÈ plus forte que toutes mes rÈsolutions ; j'en ai l'‚me ravie de joie. Je quittais DorimËne pour aller faire dresser mon contrat de mariage avec elle, quand ‡ deux pas d'ici je rencontre mon notaire. Je lui dis en deux mots de quoi il s'agit, et je reviens ‡ la h‚te pour annoncer ‡ Monsieur GÈronte, que j'Èpouse sa soeur, et jouir du plaisir de l'en voir crever de dÈpit. Point du tout, je trouve avec lui ma charmante Julie. Sa vue me trouble. Je songe que je vais la perdre pour jamais. J'oublie ce qui m'amËne. Je me plains de la faÁon dont elle m'avait traitÈ. Je lui rappelle les offres que je lui ai faites devant toi. GÈronte lui montre son injustice. Elle l'a reconnaÓt. Mon procÈdÈ la touche. Je vois la pauvre enfant pleurer.
+							N…RINE.
+							Je n'en doute pas.
+							ARGANTE.
+							C'en est assez. Je passe par dessus ; et je ne sors de mon dÈsordre, qu'aprËs l'avoir obtenue.
+							N…RINE.
+							Ainsi, Monsieur, vous passez le contrat avec la tante, et vous Èpousez la niËce.
+							ARGANTE.
+							Il faut bien se satisfaire une fois dans la vie.
+							N…RINE.
+							Sans doute, et c'est ‡ DorimËne ‡ se pourvoir ailleurs.
+							ARGANTE.
+							Ne m'en parle point. Demain je lui ferai quelque excuse honnÍte. Maintenant je ne veux Ítre occupÈ que de ma petite femme, et tandis que son pËre fait dresser le contrat, je vais chez moi faire tout prÈparer pour la recevoir ce soir : car ce soir tu ne coucheras pas ici.
+				
+				SC»NE XII.
+				
+				
+							N…RINE, seule.
+							Cela n'est pas encore si s˚r, et vous en serez pour vos prÈparatifs, ou NÈrine....
+				
+				SC»NE XIII. ValËre, NÈrine.
+				
+				
+							VAL»RE.
+							Ah ! Ma chËre NÈrine, que je suis heureux.
+							N…RINE.
+							Oh ! Pour cela vous Ítes d'un bonheur, mais d'un bonheur qui ne se peut comprendre.
+							VAL»RE.
+							Tu me l'avais bien dit, que jamais ils ne s'accorderaient.
+							N…RINE.
+							Peste. Je suis infaillible.
+							VAL»RE.
+							Dis-moi, l'adorable Julie est-elle instruite de tout ? La trouverai-je chez DorimËne ? A-t-on prÈvenu Monsieur GÈronte en ma saveur ? Mais, quoi, tu ne me rÈponds rien !
+							N…RINE, apercevant Julie en pleurs.
+							Voil‡ Julie : regardez-la.
+				
+				SC»NE XIV. ValËre, Julie, NÈrine.
+				
+				
+							VAL»RE.
+							Ciel ! Que vois-je ? Julie en pleurs !
+							JULIE.
+							Ah ValËre ! Je suis au dÈsespoir, mon pËre me livre entre les mains d'Argante.
+							VAL»RE.
+							Que me dites-vous ? Quoi, DorimËne qui vient de m'Ècrire, m'aurait trompÈ ; et son mariage avec Argante...
+							N…RINE.
+							Ne se fait plus, et c'est Julie qu'il Èpouse.
+							JULIE.
+							Il vient tout prÈsentement de me demander ‡ mon pËre.
+							VAL»RE.
+							Et vous, Mademoiselle, qu'avez-vous dit ?
+							JULIE.
+							J'ai pleurÈ.
+							N…RINE.
+							Belle ressource ! Ne pouviez-vous pas au moins lui dire, que vous aimiez mieux un couvent ; et n'est-ce pas la premiËre chose qui dans le dÈsespoir, se prÈsente ‡ l'esprit d'une fille ?
+							JULIE.
+							Je n'en ai pas eu la force.
+							VAL»RE.
+							Et vous, aurez celle de lui obÈir ; et de me donner la mort ?
+							JULIE.
+							Non, ValËre : et si ma tante ne peut me garantir de ce malheur, je mourrai la premiËre.
+							N…RINE.
+							Fort bien. Vous allez l'un et l'autre au plus s˚r ; et si vous m'en croyez , vous vous tuerez tous les deux sur le champ,
+							VAL»RE.
+							Ah NÈrine ! Ne nous accable pas. T‚che plutÙt de nous servir.
+							N…RINE.
+							J'y rÍve y et je ne trouve rien. Oui, j'aimerais mieux avoir affaire ‡ vingt jeunes gens des plus mutins, qu'‡ deux vieillards faits comme Monsieur GÈronte et Monsieur Argante. J'avais comptÈ sur leur avarice ; ma foi j'y compte encore. Oui, vive NÈrine, cela rÈussira. …coutez, le PËre de Mademoiselle... Mais je l'entends tousser : laissez-moi faire, et allez m'attendre chez DorimËne, vous saurez bientÙt de mes nouvelles.
+				
+				SC»NE XV. GÈronte, NÈrine.
+				
+				
+							G…RONTE.
+							HÈ bien, NÈrine, que dit ma fille de son mariage ?
+							N…RINE.
+							D'abord elle n'en sentait pas tous les avantages : mais ‡ prÈsent elle m'en paraÓt satisfaite ; et je vous assure qu'elle aurait grand tort de ne l'Ítre pas.
+							G…RONTE.
+							Tu m'as toujours paru une fille raisonnable. Tu trouves donc que je fais-l‡ une bonne affaire ?
+							N…RINE.
+							Mais, c'est selon.
+							G…RONTE.
+							Qu'appelles-tu ? C'est selon. Sais tu bien que Monsieur Argante est riche de plus de deux cent mille Ècus ?
+							N…RINE.
+							Mon Dieu ! Je m'entends bien ; et je trouve comme vous que votre fille fait un excellent mariage.
+							G…RONTE.
+							HÈ bien ?
+							N…RINE.
+							Mais vous, Monsieur, je trouve que vous en faites un trËs mauvais.
+							G…RONTE.
+							Comment ?
+							N…RINE.
+							Vous mariez votre fille, et il ne vous en revient rien.
+							G…RONTE.
+							Que veux-tu dire ? Est-ce que tu voulais que je demandasse du retour ? Je la marie avec un homme riche : et cela sans dÈbourser un sou.
+							N…RINE.
+							C'est quelque chose.
+							G…RONTE.
+							N'est-ce ce pas ce que je pouvais faire de mieux ?
+							N…RINE.
+							Non, et je prÈtends qu'il devait vous faire un bon prÈsent.
+							G…RONTE.
+							Tu te moques, NÈrine, et jamais on n'a vu qu'un gendre fÓt un prÈsent ‡ son beau-pËre.
+							N…RINE.
+							Bon, ne voyez-vous pas tous les jours un frËre faire sa fortune, en mariant sa soeur.
+							G…RONTE.
+							Cela est vrai.
+							N…RINE.
+							N'Ítes-vous pas plus proche parent de votre fille, que si vous Ètiez son frËre ?
+							G…RONTE.
+							Tu as raison.
+							N…RINE.
+							Il est donc tout naturel que Julie vous vaille quelque chose.
+							G…RONTE.
+							Ma foi, plus naturel que je ne pensais.
+							N…RINE.
+							N'est-il pas ridicule qu'un honnÍte homme prenne la peine de faire de jolies filles, de les nourrir, de les entretenir, de se ruiner pour leur Èducation ; et le tout pour n'en tirer d'autre profit que celui de s'en dÈfaire, comme d'une mauvaise marchandise ?
+							G…RONTE.
+							TrËs ridicule : et c'est une chose que je me suis dit cent fois ‡ moi-mÍme.
+							N…RINE.
+							D'ailleurs, Monsieur, l'intÈrÍt de votre fille s'y trouve : et l'argent qu'on vous aurait donnÈ, e˚t profitÈ dans vos mains.
+							G…RONTE.
+							Je t'avoue que je suis trËs f‚chÈ de n'avoir pas fait toutes ces rÈflexions avant que d'avoir fait dresser les articles. On croit avoir gagnÈ le PÈrou en mariant sa fille sans dot ; et point du tout, ce n'est dans le fond qu'un mauvais marchÈ.
+							N…RINE.
+							Les articles ne sont rien, le contrat n'est point encore signÈ. Monsieur Argante adore votre fille, il en passera par tout ce que vous voudrez, vous n'avez qu'‡ tenir ferme : c'est moi qui vous en rÈponds. Tenez, puisqu'il faut tout vous dire, pas plus tard que ce matin, il me disait qu'il donnerait tout son bien pour possÈder Julie.
+							G…RONTE.
+							Que me conseille-tu de lui demander ?
+							N…RINE.
+							Cinquante mille Ècus.
+							G…RONTE.
+							Il ne les donnera pas.
+							N…RINE.
+							Je vous dis qu'il les donnera.
+							G…RONTE.
+							Tu ne sais donc pas que tout a ÈtÈ sur le point de manquer, parce qu'il demandait une somme considÈrable. Or juge si un homme qui ne voulait pas de ma fille sans dot, donnera cinquante mille Ècus pour l'avoir.
+							N…RINE.
+							Oui, Monsieur, il les donnera, vous dis-je, je connais Monsieur Argante. Il demandait une dot, vous l'avez refusÈe, il s'est f‚chÈ ; et enfin il est revenu. Vous lui demanderez cinquante mille Ècus, il vous refusera, se f‚chera, et reviendra.
+							G…RONTE.
+							Sais-tu bien, NÈrine, que je n'ai jamais entendu personne si bien raisonner !
+							N…RINE.
+							C'est que j'ai toujours bien vu que vous ne pouviez pas laisser aller votre fille, ‡ moins de cinquante mille Ècus.
+							G…RONTE.
+							Maintenant je le vois bien aussi, moi. Oh ! Oh ! Monsieur Argante ‡ votre ‚ge, il vous faut de jeunes hÈritiËres. Ah ! Parbleu vous les payerez. Adieu, NÈrine, je te suis obligÈ ; et je vais tout de ce pas songer au biais qu'il me faut prendre pour cette affaire.
+				
+				SC»NE XVI.
+				
+				
+							N…RINE.
+							Et nous, songeons ‡ fortifier notre batterie, Monsieur GÈronte voit tous les jours une certaine Araminte, qui n'a point d'autre mÈtier que celui d'Èpouser de vieilles gens. Monsieur Argante est homme ‡ prendre aisÈment l'alarme. Voil‡ prÈcisÈment ce qu'il me faut. Mais le voici ici-mÍme qui vient fort ‡ propos se prÈsenter ‡ mes filets.
+				
+				SC»NE XVII. Argante, NÈrine.
+				
+				
+							N…RINE, feignant de ne le point voir.
+							Ah ! Ma chËre MaÓtresse, Monsieur Argante vous Èpouse sans dot. Voil‡ un effort qui fait honneur ‡ vos charmes : pl˚t au Ciel qu'il ne fÓt point de tort ‡ votre fortune.
+							ARGANTE, ‡ part.
+							Que dit-elle de la fortune de Julie ?
+							N…RINE.
+							On devrait bien faire un exemple de ces cajoleuses de vieillards, qui enlËvent le bien des familles, ‡ la faveur de certains mariages et je ne sais comment.
+							ARGANTE, ‡ part.
+							Il y a l‡-dessous quelque chose.
+							N…RINE, continuant.
+							Monsieur Argante ne sait pas pourquoi votre pËre ne vous donne rien.
+							ARGANTE, se montrant tout a coup.
+							Tu le sais : dis-le moi.
+							N…RINE.
+							Ah Monsieur, qui vous croyait si prËs d'ici ?
+							ARGANTE.
+							NÈrine, tu sais quelque chose des affaires de Monsieur GÈronte ?
+							N…RINE.
+							Moi, Monsieur !
+							ARGANTE.
+							Oui, toi, ne me cache rien... Je t'ai entendu parler tout bas de Monsieur GÈronte, et de certaines cajoleuses...
+							N…RINE.
+							Je disais qu'il y a dans le monde certaines femmes, qui ont un talent tout particulier pour mener le coeur des vieilles gens.
+							ARGANTE.
+							Mais quel rapport cela a-t-il avec les affaires de Monsieur GÈronte ? Est-ce qu'il serait homme ‡ se laisser duper par quelqu'une de ces crÈatures ?
+							N…RINE.
+							Je ne dis pas cela. Mais comme il voit quelquefois une certaine Araminte.
+							ARGANTE.
+							Lui ? Araminte ! Cette femme qui est dÈj‡ veuve de trois maris ! Ah ! Ma chËre NÈrine, je suis trahi ; je la connais ; et jamais Monsieur GÈronte ne lui Èchappera. Je suis vendu, NÈrine ; et voil‡ un coup qui m'assomme.
+							N…RINE.
+							Tout ce que je vous en dis, Monsieur, n'est qu'une conjecture.
+							ARGANTE.
+							Diable ! Une conjecture qui n'est que trop vÈritable. Je ne suis plus surpris s'il n'a voulu rien assurer ‡ sa fille. Oui, NÈrine, il Èpousera Araminte ; et elle lui fera des enfants.
+							N…RINE.
+							Oh ! Monsieur, elle est trop honnÍte femme pour cela. Mais tout ce que vous pouvez faire pour vous mettre l'esprit en repos, c'est d'exiger de Monsieur GÈronte, qu'il vous donne cinquante mille Ècus, lesquels seront au moins ‡ couvert de tout f‚cheux accident.
+							ARGANTE.
+							C'est bien aussi ce que je prÈtends faire, et je vais tout de ce pas lui proposer la chose. Oh ! Parbleu, Monsieur GÈronte ; puisque vous pouvez vous marier avant que de mourir, il vous en co˚tera cinquante mille Ècus, ou point d'affaire.
+							N…RINE.
+							Mais au moins, Monsieur, gardez-vous bien de parler d'Araminte.
+							ARGANTE.
+							Ne crains rien.
+							N…RINE, seule.
+							Voil‡ mon stratagËme en bon train, et je me fais d'avance un plaisir de voir nos deux corsaires aux prises. Mais les voici tous deux, et je m'en vais bien rire.
+				
+				SC»NE XVIII. GÈronte, Argante, NÈrine.
+				
+				
+							G…RONTE, d'une voix tranquille.
+							Ah, Monsieur ! J'allais chez vous pour...
+							ARGANTE, d'un ton de voix brusque.
+							Et moi je viens pour...
+							G…RONTE.
+							Vous parler.
+							ARGANTE.
+							Vous entretenir.
+							G…RONTE.
+							Au sujet...
+							ARGANTE.
+							De mon mariage.
+							G…RONTE.
+							De votre mariage avec ma fille ?...
+							ARGANTE.
+							Apparemment... Monsieur GÈronte...
+							G…RONTE.
+							Monsieur Argante...
+							ARGANTE.
+							Quand on prend une femme...
+							G…RONTE.
+							Quand on donne sa fille.
+							ARGANTE.
+							Ce n'est pas...
+							G…RONTE.
+							Pour le seul plaisir...
+							ARGANTE.
+							D'avoir des enfants...
+							G…RONTE.
+							D'Ítre grand-pËre...
+							ARGANTE.
+							Ainsi donc...
+							G…RONTE.
+							C'est pourquoi...
+							ARGANTE.
+							Oh ! Faites-moi l'honneur de m'Ècouter.
+							G…RONTE.
+							Faites-moi celui de m'entendre.
+							ARGANTE.
+							On voit tous les jours des pËres se remarier.
+							G…RONTE.
+							On voit tous les jours des maris se ruiner par complaisance pour leurs femmes.
+							ARGANTE, en colËre.
+							Bref.
+							G…RONTE.
+							En un mot.
+							ARGANTE.
+							Je venais vous dire...
+							G…RONTE.
+							J'allais vous dÈclarer.
+							ARGANTE.
+							Que je ne prendrai point votre fille...
+							G…RONTE.
+							Que je ne donnerai point ma fille.
+							G…RONTE et ARGANTE ensemble.
+							¿ moins de cinquante mille Ècus.		Ils reculent tous les deux, et restent quelque temps a se regarder sans rien dire.
+							N…RINE, sur les ailes du ThÈ‚tre.
+							Les voil‡ comme deux termes.
+							ARGANTE, ‡ NÈrine.
+							C'est Araminte qui l'oblige ‡ me faire cette demande.		¿ GÈronte. Vous prÈtendez que moi qui prends votre fille, je vous donne cinquante mille Ècus ?
+							G…RONTE.
+							Vous voulez que moi, qui vous accorde ma fille, je vous donne cinquante mille Ècus, aprËs Ítre convenu que je ne donnerais rien ?
+							ARGANTE.
+							Si vous aviez voulu m'Ècouter, vous sauriez que j'ai fait mes rÈflexions.
+							G…RONTE.
+							Et moi les miennes.
+							ARGANTE.
+							Mais voyez un peu, je vous prie, quelle comparaison, et s'il y a quelque pays au monde o˘ l'on donne de l'argent ‡ un homme pour Èpouser sa fille.
+							G…RONTE.
+							Je ne sais ce qui se pratique dans les autres pays : mais ma fille ne sortira pas de ma maison, qu'on ne me remette cinquante mille Ècus.
+							ARGANTE.
+							Dont vous disposerez comme il vous plaira.
+							G…RONTE.
+							Comme vous ferez de ma fille tout ce qu'il vous plaira, dËs qu'elle sera votre femme.
+							ARGANTE.
+							[Note : Nantissement : S˚retÈ ; gage que donne une dÈbiteur ‡ son crÈancier en meubles, ou autres effets pour le paiement de don d˚. [F]]C'est-‡-dire que vous voulez cette somme en nantissement de Mademoiselle votre fille.
+							G…RONTE.
+							Vous appellerez cela tout comme vous voudrez. Mais ce que je sais bien, c'est que votre intÈrÍt s'y trouve, et que vous devriez m'en prier.
+							ARGANTE.
+							Moi ! Je devrais vous prier de prendre cinquante mille Ècus ?
+							G…RONTE.
+							Oui, Monsieur, et ce sera moins un don qu'un dÈpÙt qui vous reviendra comme le reste.
+							ARGANTE.
+							Oh ! Pour le coup, Monsieur GÈronte, je ne puis plus y tenir. Je vous entends. Il vous faudrait cinquante mille Ècus pour... Mais il suffit. Vous savez mes sentiments. Et je m'en tiens ‡ ma proposition.
+							G…RONTE.
+							Et moi ‡ la mienne.
+							N…RINE, ‡ part.
+							Voil‡ ma belle MaÓtresse en vente pour la somme de cinquante mille Ècus.
+							ARGANTE, ‡ NÈrine.
+							HÈ bien, NÈrine, que dis-tu du procÈdÈ de Monsieur GÈronte ?
+							N…RINE.
+							Que tout ce qu'il en fait n'est que pour se dispenser de donner les cinquante mille Ècus ; qu'il n'y a qu'‡ tenir ferme.
+							ARGANTE.
+							Vous me mettez le pied sur la gorge, Monsieur GÈronte, parce que j'ai le malheur d'aimer Julie. Mais... Adieu.
+							G…RONTE.
+							Je suis votre serviteur... Il reviendra.
+							ARGANTE, revenant.
+							Monsieur GÈronte... Vous allez vous en repentir.
+							G…RONTE.
+							¿ la bonne heure.
+							ARGANTE.
+							Vous ne savez pas que j'ai un mariage tout prÍt.
+							G…RONTE.
+							Ce sont vos affaires.
+							ARGANTE.
+							Que je puis laisser l‡ votre fille.
+							G…RONTE.
+							Vous Ítes le maÓtre.
+							ARGANTE.
+							Et, qui plus est... Èpouser votre soeur.
+							G…RONTE.
+							Ma soeur ?
+							ARGANTE.
+							Oui, votre soeur : et voil‡ Monsieur Subtil, mon fidËle notaire, qui pourra vous en dire des nouvelles.
+							N…RINE, ‡ part.
+							Et nous allons avertir DorimËne de ce qui se passe.
+				
+				SC»NE XIX. GÈronte, Argante, Monsieur Subtil, Monsieur Courte-Ligne.
+				
+				
+							MONSIEUR SUBTIL, ‡ Argante.
+							Voici, Monsieur, votre contrat avec DorimËne.
+							MONSIEUR COURTE-LIGNE, ‡ GÈronte.
+							[Note : Seing privÈ : Signature qui n'a point ÈtÈ faite en prÈsence d'un officier public. [L] Un billet sous seing privÈ ne porte point d'hypothËque jusqu'‡ ce qu'il soit reconnu. [F]]Je vous apporte, Monsieur, le contrat de votre fille avec Monsieur Argante. Tous deux ‡ la fois. Il n'y manque que le seing des parties contractantes.
+							G…RONTE.
+							Dites-moi, Monsieur Argante, est-ce l‡ le procÈdÈ d'un honnÍte homme, d'avoir deux contrats de mariage ‡ la fois ?
+							ARGANTE.
+							Dites-moi, Monsieur GÈronte , est-ce l‡ l'action d'un gentilhomme, d'embarquer les gens pour se moquer d'eux ; et de leur vouloir faire acheter votre fille plus cher qu'une charge de secrÈtaire du Roi ?
+							G…RONTE.
+							Les trente-mille livres de rente de ma soeur vous ont donnÈ dans la vue, Monsieur Argante ; mais vous n'en Ítes pas encore o˘ vous croyez. C'est elle que je vois ; et je m'apprÍte ‡ lui bien laver la tÍte.
+				
+				SC»NE XX. Les Acteurs prÈcÈdents, DorimËne et Julie.
+				
+				
+							ARGANTE, ‡ part.
+							Julie est avec elle, fermons les yeux.
+							G…RONTE.
+							Oh ! Parbleu, Madame, on vient de m'apprendre de belles choses.
+							DORIM»NE.
+							De quoi s'agit-il, mon frËre ?
+							G…RONTE, ‡ part, ‡ DorimËne.
+							Comment, ma soeur, vous ne vous contentez pas de ne rien faire pour votre niËce, il faut encore que vous nous fissiez manquer notre fortune, en Èpousant Monsieur Argante ?
+							DORIM»NE.
+							Se peut-il que vous me croyez assez folle pour cela, et ne voyez-vous pas que tout ce que j'en ai fait, n'Ètait qu'un jeu pour retarder le mariage de ma niËce ?
+							ARGANTE.
+							Ouf.
+							DORIM»NE.
+							Oui, mon frËre, j'ai toujours cru que vous rompriez tÙt ou tard avec Monsieur Argante , et je n'attendais que ce moment pour vous dÈclarer que c'est moi, qui me charge de donner ‡ Julie les cinquante mille Ècus qui causent votre dÈbat, pourvu qu'on me laisse disposer de sa main.
+							ARGANTE.
+							C'en est fait, et je vais Ítre sacrifiÈ.
+							G…RONTE.
+							Ces cinquante mille Ècus sont pour ma fille, je n'y gagne rien. Cependant comme c'est vous ma soeur qui voulez faire le mariage, je renonce ‡ mes prÈtentions, et je veux bien ne rien exiger pour moi.
+				
+				SC»NE XXI. Les Acteurs prÈcÈdents, ValËre.
+				
+				
+							DORIM»NE.
+							ValËre, paraissez. Mon frËre voil‡ l'Èpoux que je donne ‡ ma niËce.
+							G…RONTE.
+							Je connais sa maison ; et son alliance m'est chËre.
+							DORIM»NE.
+							Allons, mon FrËre, entrons dans mon appartement. Monsieur a peut-Ítre quelque nouveau contrat ‡ passer avec Monsieur Subtil. Et vous, Monsieur Courteligne, suivez-moi, nous aurons besoin de vous.
+							G…RONTE, ‡ Argante.
+							[Note : Bagatelle : Chose de peu de prix et peu nÈcessaire. [FC]]J'espËre, Monsieur, que cette bagatelle n'empÍchera pas que nous ne soyons toujours amis ?
+							N…RINE, ‡ Argante.
+							Je suis bien f‚chÈ, Monsieur, que vous soyez sans femme, et que l'excËs de mon zËle en soit la cause.
+				
+				SC»NE XXII ET DERNI»RE. Monsieur Argante, Monsieur Subtil.
+				
+				
+							MONSIEUR SUBTIL.
+							Qui me payera mon contrat ?
+							ARGANTE.
+							Le grand Diable d'enfer. Le plus ancien de mes amis veut m'Ègorger : ma maÓtresse me sacrifie : la femme du monde que j'estimais le plus, me joue un tour abominable : jusqu'‡ une coquine de soubrette, tout m'insulte, tout me trahit : et je vois mieux que jamais qu'il n'y a rien de solide que l'argent.
+	==================================================

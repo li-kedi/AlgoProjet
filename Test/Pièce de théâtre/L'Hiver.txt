@@ -1,0 +1,934 @@
+********************************************************
+	DC.Title                  = L'HIVER, COM…DIE.
+	DC.Author                 = AbbÈ d'ALLAINVAL
+	DC.Creator                = FIEVRE, Paul
+	DC.Publisher              = FIEVRE, Paul
+	DC.Subject                = ComÈdie
+	DC.Subject.Classification = 842
+	DC.Description            = Edition du texte citÈ en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = 
+	DC.Date.Issued content    = 
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 08/05/2020 ‡ 13:02:12.
+	DC.Coverage               = France
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/documents/ALLAINVAL_HIVER.xml
+	DC.Source                 = http://gallica.bnf.fr/ark:/12148/bpt6k5814947z
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = ThÈ‚tre Classique, (creative commons CC BY-NC-ND)
+***************************************************************
+
+L'HIVER
+COM…DIE en TROIS ACTES avec un PROLOGUE
+ReprÈsentÈe pour la premiËre fois par les ComÈdiens Italiens ordinaires du Roi, le 19 fÈvrier 1753.
+M. DCC. XXXIII.
+par M. d'ALLAINVAL
+
+
+ReprÈsentÈe la premiËre fois le 19 fÈvrier 1733, au ThÈ‚tre de l'HÙtel de Bourgogne.
+
+PERSONNAGES
+L'HIVER.
+COMUS.
+L'HYMEN.
+LE PHARAON.
+LE BAL.
+LA MODE.
+LA M…DISANCE.
+LA VOLUPT….
+HECTOR CRIQUET.
+BACCHUS.
+Les Jeux et les Ris de la Suite de l'Hiver.
+La scËne est ‡ Paris.
+
+
+
+			L'HIVER
+
+
+
+				
+				SC»NE PREMI»RE.
+				
+				
+							L'HIVER seul, en habit fourrÈ site un manchon.
+							Des vrais plaisirs, unique asile ;Paris, c'est l'Hiver que tu vois :Las de rÈgner au Nord, il vient, heureuse Ville,Dans tes murs enchanteurs, se dÈlasser trois mois.Ne tremble point ‡ voir mes neiges et mes glaces,
+									Au rÙle de Vieillard le fort m'a condamnÈ,Mais le Printemps, malgrÈ sa jeunesse et ses gr‚ces,N'en est pas moins mon frËre aÓnÈ.Bacchus, les Ris, les Jeux, sont toujours sur mes traces,[Note : Barbon : vieillard qui est revenu de tous les plaisirs de la jeunesse, qui les condamne et qui les empÍche autant qu'il peut. [F]]Et sous cet attirail barbon,
+									[Note : Vert galant : jeune homme sain, et vigoureux, qui est propre ‡ l'amour. [F]]J'ai le coeur vert-galant, enjouÈ, vif, aimable ;J'ai toujours bon vin, bonne table,Et je n'ai pas toujours les mains dans mon manchon.
+				
+				SC»NE II. L'Hiver, Comus.
+				
+				
+							L'HIVER.
+							Mais j'aperÁois Comus, charmant Dieu de la joie.
+							COMUS.
+							Dieu de l'Hiver, c'est vous ? Quoi dÈj‡ de retour ?
+									Quel bon vent sitÙt vous renvoyÈ ?
+							L'HIVER.
+							Le dÈsir de revoir dans ce riant sÈjour,De toutes parts cent beautÈs rÈunies,Et tant de fol‚tres gÈniesQui parleurs traits badins Ègayeront ma Cour.
+									
+							COMUS.
+							Mais ‡ propos de Cour, je n'y vois point paraÓtreMes enfants, les Jeux et les Ris :Ils vous suivent toujours, peut-Ítre ?
+							L'HIVER.
+							Oui, Comus, ils seront sur le soir ‡ Paris ;Mais pourras-tu les reconnaÓtre ?
+									
+							COMUS.
+							Comment ?
+							L'HIVER.
+							Par l'air du Nord, ils sont plus engourdis,Qu'un Èpais Seigneur de finance.
+							COMUS.
+							Et pour avoir trop vu le bon Bacchus, je pense ?
+							L'HIVER.
+							Mais... Oui ; car vivre, est boire en ces pays.
+									
+							COMUS.
+							Ah les petits vilains ! Quoi malgrÈ ma dÈfense...Ah patience, patience,Je vous les rends ce soir plus vifs, plus Ètourdis ;Qu'un Petit MaÓtre o˘ de robe ou d'ÈpÈe.
+							L'HIVER.
+							Appelles-tu cela les mettre ‡ la raison ?
+									Mais m'as-tu fait une maison ?
+							COMUS.
+							Votre attente n'est point trompÈe ;J'ai dÈj‡ retenu quatre gros cuisiniers,Fiers, brillants d'embonpoint, plaignants peu les dÈpenses.Professeurs en leur art : ils ont pris leurs licences
+									Chez de riches fermiers.
+							L'HIVER.
+							Peste la bonne Ècole !
+							COMUS.
+							Item quatre Officiers.Qui chez des DÈvots mÈmo ont fait des confitures.Es-ce l‡ prendre ses mesures ?
+									
+							L'HIVER.
+							¿ merveille !
+							COMUS.
+							Tubleu, je me connais en gens !
+							L'HIVER.
+							Voil‡ ma table assez bien Ètablie ; Mais pour d'autre plaisirs du moins aussi piquants,Comus, de tes heureux talents,
+									Que puis-je espÈrer je te prie ? Car avec toi je n'en sais pas le fin,Je viens ici mener une joyeuse vie.
+							COMUS.
+							Vous Ítes un vieux libertin,Et vous ne serez jamais sage :
+									Aussi tous ces Guerriers vous aiment ‡ la rage.
+							L'HIVER.
+							Du moins avec regret ils me quittent toujours.
+							COMUS.
+							C'est que vous les menez pleins d'honneurs et de joie,Dans de certains quartiers o˘ les mains des AmoursFilent pour eux des jours d'or et de joie.
+									
+							L'HIVER.
+							Condamnes-tu mon penchant amoureux ?
+							COMUS.
+							Moi ? Vous ne me connaissez guËre.Livrez-vous aux plaisirs, l'Hiver est fait pour eux ;Vous valez mieux que pas un de vos frËres.
+							L'HIVER.
+							Oui ma foi.
+									
+							COMUS.
+							Le Printemps est fade, doucereux,…talant partout les fleurettes ;Vous diriez d'un AbbÈ qui d'un air langoureux¿ son AgnËs soupire des sornettes.
+							L'HIVER.
+							Et l'EtÈ?
+									
+							COMUS.
+							[Note : Flandrin : Sobriquet que l'on donne aux hommes ÈlancÈs. C'est un grand flandrin. Il est du style familier. [Ac]]C'est un grand flandrin,[Note : Robin : Terme de dÈnigrement. Homme de robe. [L]]Plus endormi mille fois qu'un robin,Que le moindre travail, la plus petite peine,Met en sueur, ou hors d'haleine.
+							L'HIVER.
+							Mais, pour l'Automne ?
+									
+							COMUS.
+							Ah si ; son mÈrite est son vin ;Et s'il faut qu'‡ vous je m'explique,C'est un ivrogne, et des plus reconnus.
+							L'HIVER.
+							¿ propos d'ivrognes : Comus,M'as-tu bien retenu des suppÙts de Musique.
+									
+							COMUS.
+							Le concert a voulu se traÓner jusqu'ici,Mais il Ètait si faible et si transi,Qu'il est mort de froid sur la route.
+							L'HIVER.
+							Mais j'aurai des comÈdiens ?
+							COMUS.
+							Si vous en aurez ? Oui sans doute ; 
+									Des FranÁais, des Italiens ;[Note : Phoebus : dieu fabuleux de l'AntiquitÈ, qui est le mÍme qu'Appolon ou le Soleil, frËre de Diane. [F]]Pour les FranÁais, Phoebus mÍme s'emploie.
+							L'HIVER.
+							Pour obliger ce Dieu, je les prends avec joie.
+							COMUS.
+							[Note : Momus : Dieu de la raillerie et des bons mots, fils du Soleil et de la Nuit, selon HÈsiode. [B]]Pour les Italiens Momus vous parlera,Et Mercure pour l'OpÈra.
+									
+							L'HIVER.
+							¿ la bonne heure.
+							COMUS.
+							Enfin, Seigneur, c'est une rageComme l'on montre des dÈsirsDe travailler ‡ vos plaisirs ;Grands et petits briguent cet avantage,
+									Usuriers, beautÈs de tout ‚ge.Combien d'originaux je vous ai retenus !PoËtes, charlatans, danseuse blonde et brune,[Note : Camus : on dit proverbialement qu'un homme est bien camus (...) pour dire qu'il a ÈtÈ bien trompÈ, qu'il est dÈchu de ses prÈtentions, qu'il est bien honteux. [F]]Plaideurs dÈsoeuvrÈs et camus,Coquette surannÈe aboyant ‡ la lune :
+									[Note : Grotesque : figure capricieuse de peintre, de sculpteur, de graveur, qui a quelque chose de ridicule, d'extravagant, de monstrueux, telles que sont celles dont on pare les grottes. [F]]Plus un peintre en grotesque ; il peint les parvenus.
+							L'HIVER.
+							Mais aurai-je une femme?
+							COMUS.
+							Il en est venu milleMais vous Ítes si difficile...
+							L'HIVER.
+							Moi difficile ? non, Comus,
+									[Note : Affetterie : les paroles et les actions d'une personnes affÈtÈe, c'est ‡ dire qui agit en affectant une maniËre coquette et trop effÈminÈe. [F]]Je veux de la beautÈ ; mais sans affetterie,Des gr‚ces sans minauderie ;[Note : Coquetterie : affectation de plaire pour se faire aimer. [F]]De la gaietÈ, mais sans coquetterie ;De l'esprit, mais sans prÈcieux;De la vertu, mais sans rudesse.
+									
+							COMUS.
+							Une femme de cette espËce,Est rare mÍme dans les cieux ;J'espËre encor pourtant, et dans ces lieuxIl en est qui sauront vous plaire.
+							L'HIVER.
+							Mais on vient.
+									
+							COMUS.
+							C'est quelqu'un qui cherche de l'emploiDans votre cour.
+							L'HIVER.
+							C'est ton affaire ;Je le laisse avec toi :Je vais me dÈlasser un instant du voyage,Tu peux le renvoyer ou bien le recevoir,
+									Cher intendant ; mais songe ‡ me pourvoir.		Il s'en va.
+				
+				SC»NE III. Comus, L'Hymen.
+				
+				L'hymen est habillÈ de jaune de la tÍte aux pieds ; il a un bonnet qui se termine en croissant.
+
+							COMUS.
+							Mais, que vois-je ? L'Hymen, le Dieu du mariage ?
+							L'HYMEN.
+							Tu vois, Comus : l'Hiver est, dit-on, en ces lieux.
+							COMUS.
+							Oui, les vents, ses porteurs, l'ont mis sur ce rivage. Il arrive ‡ l'instant.
+									
+							L'HYMEN.
+							Tant mieux ;MÍme on dit qu'il a pris : quelque go˚t pour la noce ?
+							COMUS.
+							Oui, d'en t‚ter trois mois, il serait curieux ;Comme les gens de guerre il Èpouse en tous lieux.
+							L'HYMEN.
+							Ventrebleu, le joli nÈgoce !
+									
+							COMUS.
+							Mais, te voil‡ bien habillÈ !On le voit bien, fripon, vous hantez les Notaires.
+							L'HYMEN.
+							Ah ! C'est depuis que je me suis brouillÈAvec l'amour, j'en fais mieux mes affaires.
+							COMUS.
+							Comment donc ?
+									
+							L'HYMEN.
+							Avec lui je ne finissais rien ;Pendant un siËcle il faisait des mystËres ;Avant qu'il me permÓt d'unir dans mon lienUn amant avec sa maÓtresse.Sont-ils Ègaux, disait-il, en noblesse,
+									En ‚ge, en bien,Et leur humeur se convient-elfe ?Sentent-ils l'un pour l'autre une ardeur mutuelle ?
+							COMUS.
+							Bon ! C'est bien de cela dont il est question !L'Amour aima toujours la bagatelle.
+									
+							L'HYMEN.
+							Quand il voulait sans moi faire quelque union ;Il ne lanternait point, il allait au fait, zeste ;PrÈsentement je viens, je vois, j'unis.
+							COMUS.
+							La peste.
+							L'HYMEN.
+							Quand il s'agit de matrimonion
+									L'homme doit brusquer l'aventure.
+							COMUS.
+							Sans doute.
+							L'HYMEN.
+							[Note : Plutus : dieux des Richesses. [F]]Avec Plutus je suis associÈ.
+							COMUS.
+							Autre aveugle : ma foi, te voila bien liÈ !Mais, notre cher Hymen, selon ce que j'augure
+									Tu n'aimes pas les clairs-voyants.
+							L'HYMEN.
+							Plutus a maintenant un carquois et des flËches,Et tous ses coups sont surprenants.
+							COMUS.
+							Ce n'est pas dans les coeurs qu'ils vont faire des brËches.
+							L'HYMEN.
+							Par ses ordres j'unis.
+									Avec l'adolescent l'antique douairiËre ;¿ l'aimable tendron, l'Èpoux sexagÈnaire ;Et le vÈritable Marquis,Avec la fille du commis.En vain la vertu toute nue,
+									Mais de mille charmes pourvue,¿ son secours m'appelle nuit et jour ;¿ ses soupirs je fuis plus sourdQu'un secrÈtaire,Qu'un plaideur, la main vide, instruit de son affaire.
+									
+							COMUS.
+							Diantre !
+							L'HYMEN.
+							Ce n'est pas tout.
+							COMUS.
+							Que fais tu donc de pis ?
+							L'HYMEN.
+							L'Amour aime les gens de guerre ;Pour me venger de ses mÈpris.Je les barre par toute terre.
+									Quand j'en vois un qui veut se marier,Aux parents de la fille alors je cours crier ;Prendre un guerrier pour gendre, hÈlas ! c'est prendre un maÓtre ;BientÙt ‡ vos dÈpens il le ferait connaÓtre :Il vous tourmenterait et vous et vos fermiers,
+									Vous verriez votre bien passer aux usuriers ;Cependant votre fille en un triste villageVivrait ‡ peu de frais, pour qui ? Pour un volageQui loin d'elle en tous lieux, plein d'une folle ardeur¿ d'autres porteront et ses voeux et son coeur ?
+									Il reviendrait un jour, victime de la guerre ;Sans jambes et sans bras, avec un oeil de verre ;Le beau meuble, Messieurs, pour sa jeune moitiÈ,Qu'un pauvre Èpoux qui ne fait que pitiÈ !Oh je n'achËte pas cher un invalide,
+									RÈpondent les parents, que l'avis intimide;Entre l'amour et moi jamais de paix ;Pour les guerriers, jamais de mariage.
+							COMUS.
+							De sa mauvaise humeur l'Amour les dÈdommage,Et le plus souvent ‡ tes frais.
+									Ami, retire-toi, je vois une brunetteQui vient apparemment pour Èpouser l'Hiver.
+							L'HYMEN.
+							Pour l'Èpouser ? Quoi son empletteN'est pas faite ?
+							COMUS.
+							Non, il ne veut rien prendre en l'air.
+									
+							L'HYMEN.
+							Pour un bail de trois mois, c'est Ítre difficile.[Note : Iris : divinitÈ fabuleuse des Anciens, que les poËtes ont feint Ítre la messagËre de Junon. [F]]Je laisse avec toi cette Iris.Quand je pourrai vous Ítre utile,J'ai mon temple ‡ deux pas dans un champ de soucis.
+				
+				SC»NE IV. Comus, La Mode.
+				
+				
+							LA MODE, sautant au col de Comus.
+							Cher Comus, que je vous embrasse.
+									
+							COMUS, la repoussant.
+							Comment donc, s'il vous plaÓt ?
+							LA MODE.
+							Quoi ! Vous me rebutez ?
+							COMUS.
+							Vous avez l'abord tendre.
+							LA MODE voulant l'embrasser.
+							En vain vous rÈsistez.
+							COMUS la repoussant encore.
+							Madame finissez, de gr‚ce.
+									
+							LA MODE.
+							Comment, Dieu de la joie, et quel accueil glacÈ ?
+							COMUS.
+							Embrasse-t-on les gens sans les connaÓtre ?
+							LA MODE.
+							Sans les connaÓtre ? Moi ? vous vous moquez peut-Ítre.¿ la Cour de l'Hiver, je vous vis l'an passÈ.
+							COMUS.
+							Non, je ne vous vis de ma vie.
+									
+							LA MODE vivement et gaiement.
+							Quoi tout de bon ?
+							COMUS.
+							Tout de bon.
+							LA MODE.
+							Quel plaisir !Comus me mÈconnaÓt, j'en ai l'‚me ravie. 		Elle rit comme une folle.
+							COMUS la considÈrant.
+							Quel vertigo vient la saisir ?Un manchon d'une main, un Èventail de l'autre ?Elle a l'esprit troublÈ, je ne m'y mÈprends plus.
+									
+							LA MODE.
+							Comus me mÈconnaÓt, quelle gloire est la nÙtre !Que vous me charmez, cher Comus,Et que ce compliment est flatteur, agrÈableC'est mon mÈrite ‡ moi d'Ítre mÈconnaissable :Je change tous les jours,
+									Au moindre vent d'habit et de visage,D'esprit, de geste, de discours,De caprices, d'humeur, sans en Ítre plus sage ;Incessamment je cours du blanc au noir ;Ce qui me plaÓt ce soir.
+									Me dÈplaira demain, j'en suis certaine.
+							COMUS.
+							Mais votre nom ?
+							LA MODE.
+							Il vous est bien connu ;Je suis la mode.
+							COMUS.
+							Oui, qu'il vous en souvienne,
+									DivinitÈ parisienne ;Fille de la folie et du premier venu.
+							COMUS.
+							Qui diable vous e˚t devinÈe ?
+							LA MODE.
+							Depuis neuf moisVous me trouvez donc bien changÈe ?
+							COMUS.
+							Plus extravagante cent fois.
+									
+							LA MODE lui faisant une profonde rÈvÈrence.
+							Comus peut-Ítre me cajole,Sa politesse...
+							COMUS.
+							Ah croyez-moi,Quoique intendant je suis de bonne foi,Je ne vous vis jamais si folle,
+									Vous charmerez l'Hiver sur ma parole.
+							LA MODE.
+							Oh vraiment je l'ai bien comptÈ,Je me sens l‡-dedans une vivacitÈ :Et mille inventions cornues :Le pauvre Dieu d'Hiver, au milieu de sa cour,
+									Avec moi sera chaque jourComme tombÈ des nues ;Mon plan est dÈj‡ tout dressÈ.
+							COMUS.
+							De gr‚ce, tracez-m'en une lÈgËre image.
+							LA MODE.
+							Volontiers. Par exemple il laissa l'an passÈ
+									Les MÈdecins en lugubre Èquipage,En habit noir, manteau, rabat, petits cheveux.Le sourcil sombre et tÈnÈbreux,L'accueil farouche ; enfin toutes les marquesQui doivent distinguer les ministres des Parques.
+									
+							COMUS.
+							Ils tutoient du coup d'oeil.
+							LA MODE.
+							Je les ai dÈguisÈsEn Adonis ; j'ai mis leurs personnes charmantes ;Sous les couleurs les plus brillantes.Ils sont brodÈs , poudrÈs, frisÈs,Ils ont des teints fleuris, des yeux vifs, des voix claires
+									Comme des courtisans, mÍme des airs aisÈs :Enfin vous les croiriez d'aimables mousquetaires,S'ils n'Ètaient pas un peu trop empesÈs ;Bref, la seringue et la lancette en FranceVont aujourd'hui sous le velours.
+									
+							COMUS.
+							Ces Charlatans sont gens sans consÈquence.
+							LA MODE.
+							Ces MÈdecins chez eux tapis comme des Ours ;Lisaient des bouquins Grecs, Arabes...
+							COMUS.
+							Ils en tiraient cent barbares syllabesDont ils Èblouissaient les gens.
+									
+							LA MODE.
+							[Note : Gazette : petit imprimÈ, cahier, feuille volante, qu'on dÈbite toutes les semaines, qui contient des nouvelles de toutes sortes de pays. [F]]Je leur fais lire ‡ prÈsent les Gazettes,Les Livres de bons mots, et les nouveaux Romans :[Note : v. 278, on lit ´†farois†ª, nous remplaÁons par ´†fÈru†ª.]Ils sont toujours fÈru de chansonnettes,De Brevets de Calotte ; et de telles sornettes ;[Note : Caquet : Abondance de paroles inutiles qui n'ont point de soliditÈ. [F] ]De caquets du quartier ; d'un malade aux abois,
+									Ils vont en Ègayer l'oreille.
+							COMUS.
+							Et les guÈrirent-ils ?
+							LA MODE.
+							Serait-ce donc merveille ?On les en voit rater tout autant qu'autrefois.
+							COMUS.
+							Qu'appeliez-vous rater ?
+							LA MODE.
+							GuÈrir, c'est mÍme chose. HÈ bien, que dites-vous de la mÈtamorphose ?
+									
+							COMUS.
+							Vous Ítes trop plaisante, et l'Hiver en rira.
+							LA MODE.
+							C'est le moindre des tours que ma gaietÈ projette.
+							COMUS.
+							Avez-vous des suivants avec ces travers-l‡ ?
+							LA MODE.
+							Une femme plutÙt voudrait Ítre coquetteQue de n'Ítre pas ma sujette.
+									
+							COMUS.
+							Vous changez si souvent de go˚t, que quelque jourPour le mÈrite enfin vous prendrez de l'amour.
+							LA MODE.
+							J'en ai voulu t‚ter ; Misanthrope incommode,Il contrÙlait toutes mes actions,Il voulait rÈprimer toutes mes passions.
+									Oh vive un pied plat pour la mode,Il ne connaÓt la honte, ni l'honneur,'Mes caprices font son bonheur.
+							COMUS.
+							Vous en jouez comme d'une pagode.
+							LA MODE, follement.
+							¿ propos je vous quitte, et je cours de ce pas...
+									
+							COMUS.
+							DÈj‡ ? Quelle importante affaire...L'Hiver est arrivÈ, vous avez des appas,Il pourrait pour Èpouse...
+							LA MODE.
+							Oh je n'Èpouse pas.Je reviendrai, je cours dire ‡ ma couturiËre,Que l'habit que tantÙt j'avais imaginÈ,
+									Me paraÓt dÈj‡ vieux pour le go˚t et l'ouvrage !¿ tantÙt, cher Comus.		Elle part en courant.
+							COMUS.
+							Soyez toujours bien sage...Mais que cherche ce forcenÈ.
+				
+				SC»NE V. Comus, Le Pharaon.
+				
+				
+							LE PHARAON, mal habillÈ et enveloppÈ dans un manteau courant sur le thÈ‚tre.
+							O˘ suis-je... o˘ me cacher... Ah gr‚ce...
+											Il se jette ‡ genoux tournÈ vers le cÙtÈ d'o˘ il vient de sortir.Messieurs, je vous quitte la place ;Vous ne me verrez plus ici sur mon honneur ;Je sors de Paris dans une heure,Ou je meure.
+							COMUS.
+							Tout Dieu que je me sens, ce drÙle me fait peur,
+									C'est sans doute un voleur.
+							LE PHARAON, se rassurant.
+							Mais du Dieu de l'Hiver c'est ici la demeure ;Et j'aperÁois Comus, Bonjour Seigneur...Quoi vous, tremblez ! Allons qu'on se rassure, Je suis un Dieu d'honneur, un Dieu Gascon ;
+									Je m'appelle le Pharaon.
+							COMUS.
+							Le Pharaon ! Quelle triste aventure,Vous a poursuivi jusqu'ici ?
+							LE PHARAON.
+							Vous en allez Ítre Èclairci.Ci-devant dans toutes les rues
+									J'avais des Temples ‡ Paris,O˘ de mes zÈlÈs favoris,Je voyais chaque jour accourir les recrues ;Parieurs dÈlitª, par leurs clameurs,Par leurs craintes, par leurs fureurs,
+									Par leur dÈsespoir, par leur rage,Par d'horribles contorsions,Et par mille imprÈcations,Ils m'exprimaient leur tendre hommage.
+							COMUS.
+							Le beau style, le beau langage ! 
+									
+							LE PHARAON.
+							Tout mes honneurs aujourd'hui font cessez, Tous mes Temples sont renversÈs,Je n'ai pas un grenier, je n'ai pas une cave,Pas un seul trou pour me fourrer.Partout mon ennemi me brave, 
+									Et me vient dÈterrer ;Voyez, jugez par mon dÈsordre. Il entrouvre son manteau.
+							COMUS.
+							Cet ennemi quel est-il ?
+							LE PHARAON.
+							Le bon ordre,Un Dieu qui voir plus clair qu'Argus.
+									Four m'Èchapper de lui, mes soins sont superflus,Son nez lut dit o˘ je puis Ítre :'Tout ‡ l'heure il m'avait barrÈ tous les chemins,Et je n'ai pu me sauver de ses mainsQu'en me jetant par la fenÍtre.
+									
+							COMUS.
+							Je plains l'Ètat o˘ vous voil‡.
+							LE PHARAON.
+							Tous pourriez rÈparer ce mal...
+							COMUS.
+							Comment cela ?
+							LE PHARAON.
+							¿ l'Hiver faites moi connaÓtre ;Qu'il me loge pour grand merci,Je vous divertirais...
+							COMUS. 
+							Eh de quelle maniËre ?
+									
+							LE PHARAON.
+							Et tandis par mon savoir-faire.Vous verriez arriver ici,En cortËge nombreux, en brillant Èquipage; Un Marquis du bel air, riant et sans souci ;DËs qu'il m'aurait fait son hommage, 
+									Vous l'en verriez sortir triste, p‚le, transi ;La fureur dans la bouche, et la vue ÈgarÈeSans Marquisat, ‡ pied et sans bijoux, sans livrÈe ;[Note : Cadedis : Jurement qu'on met habituellement dans la bouche des Gascons. [L]]Je donnerais le tout au premier Cadedis.Vous verriez la Comtesse aimable
+									Qui montre pour mon culte un zËle infatigable ,Me sacrifier tout, bagues, joyaux de prix,Meubles.... enfin jusques ‡ ses habits.
+							COMUS.
+							Et garder assez mal le reste.
+							LE PHARAON.
+							Pour orner mes autels la chicane funeste
+									Souvent immolerait la veuve et le mineur, Et le Marchand impitoyable,M'apporterait avec ardeur,Ce qu'une usure abominable,Lui ferait arracher au prodigue Seigneur.
+									
+							COMUS.
+							Le tout irait souvent aux mains d'un misÈrable.
+							LE PHARAON.
+							Bref ; ‡ Plutus il faut des dix, vingt ans,Pour mÈtamorphoser des laquais en traitants ;Pour changer un faquin en homme d'importanceJe ne demande, moi, qu'un jour, moins quelquefois.
+									
+							COMUS.
+							Cet habit prouve mal votre rare science ;Pour faire croire vos exploitsVous Ítes, notre ami, trop mal dans vos affaires.
+							LE PHARAON.
+							Vous en Ítes surpris ? HÈ donc ! Depuis un mois ;J'ai passÈ par les mains de quatre Commissaires :
+									Mais vous allez m'arracher de ce pas ;¿ l'Hiver menez-moi tirer ma rÈvÈrence.
+							COMUS.
+							Qui ? Moi, non ne l'espÈrez pas.Si vous ne faisiez connaissanceQu'avec des gens d'usure ou de finance,
+									L'Hiver vous verrait volontiers. [Note : Une rature remplace "jusqu'" par "jusques"]Plumer jusques au vif ces vautours de la France.Mais il vient ici des guerriersDont nous chÈrissons la prÈsence ;Vous voudriez d'abord vous lier avec eux :
+									De votre adresse infortunÈe,Et de votre commerce affreux,Ils mordraient les doigts le reste de l'annÈe.Allez ailleurs chercher fortune.
+							LE PHARAON.
+							Eh du moins attendez qu'il soit un peu plus tard ;
+									Je me sauverai sur la brune,Chez quelque Comte de hasard.
+							COMUS.
+							Non sans rÈplique et sans excuse,Sortez vite...
+							LE PHARAON.
+							Ha ha ha.
+							COMUS.
+							Vous riez ?
+							LE PHARAON.
+							Oui, ma foi.Vous croyez me f‚cher, et vous Ítes bien buse,
+									Car vous y perdez plus que moi.Avec un Intendant, je sais comme on en use,D'un pot de vin, en bel argent comptant,J'aurais payÈ votre entremise ;Vous me regretterez, et je pars ‡ l'instant :
+									Je vais faire briller mon mÈrite ‡ Venise,O˘ Mons du Carnaval m'attend. 		Il s'en va. Et aprËs quelques pas il se dÈtourne.Ah !... Vous me rappelez ?...
+							COMUS.
+							Qui, moi ? Je vous rappelle ?
+							LE PHARAON.
+							Oui, vous jouez de la prunelle :Vous voudriez raccrocher mes Ècus,
+									[Note : Sandis : EspËce de jurement gascon. Sang, et dis pour Dieu. [L]]Sandis ; vous ne me tenez plus ;Aux regrets, je vous abandonnes.Une autre fols soyez moins fier, Comus,Avec un Dieu de la Garonne.
+							COMUS.
+							Le coquin ! Son sang-froid m'Ètonne.
+									
+				
+				SC»NE VI. Comus, Le Bal en domino nouÈ sur le cÙtÈ, un masque ‡ la main.
+				
+				
+							LE BAL dansant et chantant.
+							La, la, la, la, la, la, la, la.
+							COMUS.
+							Ah le bel enfant que voil‡ !
+							LE BAL.
+							La, la, la,la, la, la, la, la.
+							COMUS.
+							Cette gaietÈ, ce beau visage,Et cette taille faite au tour,
+									M'annoncent sans doute l'Amour ?
+							LE BAL.
+							Qui, moi l'Amour ? Fi donc ; ce brillant ÈtalageAnnonce-t-il un pauvre Dieu,Qui n'ayant plus ni feu ni lieuEst contraint de vivre au Village ?
+									
+							COMUS.
+							Il est vrai de l'Amour, le Champs sont l'apanage.
+							LE BAL.
+							Le jour que je naquis, que j'excitai de ris ! Car tout l'Olympe Ètait en fÍte,Et de me voir l'Hymen fut si surpris.Que les cornes soudain lui vinrent ‡ la tÍte.
+									
+							COMUS.
+							Mais qui donc Ítes-vous ? Peste !
+							LE BAL.
+							Du Carnaval,Je suis fils naturel et frËre de la Danse,Mercure Èleva mon enfance.
+							COMUS.
+							L'habile PrÈcepteur ! Votre nom est ?
+							LE BAL.
+							Le Bal.
+							COMUS.
+							Ah, je ne vous connais guËre.
+									
+							LE BAL.
+							Je le crois bien, car je dors tout le jour :Ce sont les Dieux bourgeois que le soleil Èclaire, Ils reÁoivent l'encens tandis qu'il fait son tour.Pour moi, pour mes joyeux mystËres,Vive la nuit, et ses sombres lumiËres.
+									
+							COMUS.
+							Que vous devez avoir une gaillarde Cour !
+							LE BAL.
+							Ah je vous en rÈponds : avec ce masqueJe fais tous les jours quelque frasque ;Et j'ose dÈfier l'Amour et tous ses traitsDe faire les coups que je fais.
+									Ils tiennent ma foi du miracle.
+							COMUS.
+							Vous me surprenez, et comment ?
+							LE BAL.
+							Ce masque fait parler un sot comme un Oracle :Le trop timide amantQu'un respect du vieux temps aux genoux de sa Belle,
+									Retenait plus interdit qu'elle,Devient avec ce masque entreprenant, hardi.
+							COMUS.
+							En amour, vive un Ètourdi.
+							LE BAL.
+							Jamais avec ce masque il ne fut de cruelle.Ce masque change en beautÈ la laideur ;
+									En tendron, l'antique femelle.Cette prude dont la pudeurAu seul nom d'un Amant Ètait sur le qui-vive ;Lui prÍte avec ce masque une oreille attentive,Et son hypocrite froideur, 
+									Devient une br˚lante ardeur.
+							COMUS.
+							Elle savoure ‡ longs traits la fleurette.
+							LE BAL.
+							Avec ce masque une fine coquette ;[Note : AgnËs est un personnage de l'Ecole des Femme de MoliËre (1662), synonyme de fraÓcheur et de naÔvetÈ.]¿ l'Ètranger se donne pour AgnËs.
+							COMUS.
+							Non, l'Ètranger ne s'y trompe jamais :
+									Mais comme nos Marquis cherchent la gloire aisÈe,Plus une belle est dÈcriÈe,Et pour lui plus elle a d'attraits.
+							LE BAL.
+							Ce masque rend le Commis supportable,Et la provinciale aimable.
+									Sous le masque une femme enchante son mari,Et le mari charme sa femme.
+							COMUS.
+							Mais du visage de la DameSi le masque tombait ; le beau charivari !
+							LE BAL.
+							Tant pis pour eux. Comus, de mon espiËglerie,
+									Vous allez voir des tours joyeux.
+							COMUS.
+							Qu'allez-vous faire, je vous prie ?
+							LE BAL.
+							En entrant dans ces lieuxJ'ai rencontrÈ vos fils, les Ris, les Jeux ;Je leur ai dit le plan de mon Ètourderie :
+									Et quoique ivre, Bacchus va venir avec euxAux noces de l'Hiver ; car, moi, je le marie.
+							COMUS.
+							Vous mariez l'Hiver ?
+							LE BAL.
+							¿ la Danse ma soeur.
+							COMUS.
+							Que voulez-vous qu'il fasse d'elle ?
+							LE BAL.
+							Ce que je veux qu'il en fasse ? Elle est belle.
+									
+							COMUS.
+							Oui ; mais pour un barbon, la danse me fait peuC'est, entre-nous, une Ètrange commËre.
+							LE BAL. 
+							Elle a quand il lui plaÓt moins de vivacitÈ,Selon les Gens elle est grave, tendre, ou lÈgËre.
+							COMUS.
+							Pour le front quelle s˚retÈ,
+									Qu'une femme qui change ainsi de caractËre !
+							LE BAL.
+							Une Jeune beautÈ, Cher Cornus, est comÈdienne nÈe ;[Note : ProtÈe : c'est un nom qu'on donne aux personnes inconstantes, ou trompeuses, qui changent de profession, qui paraissent sous diffÈrentes figures (...) principalement pour tromper les autres. [F]]C'est un ProtÈe.Veut-elle plaire ‡ l'homme de Palais,
+									Ou, bien au Financier ? Elle est simple, innocente, 		Le Bal contrefait ces trois caractËres.NaÔve, timide, tremblante ; Elle rougit de tout, c'est une AgnËs, Veut-elle prendre en ses filets Un Petit-MaÓtre ? Elle est enjouÈe, indiscrËte ;
+									Elle assomme de son caquet,Elle est folle, Ètourdie ; et c'est une coquette A-t-elle des desseins sur un petit collet ?La voil‡ sombre, sÈrieuse,Vindicative, prÈcieuse ;
+									De tout le monde elle mÈdit,Et hardiment se loue et s'applaudit ;C'est une Prude. Enfin sans qu'on s'en doute,D'un rÙle ‡ l'autre elle passe ‡ son choixEt sans que la chose lui co˚te.
+									
+							COMUS.
+							Elle jouerait cent rÙles ‡ la fois,Avec tous ces talents qu'en votre soeur j'admire,L'Hiver pourra l'aimer ; mais je dois vous instruire,Qu'il n'Èpouse que pour trois mois.
+							LE BAL.
+							Tant mieux ; en faut il davantage ?
+									AprËs trois mois de mariage ;Le plus aimable Èpoux, plaÓt-il encor longtemps ?Ma soeur ne fit jamais de bail ‡ vie,Et quand l'Hiver faussera compagnie,Elle compte Èpouser tour ‡ tour le Printemps
+									L'EtÈ, l'Automne.
+							COMUS.
+							Votre soeur est une aimable friponne !Mais malgrÈ tous ses agrÈments,Je doute que l'Hiver pour Èpouse la prenne.
+							LE BAL.
+							Qu'il la renvoie, ou bien qu'il la retienne,
+									Du moins il l'aimera, pendant quelques moments ;C'est assez pour ma soeur, elle est peu faÁonniËre.Adieu je cours faire avancer mes gens. 		Il sort en chantant et en dansant.
+							COMUS.
+							L'honnÍte soeur ! Et le bon frËre !
+				
+				SC»NE VII. Comus, La MÈdisance.
+				
+				La mÈdisance est habillÈe en dÈvote, sans panier, avec une pointe noir et une espËce de guimpe ou de collet.
+
+							COMUS.
+							[Note : DouairiËre : Veuve qui jouit de son douaire. Il ne se dit que des dames de la premiËre qualitÈ. [F]]Mais que veut cette douairiËre ?
+									PrÈtend-elle ‡ l'Hiver avec ses cheveux blancs ?Il faut Ècouter la friponne ;Mais d'avance, elle peut compter sur mes refus.
+							LA M…DISANCE, doucereusement.
+							Le Ciel vous tienne en joie, agrÈable Cornus.
+							COMUS.
+							Sans compliment, que voulez-vous, ma bonne ?
+									
+							LA M…DISANCE aigrement.
+							Ma bonne ! Moi ?
+							COMUS.
+							Quoi ! Ce nom vous Ètonne ?
+							LA M…DISANCE doucereusement.
+							‘ Jupiter ! Souffrez-vous ces abus.Moi ! M'appeler ma bonne ? une DÈesse !
+							COMUS, riant.
+							Qui vous ? une DivinitÈ !Que Bacchus fit sans doute en son ivresse.
+									
+							LA M…DISANCE.
+							Non, traÓtre, je le suis d'un et d'autre cÙtÈ :L'envieux Momus est mon pËre,Et ma mËre l'OisivetÈ.
+							COMUS.
+							Les honnÍtes parents ! Votre nom ?
+							LA M…DISANCE.
+							Le vulgaireM'appelle MÈdisance.
+							COMUS.
+							Ah, je vous reconnais.
+									
+							LA M…DISANCE.
+							Je me plais peu chez les petits Bourgeois ;J'y fuis dÈgo˚tante, grossiËre,Sans faÁons, sans esprit.
+							COMUS.
+							Mais, chez les gens de Cour ?
+							LA M…DISANCE.
+							Je n'y parais jamais sous ce nom effroyable,
+									J'en choisis un plus agrÈable :J'en ai plusieurs que je prends tour ‡ tour,Selon les gens que je frÈquente.
+							COMUS.
+							Bon : sous quel nom Ítes-vous en ce jour ?
+							LA M…DISANCE.
+							Avec cette dÈmarche lente,
+									Ces yeux baissÈs, ce sÈvËre maintien,Cette parure innocente et modeste,Ce ton de voix Èteint, et ce doucereux geste ;Je vais trouver des gens de bien.
+							COMUS.
+							Par ma foi, c'est l'entendre.
+									
+							LA M…DISANCE.
+							…coutez, je vous prie.Sous un dehors d'austÈritÈ,DÈguisant ma malignitÈ,Tout sentira les traits de ma furie.
+							COMUS.
+							Fort bien : et votre nom sera ?
+							LA M…DISANCE.
+							La vÈritÈ.
+									
+							COMUS.
+							Qui diantre s'en serait doutÈ ?
+							LA M…DISANCE.
+							Sortant d'avec ces gens, vive, Ètourdie, aimable,Toute brillante et d'or et de rubis ;Je me ferai traÓner dans un cercle agrÈableDe Duchesses et de Marquis.
+									Que de plaisirs, et que de risExciteront les charmantes saillies.Et les piquantes railleries,Que je ferai tomber sur mes meilleurs amis.Quel feu, quels traits ! Bons mots de toute espËce.
+									Je contreferai tout, l'air, les tons, les habitsDu Commandeur, de la Comtesse...
+							COMUS.
+							Vous vous appellerez dans ces endroits chÈris ?
+							LA M…DISANCE.
+							Enjouement, gentillesse,VivacitÈ, dÈlicatesse.
+									
+							COMUS.
+							Les beaux noms que vous avez pris !
+							LA M…DISANCE.
+							De l‡ dans un cafÈ, bureau des beaux-esprits,En pÈdant de robe ou d'ÈpÈe,[Note : Petit collet : (...) on appelle petit collet un homme qui s'est mis dans la rÈforme, dans la dÈvotion, parce que les gens d'Èglise porte une petit collet. [F]]En petit collet, en poupÈe,Par des tons dÈcisifs et d'effroyables cris,
+									Incapable de rien (mais capable d'envie)Je vais fronder tous les nouveaux Ècrits :Jusques sur leurs auteurs Ètendant ma furie,Je me crois un docteur sans prix,Et je me fais nommer fine plaisanterie.
+									C'est ‡ midi qu'on y vient m'Ècouter.
+							COMUS.
+							Mais, vous vous faites dÈtester.
+							LA M…DISANCE.
+							Que m'importe ? Mais, non : tel qui dit qu'il m'abhorreDans le fond de son coeur m'adore ;Et tel me hait de bonne foi
+									Qui pourtant se plaÓt ‡ m'entendre.Pour tout ouÔr, tout voir, et tout rÈpandre,La RenommÈe a moins de voix que moi,Moins d'oreilles, moins d'yeux. Nulle chose innocenteQue je ne tourne avec malignitÈ ;
+									Dans un besoin mÍme j'invente. Partout mon esprit est fÍtÈ ;On rit dËs qu'on me voit paraÓtre ;Et l'on se croit heureux de me connaÓtre.
+							COMUS.
+							Plus heureux qui de vous, ne fut connu jamais.
+									
+							LA M…DISANCE.
+							Il faut me voir dans un spectacleAvant que l'on commence ; ah, c'est-l‡ que je plais !On m'environne, on m'Ècoute en oracle :Je promËne mes yeux distraitsDe loge en loge ; homme, femme, personne
+									Ne peut Èchapper ‡ mes traits.Les charmants contes que j'en fais !Voyez cette beautÈ qui paraÓt simple et bonne,Dis-je ‡ mes auditeurs, les bons tours que j'en sais !Son sot d'Èpoux dans ce coin l'espionne,
+									Il prÍte aux jeunes gens ‡ triples intÈrÍts.Ce petit freluquet que vous voyez auprËs,Est l'ennuyeux, ou l'amant de la belle ;[Note : Vielle : instrument de musique pour rÈjouir les gens du peuple, et dont jouent ordinairement les pauvres aveugles. [F]]Il danse, il chante, il joue un air de vielle,Voil‡ tout son petit savoir ;
+									C'est un ÈchappÈ de finance,Cependant il faut voir,Comme il fait le gros dos, et l'homme d'importance.Ce beau Marquis qui s'Ètale l‡-bas,Qui vient de s'annoncer avec tant de fracas,
+									Est un fat : pour mÈrite il n'a que sa naissance,Il attend pour parler que sa piËce commence ;Plus haut que les acteurs, alors il parlera,De ses sottises il rira,Ou bien dans les foyers il ira voir la piËce,
+									Et Dieu sait ce qu'il en dira,Et comme hardiment il en dÈcidera,Chez la PrÈsidente LucrËce,Qui veut passer pour sa maÓtresse ;Mais le public s'obstine par malheur ;
+									¿ la croire femme d'honneur.[Note : Blondin : qui a les cheveux blonds, ou une perruque blonde. "Les coquettes aiment fort les blondins, ce sont de vrais sÈducteurs de femmes." MoliËre [F]]Ah... ce blondin qui vient jusqu'aux bords du thÈ‚tre,En propre original est la fatuitÈ ;De son air et de sa beautÈ,Il croit chaque femme idol‚tre.
+									Par pitiÈ pour le sexe il vient se faire voir ;Vous ne le verrez point s'asseoir,Il est toujours debout, ou bien il se promËne :MalgrÈ les cris du spectateur,Il offusque, il arrÍte et l'actrice et l'acteur ;
+									En traversant cent fois la scËneCet autre...
+							COMUS.
+							As-tu bientÙt noirci tous les mortels ?[Note : Furie : (...) certaines divinitÈs infernales que les poËtes paÔens feignaient entrer dans les hommes pour les possÈder ou les tourmenter. [F]]Sors d'ici cruelle furie,Retourne aux Enfers ta patrie ;Des fers Èternels,
+									Sont pour toi de trop doux supplices.
+							LA M…DISANCE.
+							Vous me chassez ? MalgrÈ vous je reviens.Je fuis l'‚me des entretiens,Et j'en fais toutes les dÈlices.L'Hiver sans moi ne ferait que bailler ;
+									[Note : Quadriller : jouer au quadrille, qui est une troupe de cavaliers qui qui se rÈussissent pour un tournoi ou un carrousel.]Sa ressource toujours serait de quadriller :Le jeu n'est que pour ceux qui ne savent rien dire.L'Hiver m'Èpousera.
+							COMUS.
+							Sors d'ici, Monstre affreux.
+							LA M…DISANCE, d'un ton doucereux.
+							Adieu, pour un instant, Comus, je me retire.		Elle fait deux pas.Vous Ítes intendant, seigneur et scrupuleux.
+									
+							COMUS.
+							Quoi, jusques sur moi-mÍme clic exerce sa rage ?
+				
+				SC»NE VIII. Comus, Hector Criquet.
+				
+				Hector Criquet est habillÈ de noir avec un manteau, une grande perruque sans poudre et un grand rabat.
+
+							COMUS.
+							Mais que cherche ici ce visage ?Serait-ce encore un Dieu ? Je n'en vis jamais tant.Ni de plus sots. …coutons-le pourtant.
+							HECTOR CRIQUET.
+							C'est sans doute ici le palais du Dieu de l'Hiver ?
+							COMUS.
+							Oui, Monsieur.
+									
+							HECTOR CRIQUET.
+							Et c'est au Dieu Comus que j'ai apparemment l'honneur de parler.
+							COMUS.
+							Oui, Monsieur ; vous suis-je nÈcessaire ?
+							HECTOR CRIQUET.
+							Seigneur, j'ai appris que vous cherchiez un nombre de gens pour contribuer par leurs divers talents aux besoins et aux plaisirs de l'Hiver pendant son sÈjour en France.
+							COMUS.
+							Il est vrai.
+							HECTOR CRIQUET.
+							Avec votre permission, et sauf le meilleur avis de votre divinitÈ, ne serait-il pas beaucoup plus avantageux, au lieu de multiplier les Ítres ‡ l'infini, de trouver un sujet qui rassembl‚t en lui tous les divers talents ?
+							COMUS.
+							Ce serait une fort bonne affaire,Car moins de gens, moins d'ennemis ;Mais dans quels climats pourrait Ítre 
+									Un original d'un tel prix ?
+							HECTOR CRIQUET.
+							Je le connais, c'est une vÈritable encyclopÈdie ; Id est, l'abrÈgÈ de toutes les sciences.
+							COMUS.
+							Ah de gr‚ce, Monsieur, faites-le moi connaÓtre.
+							HECTOR CRIQUET.
+							[Note : Placet : requÍte abrÈgÈe, ou priËre qu'on prÈsente au roi, aux ministres, ou aux juges pour leur demander quelque gr‚ce, quelque audience, pour quelque recommandation. [F]]J'ai trop de modestie pour vous le nommer ; mais voici un petit placet o˘ vous trouverez avec ses mÈrites dÈtaillÈs, ses nom et demeure.
+							COMUS.
+							Je le lirai.
+							HECTOR CRIQUET.
+							Je reviendrai demain matin, savoir quel cas vous aurez fait de mon placet. Serviteur, Seigneur, serviteur.		Il fait deux pas et revient.Comme vous Ítes un Dieu, j'ai mis le placet en votre langage, je l'ai Ècrit en vers.
+							COMUS.
+							Tant mieux.Il m'en sera plus prÈcieux.
+							HECTOR CRIQUET.
+							Si vous me le permettez ; j'aurai l'honneur de vous dÈclamer mon Placet.
+							COMUS.
+							TrËs volontiers.
+							HECTOR CRIQUET, dÈclamant ridiculement.
+							¿ Monseigneur
+									Comus, Dieu de la joie et de la bonne chËre,Et du Dieu de l'Hiver Intendant ordinaire,Mais Intendant tout plein d'honneur.Monseigneur, humblement supplie ;Hector Criquet.
+									Et vous remontre en ce Placet,Qu'il montre l'…loquence et la Philosophie,Les Langues, le Blason, et la GÈographie ;la MÈdecine, et les Lois,La Marine, l'Astrologie,
+									La Guerre, la Magie,Et mille autres Arts ‡ la fois.Ledit Hector Criquet demeure,Depuis plusieurs saisons,[Note : Petites maisons : On dit aussi, qu'il faut mettre un homme aux petites maisons, quand il est fou, ou quand il fait une extravagance signalÈe ; ‡ cause qu'il y a ‡ Paris un hÙpital de ce nom o˘ on enferme ces fous. [F]]AuprËs des petites Maisons,
+									On l'y trouve ‡ toute heure.
+							COMUS.
+							Le charmant placet ! Les beaux Vers !Vous savez tous ces arts divers ?
+							HECTOR CRIQUET, dÈclamant ridiculement.
+							Non pas, Seigneur, mais je les enseigne. ¿ demain Seigneur, Serviteur.		Il fait six pas.
+							COMUS.
+							La peste soit du fanatique.
+							HECTOR CRIQUET, revenant.
+							S'il vous plaisait, je vous chanterais mon placet,
+									Car je l'ai mis en musique.
+							COMUS.
+							Voyons : un placet en Musique ?
+							HECTOR CRIQUET.
+							En quelle musique voulez-vous que je le chante ? Musique Italienne, FranÁaise, anglaise, allemande, suisse, turque, chinoise ? Car je compose en routes ces musiques, sans les avoir apprises que par les MathÈmatiques : oh cela fait de beau chant !Parlez.
+							COMUS.
+							Chantez celle qu'il vous plaira.
+							HECTOR CRIQUET.
+							Vous en Ítes pour l'Italienne, je le vois ; c'est le grand go˚t : aussi, qu'est-ce que cette Musique FranÁaise ? Elle approche trop des paroles.
+							COMUS.
+							Oui, mais de ce dÈfaut on la corrigera.
+							HECTOR CRIQUET.
+							La, la, la... Quelle voix voulez-vous ? Car je les ai tontes, haut-dessus, bas-dessus, haute-contre, taille, concordant, discordant ; voix entiËre ; voix claire ; basse-taille, basse-contre : parlez, choisissez.
+							COMUS.
+							La voix que vous voudrez ; il ne m'importe guËre.
+									
+							HECTOR CRIQUET.
+							La la la : je n'ai pas mis le titre du Placet en musique, si vous vouliez pourtant...
+							COMUS.
+							Non, non, il n'est pas nÈcessaire.
+							HECTOR CRIQUET chante en musique italienne.
+							Monseigneur humblement supplie, etc.		Jusqu'‡ ces mots, le dit Hector Criquet.
+							COMUS.
+							Je suis enchantÈ de votre air.Et j'en ferai rire l'Hiver.
+							HECTOR CRIQUET.
+							J'abuse de vos bontÈs. ¿ demain, Seigneur. Serviteur.		Il fait huit pas.
+							COMUS.
+							Faut-il jamais pareille extravagance !
+							HECTOR CRIQUET, revenant.
+									Il tire de dessous son manteau un violon qu'il prÈsente ‡ Comus.Un Dieu sait toutes choses. Sauriez-vous jouer du violon ?
+							COMUS.
+							Non, je n'ai pas toutes votre science.
+									
+							HECTOR CRIQUET.
+							C'est que je vous danserais mon placet, j'ai composÈ des pas dessus.
+							COMUS.
+							Ah ! Voyons danser un placet.Je n'oublierai jamais ce trait.
+							HECTOR CRIQUET.
+									Il chante, joue du violon, et danse en mÍme-temps.Je vais vous en donner le plaisir moi seul.
+							COMUS.
+							Vous Ítes de talents un si rare assemblage,Que vous avez sans doute un Èquipage ?
+							HECTOR CRIQUET.
+							Un Èquipage, Seigneur ! Est-ce que ces talents sont rÈcompensÈs dans ce pays ? On croit trop payer un gÈnie, qui va par les maisons enseigner la philosophie et la Politique, quand on lui donne une demi-pistole pour trente leÁons ; et l'on ne rougit point d'en donner dix ‡ un danseur, ‡ un chanteur pour douze quarts-d'heure ; cependant il est honteux ‡ un honnÍte homme de trop bien savoir leurs Arts : bien danser n'est qu'un mÈrite de singe.
+							COMUS.
+							Mais tout Paris aime ces arts galants,
+									
+							HECTOR CRIQUET.
+							Dites, la Bagatelle. Qu'un homme du premier mÈrite entre dans une compagnie du bel air, s'il ne dÈbute pas par une rÈvÈrence extravagante, dit-il d'ailleurs des choses plus galantes que DÈmosthËne et Ciceron ; si, c'est un maussade, un pÈdant, un sot, un homme ‡ jeter par les fenÍtres : qu'il entre ensuite un Ètourdi, qui jette sa tÍte d'un cÙtÈ, son corps de l'autre ; qui danse sur un pied, qui chante en mÍme temps, qui voltige de fauteuil en fauteuil, il ne dira que des fadaises, et toute la compagnie s'Ècrira : ah le joli homme ! Qu'il est aimable ! Qu'il a d'esprit ! C'est un prodige.
+							COMUS.
+							Cela vous dit, que le corps a ses gr‚ces,Comme l'esprit a ces talents ;Il faut les cultiver en homme de bons sens.De l'Èducation, ils nous montrent les traces ;Mais le FranÁais veut Ítre universel,
+									Et jamais, quoiqu'il se propose,Il ne sait ‡ fond nulle chose ;Il n'est que superficiel.Bien plus, c'est de l'Art qu'il professe,Qu'il parle souvent le plus mal.
+									Le Magistrat parle guerre sans cesse,L'AbbÈ parle toilette et bal,Le courtisan morale, et l'homme de FinanceParle bel esprit et science.Mais vous m'avez donnÈ des passe-temps trop doux ;
+									Venez revoir demain, et j'aurai soin de vous.
+							HECTOR CRIQUET, joyeux.
+							¿ demain, Seigneur, Serviteur, Serviteur.
+				
+				SC»NE IX. L'Hiver, Comus.
+				
+				
+							COMUS.
+							Mais voici l'Hiver qui s'avance ?
+							L'HIVER.
+							HÈ bien aurai-je une femme, Comus ?Est-elle jeune ? Est-elle belle ?De bonne humeur ? Me plaira-t-elle ?
+									
+							COMUS.
+							Jusques ici mes soins ont ÈtÈ superflus,Un galant de votre ‚ge est de dure dÈfaiteS'il ne prend pas une coquette.
+							L'HIVER.
+							Va, mon cher intendant, ne te tourmente plusJ'ai moi-mÍme fait choix d'une aimable DÈesse,
+									En qui les gr‚ces, la gaietÈ,L'esprit et la dÈlicatesse,Brillent autant que la beautÈ.
+							COMUS.
+							C'est la mode, sur ma parole.
+							L'HIVER.
+							Fi donc, Comus, c'est une folle,
+									Et qui contre un ruban troque un amant chÈri.
+							COMUS.
+							Que ferait-ce d'un vieux mari ?Vous prenez donc la MÈdisance ?
+							L'HIVER.
+							Oh ! non : de sa sincÈritÈ,J'Ètais cependant enchantÈ ;
+									Mais de moi-mÍme, en ma prÈsence :Elle m'a dit du mal.
+							COMUS.
+							Voyez quelle insolence !Ah ! Si vous Ètiez son Èpoux,¿ cause de la connaissance,Elle parlerait mieux de vous.
+									Enfin, vous choisissez la Danse ?
+							L'HIVER.
+							Ne pense pas railler, j'aime ses entrechats,Et je lui donnerais ma foi la prÈfÈrence ;Mais de sa part je crains trop les faux pas.
+							COMUS.
+							HÈ quelle est donc cette aimable DÈesse,
+									Dont votre coeur est enchantÈ ?
+							L'HIVER.
+							Cher Comus, c'est la VoluptÈ.
+							COMUS.
+							Vous aimiez, disiez-vous, la Vertu sans rudesse ;Vous la trouvez en cette DÈitÈ.
+							L'HIVER.
+							Je l'aperÁois, mon bonheur me l'adresse,
+									Cours appeler l'Hymen, et que le Bal s'empresse¿ cÈlÈbrer mes feux et sa beautÈ.
+				
+				SC»NE X. L'Hiver, La VoluptÈ.
+				
+				
+							L'HIVER.
+							Venez, belle DivinitÈ,Par devant l'Hymen que j'appelle, Mon coeur va vous jurer une ardeur immortelle.
+									
+							LA VOLUPT….
+							Que parlez-vous d'Hymen, Seigneur ? C'est me trahir.Voulez-vous dÈj‡ me haÔr ?Le talisman du mariage,D'un Amant tendre, aimable, vif et doux, Fait souvent un mari moine, avare , jaloux ; 
+									D'un galant, un brutal ; d'un fidËle, un volage.
+							L'HIVER.
+							D'un amant bel esprit, peut-Ítre un mari sot.
+							LA VOLUPT….
+							Toujours d'une beautÈ charmante, douce et sage,Complaisante, attentive aux soins de son mÈnage,En un moment l'Hymen fait, par un mot,
+									Une Guenon maussade, altiËre, impÈrieuse, Une furie et coquette et joueuse.Ce beau couple d'amants, qui toujours se cherchaient ;Que les plaisirs l'un ‡ l'autre attachaient ;Sont-ils Èpoux, incessamment se fuient ;
+									Et quand le sort malin les rassemble, ils s'ennuient ;On les voit dormir ou bailler,Et la discorde peut seule les rÈveiller.
+							L'HIVER.
+							Appelons donc l'Amour. Oui, confiant, vif et tendre...
+							LA VOLUPT….
+							Jurez pour le prÈsent et non pour l'avenir,
+									Et faites des serments que vous puissiez tenir.Souvent du premier coup un coeur se laisse prendre ;Il ne faut pour charmer qu'un regard languissant ;Tout engage, tout plaÓt dans un amour naissant ;On croit toujours aimer, on le jure de mÍme,
+									Et soi-mÍme on se trompe en trompant ce qu'on aime.
+							L'HIVER.
+							Remplissez mes dÈsirs, aimable DÈitÈ,Et mon ardeur pour vous sera toujours extrÍme.
+							LA VOLUPT….
+							Ne vous y trompez pas... je suis la VoluptÈ,Et fille de la LibertÈ,
+									Mais non pas du libertinage.Mon enjouement et ma gaietÈ,Et mon aimable badinageViennent de ma tranquillitÈ,
+							L'HIVER.
+							Vous Ítes philosophe ?
+									
+							LA VOLUPT….
+							Oh non. mais le vrai Sage,Quand il touche au midi de l'‚ge,Trouve en moi sa fÈlicitÈ ;Je suis la fougueuse jeunesse,Ses foins impÈtueux et ses distractions ;
+									Je hais et la folie et l'austËre sagesse :J'ai des plaisirs et non des passions.Libre de soins, libre d'inquiÈtude,De craintes, de dÈsirs,De remords et de repentirs,
+									Dans une douce Ètude,Je trouve d'innocents plaisirs, Sans en Ítre plus prÈcieuse.Voil‡ la VoluptÈ, Seigneur, telle qu'elle est, Si son caractËre vous plaÓt...
+									
+							L'HIVER.
+							Non : vous Ítes trop sÈrieuse :Pardonnez, je suis franc et peut-Ítre brutal.
+							LA VOLUPT….
+							Je ne vous en veux point de mal,Tous ne savent pas me connaÓtre.Adieu je vois quelqu'un paraÓtre :
+									Vous vivez au terrestre, et je cours ‡ l'esprit.
+				
+				SC»NE XI. L'Hiver, Comus.
+				
+				
+							COMUS.
+							Seigneur, l'Hymen me fuit ; mais o˘ fuit la DÈesse.DÈj‡ quelque amoureux dÈpit,A-t-il troublÈ votre tendresse ? Quoi si tÙt vous querellez-vous ?
+									Vous n'Ítes pas encore Èpoux.
+							L'HIVER.
+							Ni ne serons jamais : je hais le verbiage.Le Ciel garde toute maison,D'une femme qui n'est ni coquette, ni sage ;Cette DÈesse est folle ‡ force de raison.
+									
+				
+				SC»NE XII. L'Hiver, Comus, L'Hymen.
+				
+				
+							L'HYMEN.
+							Venez, Dieu de l'Hiver... o˘ donc est la future ?
+							L'HIVER.
+							Pardon, mon cher Hymen, pardon.
+							COMUS.
+							Trop tard, mignon,Il ne veut plus en courir l'aventure.
+							L'HYMEN.
+							Qu'est-ce ‡ dire, pardon ? Se moque-t-on de moi ?
+									Non ; j'en jure par ma coiffure,Et vous Èpouserez, ou vous direz pourquoi.
+							COMUS.
+							Point de courroux. Je te conjure,Ami, reste ‡ rire avec nous.
+							L'HYMEN, en colËre.
+							Vous m'insultez encor ? Que je reste avec vous ?
+									Prenez-vous l'Hymen pour Mercure ?Oh vous Èpouserez, je le veux, je l'entends...
+							COMUS, ‡ l'Hiver.
+							Ce n'est que pour trois mois.
+							L'HIVER.
+							Puisqu'il le faut, je prends...Je prends...
+							L'HYMEN, brusquement.
+							Achevez donc.
+									
+							L'HIVER.
+							Un peu de patience.
+									
+							L'HYMEN.
+							Je prends... Aide-moi donc, Cornus.
+							COMUS.
+							Prenez la Danse ;Elle vient ‡ propos vers nous.
+							L'HIVER.
+							J'y consens, tout coup vaille.
+				
+				SC»NE DERNI»RE. L'Hiver, L'Hymen, Comus, La Danse amenÈe par un prÈlude, suite de l'Hymen.
+				
+				
+							L'HYMEN.
+							Approchez-vous, la Belle ;Je vous donne en ce Dieu la perle des Èpoux ?
+									
+							COMUS.
+							Ce n'est pas pour longtemps, t‚chez d'Ítre fidËle.
+				
+				DIVERTISSEMENT.
+				
+				Le Bal amËne les Jeux, les Ris et les Gr‚ces.
+Le Bal amËne les Jeux, les Ris et les Gr‚ces.
+
+							[JEUX, RIS et GRACES].
+									Air.Venez plaisirs charmants et doux ;Assemblez-vous troupe immortelleLe Bal vous menÈ, et l'Hiver vous appelle.Venez fol‚trer avec nous,
+									Que les Gr‚ces,Sur vos traces,Brillent toujours ;Des coeurs fondez les glaces,Br˚lants Amours,
+									Par la tendresse,La froide vieillesse,Rajeunit sans cesse,Et trouve encore de beaux jours.		On danse.		Air en duo.L'Hiver pour nous n'a rien d'Èpouvantable ;
+									Ce n'est point un vieillard, triste, morne, grondeur,CassÈ, transi, trembleur ;Il est riant, fol‚tre, aimable ;De l'Amour, il court ‡ la table.Amants, Buveurs, il est le pËre des plaisirs.
+									Chantez sa gloire ;Amants, il sait ranimer vos dÈsirs,Buveurs, il vous enseigne ‡ boire.		On danse.
+				
+				VAUDEVILLE.
+				
+				
+							[JEUX, RIS et GRACES].
+							Quand un jeune amant vif et tendre,A trouvÈ l'art de nous surprendre,
+									L'Hiver n'Èteint point nos feux ;Quels aimables noeuds,Quel sort heureux !PrËs de l'Èpoux que l'HymÈnÈe,Unit ‡ notre destinÈe,
+									Nous nous morfondons,Nous grelottons,Nous tremblons,Nous gelons,Les quatre saisons de l'annÈe.
+									AuprËs d'un objet du bel ‚ge, Tant qu'on s'en tient au badinage,L'amour rÈpond ‡ nos voeux :Quels aimables noeuds,Quel sort heureux !
+									Mais quand par un destin contraire,L'Hymen se mÍle de l'affaire,Nous nous morfondons, etc.L'amour fuit toujours le Notaire.Quand un Marquis dans notre bourse 
+									A dessein de faire ressource,Qu'il est doux, poli, pressant,Flatteur, caressant,Et sÈduisant !Doit-il rendre ? Pendant Septembre,
+									Octobre, Novembre, DÈcembre,Nous nous morfondons,Nous grelottons, etc.¿ la porte de l'Antichambre.AuprËs d'un objet agrÈable,
+									En commenÁant tout est aimable,L'amour rÈpond ‡ nos voeux ;L'ardeur de nos feuxNous rend heureux.Mais aprËs deux jours on s'ennuie :
+									Aux genoux de notre Sylvie,Nous nous morfondons, etc.Et l'Amour fausse compagnie.Quand une plaideuse est gentille,Ou que dans sa main l'argent brille,
+									Elle gagne son procËs,Tous les intÈrÍts,DÈpens et frais ;Mais n'avons-nous plus de quoi plaire,Ni d'argent pour aider l'affaire,
+									Nous nous, etc.¿ la portÈ du secrÈtaire.Meilleurs quand notre ComÈdieVous plaÓt et vous paraÓt jolie ;Quand vous vous divertissez,
+									Vous applaudissez,Mais quand par un destin contraireElle a le malheur de dÈplaire.
+	==================================================
