@@ -81,6 +81,10 @@ Il est possible de créer de nouveaux sous-dossiers et leurs fichiers, ou d'ajou
 * **Main.py**
 
   * Mettre en œuvre les méthodes des deux fichiers précédents selon les instructions entrées par l'utilisateur.
+  
+* **stop_words_french.txt**
+
+  *Il est utilisé pour filtrer les documents.
 
 
 
