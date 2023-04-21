@@ -54,6 +54,14 @@ Ensuite, c'est ["veillez donner votre ordonnance: (Choix parmi 'classify','add_c
  
          C'est-à-dire le nombre de résultats à conserver.
          
+        
+# La structure de fichier et donnée：
+
+
+# Test
+
+Il s'agit d'un dossier contenant plusieurs sous-dossiers destinés à tester le programme.
+         
           
        
     
