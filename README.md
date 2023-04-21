@@ -125,11 +125,11 @@ Il est possible de créer de nouveaux sous-dossiers et leurs fichiers, ou d'ajou
   * Description: Cette fonction calcule le produit scalaire
   * vector1: un dictionnaire représentant le premier vecteur
   * vector2: un dictionnaire représentant le deuxième vecteur
-* **def norme(vector)**
+* **def norme(vector)-> float**
   * Description: Cette fonction calcule la norme d'un vecteur donné.
   * Vector: Un dictionnaire représentant le vecteur dont on souhaite calculer la norme.
   * return : la norme du vecteur donné. 
-* **def sim_cosinus(cls,vector1,vector2)  -> float**
+* **def sim_cosinus(cls,vector1,vector2)-> float**
   * Description: Cette méthode calcule la similarité cosinus entre deux vecteurs
   * vector1 : un dictionnaire représentant le premier vecteur.
   * vector2 : un dictionnaire représentant le deuxième vecteur
