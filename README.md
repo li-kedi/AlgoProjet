@@ -206,6 +206,7 @@ Veuillez indiquer la valeur de k: 11</br>
 label: roman n: 8 average similarity: 0.9993879411416243</br>
 label: poésie n: 3 average similarity: 0.999368047283594</br>
 
+$\color{red}$on
 
 ## Améliorations possibles
 
