@@ -27,5 +27,14 @@ Ensuite, c'est ["veillez donner votre ordonnance: (Choix parmi 'classify','add_c
   
 
      Il faut s'assurer que le label saisi existe bien dans les données, sinon une exception sera levée, ValueError.
+     
+  *  ['save'→"Veillez donner le nom du fichier JSON de sauvegarde: "](http://blog.csdn.net/guodongxiaren)
+     
+     
+  *  ['laod'→ "Veillez donner le nom du fichier JSON de chargement: "](http://blog.csdn.net/guodongxiaren)
+
+
+
+  *  ['classify'→" Veuillez indiquer la méthode de calcul. (cosinus=1,euclidean_distance=2, manhattan_distance=3): " → "Veuillez indiquer la valeur de k: "](http://blog.csdn.net/guodongxiaren)
 
     
