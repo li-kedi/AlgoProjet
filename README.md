@@ -130,9 +130,9 @@ Il est possible de créer de nouveaux sous-dossiers et leurs fichiers, ou d'ajou
 * **def doc2tf_idf(cls)**
   * Description: Cette fonction calcule le score tf-idf pour chaque document d'un corpus donné.
   * documents_input (str): le nom d'un document ou "test" si l'on veut traiter plusieurs documents.
-  * Retour: 
-  ** resultat_tfidf (list de dicts): une liste de dictionnaires contenant le vecteur TF-IDF de chaque document si l'entrée est "test".
-    ** autre_doc_filtres_tfidf (dict): un dictionnaire contenant le vecteur TF-IDF du document saisi par l'utilisateur si l'entrée n'est pas "test".
+  * Retour: <br />
+    resultat_tfidf (list de dicts): une liste de dictionnaires contenant le vecteur TF-IDF de chaque document si l'entrée est "test".<br />
+    autre_doc_filtres_tfidf (dict): un dictionnaire contenant le vecteur TF-IDF du document saisi par l'utilisateur si l'entrée n'est pas "test".<br />
 
 
 
