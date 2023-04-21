@@ -7,8 +7,7 @@ Cet API permet de réaliser une classification de textes en utilisant l'algorith
 Lorsque nous exécutons le fichier "Main.py", on reçoit des instructions. D'abored, c'est "veillez taper le nom de documents："  mais ici on n'a qu'un choix "test", si on saisit quelque chose d'autre que "test", une exception sera levée, a savoir FileNotFoundError.
 
 Ensuite, c'est "veillez donner votre ordonnance: (Choix parmi 'classify','add_class','add_vector','del_class','save','laod'): ",
-
-<font color=red>'add_class'→"Veillez donner le label: " → "Veillez donner les vecteurs (sous forme de liste de dictionnaires): "  </font>
+['add_class'→"Veillez donner le label: " → "Veillez donner les vecteurs (sous forme de liste de dictionnaires): "  ](http://blog.csdn.net/guodongxiaren)  
              On va donner un type de ficher, tels que poésie, roman, article... Si le label existe dans le data, on renouvelle le vecteur, si il n'existe    pas, on ajouter cette classe dans le data. Mais quand on saisi les vecteurs, il faut respecter le format suivant, sinon l'ajout est un échec:
 
 [  
