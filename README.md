@@ -257,7 +257,7 @@ label: pièce de théâtre n: 1 average similarity: 140796.95321169504</br>
 
 ***J'ai testé "classer" avec un roman, quand K=5, méthode de calcul = cosinus, il le clasee en roman. Quand K=7, méthode de calcul = manhattan_distance, il le clasee en roman. Quand K=11, méthode de calcul = euclidean_distance, il le clasee en roman. La réponse est toujours bonne.***
 
-***J'ai vérifié le fichier json stocké, et j'ai peut-être trouvé la raison pour laquelle les résultats des deux tests différaient autant. 
+***J'ai vérifié le fichier json stocké, et j'ai peut-être trouvé la raison pour laquelle les résultats des deux tests différaient autant. ***
 
 ***Les poèmes et les pièces de théâtre contiennent beaucoup de français archaïque, ou il y a des erreurs dans le processus de conversion de pdf en txt.***
 
