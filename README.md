@@ -35,6 +35,11 @@ Ensuite, c'est ["veillez donner votre ordonnance: (Choix parmi 'classify','add_c
 
 
 
-  *  ['classify'→" Veuillez indiquer la méthode de calcul. (cosinus=1,euclidean_distance=2, manhattan_distance=3): " → "Veuillez indiquer la valeur de k: "](http://blog.csdn.net/guodongxiaren)
+  *  ['classify'→“ veillez taper le nom de documents” → " Veuillez indiquer la méthode de calcul. (cosinus=1,euclidean_distance=2, manhattan_distance=3): " → "Veuillez indiquer la valeur de k: "](http://blog.csdn.net/guodongxiaren)
 
+
+    * “ veillez taper le nom de documents” 
+    
+        Noter ici que le type de fichier d'entrée est un fichier txt.
+       
     
