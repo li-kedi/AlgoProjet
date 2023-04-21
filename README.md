@@ -60,14 +60,14 @@ Ensuite, c'est ["veillez donner votre ordonnance: (Choix parmi 'classify','add_c
 
   # Dossier
   
-    # Document - Test
+     Document - Test
 
 Il s'agit d'un dossier contenant plusieurs sous-dossiers destinés à tester le programme. Les sous-dossiers sont intitulés 'romen','article','pièce de théâtre','poésie', et chacun contient huit fichiers. Les noms de sous-dossiers sont des labels enregistrés dans les données alors que les fichers sont des vecteurs des labels correspondants dans les données.
 
 Il est possible de créer de nouveaux sous-dossiers et leurs fichiers, ou d'ajouter des fichiers à des sous-dossiers correspondants agrandir le document Test.
 
 
-    # Fichers
+     Fichers
     
 
 * TextVect.py
