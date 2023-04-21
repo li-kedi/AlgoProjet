@@ -190,7 +190,7 @@ Ce code en Python définit une classe KNNClass qui implémente l'algorithme des 
 
 ##Les bougues
 
-![Image text]https://github.com/li-kedi/AlgoProjet/commit/0e662bb726d6ddb581ce298ca86a51847af89c96
+![Image text](https://github.com/li-kedi/AlgoProjet/commit/0e662bb726d6ddb581ce298ca86a51847af89c96)
 
 
 ## Améliorations possibles
