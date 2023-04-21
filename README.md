@@ -90,6 +90,10 @@ Il est possible de créer de nouveaux sous-dossiers et leurs fichiers, ou d'ajou
 
 ## API
 ### TextVect.py
+Description:</br>
+Le code comprend plusieurs méthodes de classe pour effectuer des tâches de traitement de texte telles que la </br>
+tokenisation, la vectorisation et le filtrage.</br>
+
 * **def read_dict(stoplist_filename)**
   * Description: Cette méthode lit un fichier de liste de stop words et renvoie un ensemble de stop words
   * stoplist_filename : nom du fichier de stop words
@@ -152,6 +156,12 @@ Il est possible de créer de nouveaux sous-dossiers et leurs fichiers, ou d'ajou
     autre_doc_filtres_tfidf (dict): un dictionnaire contenant le vecteur TF-IDF du document saisi par l'utilisateur si l'entrée n'est pas "test".<br />
 
 ### KNNClass.py
+Description:
+Ce code en Python définit une classe KNNClass qui implémente l'algorithme des k-plus </br>
+proches voisins (KNN) pour la classification de vecteurs textuels. La classe possède </br>
+plusieurs méthodes pour ajouter, supprimer et sauvegarder des classes de vecteurs, </br>
+ainsi que pour effectuer la classification en utilisant la mesure de similarité cosinus </br>
+comme fonction de similitude par défaut.</br>
 * **def __init__(self,description,data)->None**
   * Description: Constructeur qui initialise l'objet avec une description et une liste de données.
   * description : Description des données.
@@ -179,7 +189,11 @@ Il est possible de créer de nouveaux sous-dossiers et leurs fichiers, ou d'ajou
   * k : Nombre de voisins le plus proche à considérer.
 
 ### Main.py
-* Description: il permet de réaliser une classification de textes en utilisant l'algorithme KNN (K-nearest neighbors). Le principe est de représenter les textes sous forme de vecteurs TF-IDF, puis de mesurer les similarités entre ces vecteurs pour déterminer les K textes les plus proches d'un texte donné. La classe KNNClass implémentée permet de stocker les vecteurs TF-IDF des différents textes dans différentes classes, et de réaliser des opérations telles que l'ajout ou la suppression de classes ou de vecteurs selon le choix de l'utilisateur.
+* Description: il permet de réaliser une classification de textes en utilisant l'algorithme KNN (K-nearest neighbors).</br> 
+Le principe est de représenter les textes sous forme de vecteurs TF-IDF, puis de mesurer les similarités entre ces </br>
+vecteurs pour déterminer les K textes les plus proches d'un texte donné. La classe KNNClass implémentée permet de </br>
+stocker les vecteurs TF-IDF des différents textes dans différentes classes, et de réaliser des opérations telles que</br>
+l'ajout ou la suppression de classes ou de vecteurs selon le choix de l'utilisateur.</br>
 
 
 
