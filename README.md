@@ -86,7 +86,39 @@ Il est possible de créer de nouveaux sous-dossiers et leurs fichiers, ou d'ajou
 
 ## API
 ### TextVect.py
-* def read_dict(stoplist_filename)
+* **def read_dict(stoplist_filename)**
+  * Description: 
+  * 
+* **def tokenize(text,tok_grm)**
+  * * Description: 
+  * 
+* **def vectorise(tokens)**
+  * Description: 
+  * 
+* **def doc2vec(cls,label:str)**
+  * Description: 
+  * 
+* **def txt2vec(cls,file_name:str)**
+  * Description: 
+* **def filtrage(cls,stoplist_filename, documents, non_hapax)**
+  * Description: 
+* **def tf_idf(documents:list)->list**
+  * Description: 
+* **def scalaire(vector1,vector2)**
+  * Description: 
+* **def norme(vector)**
+  * Description: 
+* **def sim_cosinus(cls,vector1,vector2)**
+  * Description: 
+  * 
+* **def euclidean_distance(vec1: dict, vec2: dict) -> float**
+  * Description:  
+  * 
+* **def manhattan_distance(vec1: dict, vec2: dict) -> float**
+  * Description: 
+  * 
+* **def doc2tf_idf(cls)**
+  * Description: 
 
 
 
