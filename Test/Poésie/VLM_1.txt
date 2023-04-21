@@ -1,0 +1,226 @@
+Version TXT du texte obtenue par extraction à partir du fichier XML.
+┌───────────────────────┐
+│ Entête du fichier XML │
+└───────────────────────┘
+VLM
+VLM_1
+
+VILLEMER (Germain GIRARD)
+1842-1892
+
+LE BAISER DE L'ALSACIENNE
+1870
+_________________________________________________________________
+Édition électronique
+Corpus Malherbə
+Laboratoire CRISCO, Université de Caen
+Contact : crisco.incipit@unicaen.fr
+_________________________________________________________________
+Préparation du texte :
+
+▫ Pamela Puntel
+  (Préparation des textes)
+
+▫ Richard Renault
+  (Mise en forme XML, application des programmes de traitement automatique, vérification et correction des données analysées)
+
+_________________________________________________________________
+Origine de la source électronique :
+
+LE BAISER DE L'ALSACIENNE
+VILLEMER
+
+Eveillard et Jacquot, Editeurs
+1870
+Édition numérisée
+
+┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
+texte hors droits distribué sous licence libre
+Licence Creative Commons : CC-BY-NC-SA
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┌───────┐
+│ TEXTE │
+└───────┘
+
+
+
+
+LE BAISER DE L'ALSACIENNE
+Dit par M. Delaunay de la Comédie Française
+
+Le soleil de Juillet illuminait l' Alsace.
+Les appels du clairon éclataient dans l'espace…
+Tout le jour, défilaient, en chantant, pleins d 'entrain,
+Des régiments français s'en allant vers le Rhin…
+Sur la place publique, auprès de la fontaine,
+De son regard rêveur une jeune Alsacienne
+Depuis un long moment suivait avec amour
+Les zouaves préparant leur campement d'un jour :
+Quand l'un d'eux, un sergent à la mine éveillée,
+Se dirigea vers la fontaine ensoleillée :
+— Dites, la belle enfant, fit-il, portant la main
+A son turban tout gris des poudres du chemin,
+D'un peu d 'eau, s'il vous plait, me ferez-vous la grâce ?
+
+
+A cette question la blonde enfant d'Alsace
+Sourit et lui tendit son vase :
+
+
+« Assurément,
+Dit-elle, j'en aurais pour tout le régiment.
+Buvez sans crainte l'eau de la source française,
+Buvez, petit sergent, buvez tout à votre aise ! »
+
+
+Mais quoiqu'elle insistât le sergent ne but pas,
+Et les yeux dans ses yeux, il ajouta plus bas :
+« Non, vous d'abord, buvez… Ma soif n'est pas pressée…
+Buvez ! Je voudrais tant savoir votre pensée ! »
+
+
+Riant de son caprice, elle but lentement
+Et de nouveau lui dit : — Buvez donc maintenant…
+
+
+Il étancha sa soif, il but avec ivresse
+Et puis la regardant soudain avec tendresse :
+« Je ne sais rien, dit-il, de ce que vous pensez ;
+Mais si vous permettez, voilà ce que je sais.
+Je voudrais bien, avant d' affronter la bataille,
+Pouvoir dans mes dix doigts enlacer votre taille,
+Et vous prendre un baiser, un seul, là, mais bien doux !
+Dites , la belle enfant, dites, permettez-vous ! »
+
+
+Elle se défendit : C 'est un peu trop d'audace,
+Dit-elle en souriant, pour un sergent qui passe !
+Nos garçons ne vont pas si vite par ici…
+Bah ! c'est qu'on est pressée, dit-il, riant aussi…
+Et puis… , voilà je suis parisien !
+
+
+L' Alsacienne
+......................................................................................
+
+
+Mais vous êtes français, dit-elle, c'est assez !
+Je sens que tout en moi frémit quand vous passez…
+Faites votre devoir, marchez à la victoire…
+Et moi, je vous promets, et vous pouvez m'en croire,
+Si loin que le combat puisse entrainer vos pas,
+Qu 'au retour mon baiser ne vous manquera pas. »
+
+
+Le sergent s'éloigna rêveur. Cette fillette
+A la parole grave avait troublé sa tête…
+Il n 'avait qu'un désir, lui parler, la revoir…
+Sous sa fenêtre, il vint encor rêver le soir ;
+Quand le clairon sonna le départ à l'aurore,
+En repliant sa tente, il rêvait d'elle encore…
+Mais comme il s'éloignait, suivant le régiment,
+Soudain elle apparut, souriant doucement
+Et de vergiss-mein-nicht lui jetant une gerbe,
+Elle semblait lui dire en un geste superbe :
+« Va ! sergent ! souviens-toi ! moi je me souviendrai !
+Mérite mon baiser, je te l'apporterai ! »
+
+
+Wissembourg ! Wissembourg ! L'Allemagne insolent
+Pourra nous reprocher cette tache sanglante !
+Lorsqu'à vingt allemands tout le jour un français
+Tient tête, sans faiblir, c'est encor le succès.
+Furent-ils des vainqueurs ces soldats qui dans l'ombre,
+Foudroyaient à coup sûr, confiants dans leur nombre !
+Non ! le vainqueur du jour, ce fut ce beau martyr,
+Douai, qui ne pouvant plus vaincre, sut mourir…
+Ce furent ces héros, luttant cent contre mille,
+Qui sans espoir, sachant tout effort inutile,
+S' en allèrent, le rire aux dents, sous le drapeau,
+Dans les rangs allemands se creuser un tombeau !
+Wissembourg ! Wissembourg ! Laisse donc l'Allemagne
+Célébrer ce début de l'horrible campagne :
+Les tombes des héros fleuriront, quelque-jour,
+Et les vaincus auront la victoire à leur tour !
+
+
+C'est fini. La journée, hélas ! est consommée,
+Les cadavres sanglants de tout un corps d'armée
+Dans des ruisseaux de sang sommeillent pour jamais
+Et Wissembourg n'est plus qu'un cercueil désormais.
+La ferme où tout riait la veille est morne et sombre,
+Et ses vieux murs troués par des boulets sans nombre,
+Ouverts comme une porte immense jusqu'au toit,
+Semblent dire la mort : Entre comme chez toi !
+Le vieux moulin s'est tû. Son aile pend meurtrie,
+Et du ruisseau qui court à travers la prairie,
+Le sang a coloré l'eau si pure jadis.
+Sur sa rive, parmi les doux myosotis
+Sous le grand saule où le soleil couchant se joue,
+La poitrine sanglante et la mort à la joue
+Le sergent agonise. Il a fait son devoir
+Et payé son tribut à l'affreux désespoir.
+Au moment d 'expirer, il ouvre sa tunique :
+Sa main y cherche encor une chère relique,
+Les fleurs de l'Alsacienne. Hélas ! il espérait
+Dans ce doux souvenir. Sans rien dire, en secret,
+Avant de s'élancer dans la mêlée horrible,
+Il pensait en son cœur : Non ! ce n'est pas possible !
+Je ne peux pas mourir ! Je garde cet espoir,
+Elle me l'a promis et je dois la revoir !
+
+
+Pourtant il va mourir ! Sur ses lèvres glacées,
+C'est vainement qu'il tient les chères fleurs pressées.
+L'Alsacienne, échappant à son rêve éperdu,
+Ne vient pas lui donner le baiser attendu…
+Tout à coup un appel a frappé son oreille…
+Aux portes de la mort le mourant se réveille
+Quelqu'un vient… Une voix soupire en le nommant :
+« O Dieu ! permettez-moi de tenir mon serment ! »
+C'est elle… Elle le cherche… Elle approche… Elle arrive,
+Un noir pressentiment lui fait suivre la rive
+Où les vergiss-mein-nicht ouvrent leurs doux yeux bleus.
+Soudain elle le voit, il est là, sous ses yeux,
+Sanglant, expirant, mort… Un suprême sourire
+Sur sa lèvre glacée erre et semble lui dire :
+« J'attendais ton baiser… Oh ! pourquoi m'oublier ! »
+
+
+L' Alsacienne en pleurant vient de s'agenouiller,
+Elle lave le sang qui coule des blessures,
+Mais en vain sa douleur se répand en murmures,
+En vain sa douce voix s'épuise à répéter :
+« C'est moi ! c'est mon baiser que je viens t'apporter ! »
+Le petit sergent dort dans la paix éternelle.
+
+
+Alors, d'un long baiser l'alsacienne fidèle
+Ferme ses yeux éteints, et puis, se redressant,
+Frémissante, la lèvre encor rouge de sang :
+« Prussiens ! souvenez-vous comme moi, cria-t-elle,
+Vous venez de sceller l'union immortelle.
+De cet hymen sanglant la haine doit germer,
+Et je vous hais autant que j'aurais dû l'aimer ! »
+
+
+Sur la place publique, auprès de la fontaine
+On voit depuis ce jour revenir l'Alsacienne,
+Ses cheveux blonds noués d'un large ruban noir…
+Sur son front est écrit : Je suis le désespoir !
+Là-bas, les paysans qui savent son épreuve,
+La saluant bien bas, murmurent : C 'est la veuve !
+Les prussiens ont tué son sergent, et depuis,
+Vouée à sa vengeance, elle attend près du puits
+Des régiments français la prochaine arrivée…
+Ah ! sonne, heure bénie ! heure ardemment rêvée !
+Soleil de la revanche, éclate au fond des cieux !
+Debout, français ! frappons sans pitié, furieux,
+Et qu'aux veuves en deuil rendant enfin justice,
+Chaque puits Alsacien de sang prussien s 'emplisse !
+
+
+
+

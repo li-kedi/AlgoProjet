@@ -1,0 +1,192 @@
+Version TXT du texte obtenue par extraction à partir du fichier XML.
+┌───────────────────────┐
+│ Entête du fichier XML │
+└───────────────────────┘
+LAL
+LAL_1
+
+Léopold LALUYÉ
+1829-1899
+
+A LA FRANCE
+1871
+_________________________________________________________________
+Édition électronique
+Corpus Malherbə
+Laboratoire CRISCO, Université de Caen
+Contact : crisco.incipit@unicaen.fr
+_________________________________________________________________
+Préparation du texte :
+
+▫ Pamela Puntel
+  (Préparation des textes)
+
+▫ Richard Renault
+  (Mise en forme XML, application des programmes de traitement automatique, vérification et correction des données analysées)
+
+_________________________________________________________________
+Origine de la source électronique :
+
+A LA FRANCE
+LÉOPOLD LALUYÉ
+
+
+https://gallica.bnf.fr/ark:/12148/bpt6k5426053h.r=LALUY%C3%89%20L.%20A%20LA%20FRANCE?rk=21459;2
+
+
+A LA FRANCE
+LÉOPOLD LALUYÉ
+
+PARIS
+ALPHONSE LEMERRE
+1871
+
+
+
+
+┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
+texte hors droits distribué sous licence libre
+Licence Creative Commons : CC-BY-NC-SA
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┌───────┐
+│ TEXTE │
+└───────┘
+
+
+
+A MONSIEUR ANDRÉ FRANCHE
+
+O France ! après dix mois d'une lutte stérile,
+— Jours de fatale erreur que ton martyre absout, —
+Après tes nuits de siège et de guerre civile,
+Après l'embrasement de ta plus grande ville,
+Tu restes belle encore, imposante et debout.
+
+
+Ceux qui parlaient déjà de ta chute future
+Et qui de ta grandeur avaient perdu la foi,
+En te voyant si tôt reprendre ton allure
+Et secouer au vent ta forte chevelure,
+Ceux-là sont aujourd'hui bien plus pâles que toi.
+
+
+Car ta large blessure ils la croyaient mortelle,
+Ces haineux ennemis qui raillaient ta vigueur ;
+Ils la verront bientôt cicatrisée, et telle
+Que la croix du soldat, glorieuse étincelle,
+Resplendir au point juste où palpite ton cœur.
+
+
+Le temps relèvera tes sanglantes ruines,
+La sève de tes bois n'est point tarie encor,
+Tes lauriers abattus ont laissé des racines,
+Patrie ! et ton soleil a des chaleurs divines
+Qui sur ton sol aimé dardent leurs rayons d'or.
+
+
+Mais après tant de jours de doute et de martyre,
+Pour être encor la France et garder le front haut,
+— Mère, pardonne-moi ce que j'ose te dire,
+A toi qui sus toujours plus aimer que maudire… —
+Oui, pour être la France ainsi qu'il nous la faut,
+
+
+D'abord, résigne-toi, calme ta douleur vaine,
+Laisse au repos ce fer que l'implacable sort
+A tordu dans tes mains, contrains aussi ta haine,
+Comme un lion blessé qui rugit sous sa chaîne
+Et qui, pour un moment, s'accroupit et s'endort.
+
+
+Tu sauras, n'est-ce pas ? bannir de ta mémoire
+Ces vieux chants guerroyeurs qui nous grisaient souvent.
+La France, ayant subi son heure expiatoire,
+Ne doit plus demander les secrets de sa gloire
+Qu'aux leçons du passé, ce vieux maître savant.
+
+
+Et tu répudîras ces splendeurs éphémères,
+Flamme où des vanités bourdonnent les essaims,
+Et d'un geste puissant tu montreras aux mères
+Le livre du devoir et des vertus austères,
+Afin que leurs enfants soient robustes et sains.
+
+
+Tu renîras aussi la horde tyrannique
+De ces fous ténébreux qui, toujours maudissant,
+Dans leur ambition perdent la République,
+S'accrochent aux longs plis de ta blanche tunique,
+Et s'en font un drapeau qu'ils teignent de ton sang.
+
+
+Ils ne sont pas tes fils, ceux-là ! Tes enfants, mère,
+Vénèrent ta douleur et respectent ton deuil.
+Quelques-uns des combats portent la trace altière,
+Bien d'autres ne sont plus !… Ils dorment sous la terre,
+Embaumés dans leur gloire, au fond d'un froid cercueil.
+
+
+Ne les plains pas : la mort, qui dompta leur courage,
+Leur a fermé les yeux à tes affronts derniers…
+Plains les vivants plutôt, plains ceux pour qui l'orage
+N'a ni soleil ni trêve, et qui font le voyage
+De la vie à travers les plus sombres sentiers.
+
+
+A ces déshérités que le besoin flagelle,
+Que la misère enlace au fond d'un bouge affreux,
+Donne pour oasis un abri sous ton aile,
+Tends à ces affamés ta robuste mamelle,
+Qu'ils goûtent les saveurs de ton lait généreux.
+
+
+Inonde-les aussi d'air pur et de lumière,
+Dilate ces cerveaux par l'ignorance étreints,
+Montre-leur Dieu qui veille au fond de la prière,
+Fais-leur aimer la femme et respecter la mère,
+Rends moins sombres leurs nuits et leurs jours plus sereins.
+
+
+Et tu pourras alors, calme, mais attentive
+Aux flots envahisseurs de ce Rhin allemand,
+Laisser dans ton cœur fier, où Dieu veut qu'elle vive,
+Ta haine fermenter comme une eau corrosive
+jusqu'au jour désiré du dernier dénoûment.
+
+
+Il viendra, ce jour… Quand ? nul ne le sait, peut-être.
+Attends ! l'attente est forte, elle élève ou soumet ;
+Le temps qui déracine est celui qui fait naître :
+Par lui l'arbre abattu voit encore apparaître
+Des rameaux qui plus tard redeviennent sommet.
+
+
+Et tu seras toujours la grande souveraine
+Et ton épée encor servira des ingrats ;
+Et tu pourras enfin des trésors de ta haine
+Acquitter le rachat d'Alsace et de Lorraine,
+Ces robustes enfants arrachés de tes bras.
+
+
+Oui, tu vivras toujours ! Oui, malgré ta souffrance,
+Tes désastres, malgré la haine et ses complots ;
+Tu vivras grande encore ; et tu seras, ô France !
+Même dans la tempête, où sombre l'espérance,
+Comme le Fils de Dieu qui marchait sur les flots.
+
+
+Donc à l'œuvre ! En avant ! Reprends ta foi native,
+Ressaisis les outils du travail en éveil,
+Fais naître ces lueurs que ta pensée avive,
+Patrie ! et souviens.toi que l'Europe, inactive
+De ton repos, attend l'heure de ton réveil.
+
+
+
+Août 1871
+
+
+
+

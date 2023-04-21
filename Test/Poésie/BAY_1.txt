@@ -1,0 +1,1311 @@
+Version TXT du texte obtenue par extraction à partir du fichier XML.
+┌───────────────────────┐
+│ Entête du fichier XML │
+└───────────────────────┘
+BAY
+BAY_1
+
+Hippolyte BAYE
+
+
+LA FRONTIÈRE
+ESSAIS DE POÉSIES
+1871
+_________________________________________________________________
+Édition électronique
+Corpus Malherbə
+Laboratoire CRISCO, Université de Caen
+Contact : crisco.incipit@unicaen.fr
+_________________________________________________________________
+Préparation du texte :
+
+▫ Pamela Puntel
+  (Préparation des textes)
+
+▫ Richard Renault
+  (Mise en forme XML, application des programmes de traitement automatique, vérification et correction des données analysées)
+
+_________________________________________________________________
+Origine de la source électronique :
+
+LA FRONTIÈRE. ESSAIS DE POÉSIES
+BAYE, HIPPOLYTE
+
+
+https://gallica.bnf.fr/ark:/12148/bpt6k54640834.r=BAYE%2C%20HIPPOLYTE%20ESSAIS%20DE%20PO%C3%89SIES%2C?rk=21459;2
+
+
+LA FRONTIÈRE. ESSAIS DE POÉSIES
+BAYE, HIPPOLYTE
+
+PARIS
+LIBRAIRIE INTERNATIONALE LACROIX, VERBOECKHOVËN ET CIE ÉDITEURS
+1871
+
+
+
+
+┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
+texte hors droits distribué sous licence libre
+Licence Creative Commons : CC-BY-NC-SA
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┌───────┐
+│ TEXTE │
+└───────┘
+
+
+
+AU LECTEUR
+
+Lecteur, si quelque accent sauvage
+Dans ces chants te laisse irrité,
+Souviens-toi qu'ils ont éclaté
+Dans la guerre et dans l'esclavage,
+Sur notre seuil ensanglanté.
+
+
+Mais le sang n'était rien encore…
+J'ai vu parmi nos frais enclos,
+A la honte des vieux héros,
+Sous un monarque au nom sonore,
+L'honneur français couler à flots.
+
+
+Lecteur, garde-toi donc de croire
+Que j'aime à grossir nos douleurs.
+J'ai pesé ce que vaut la gloire,
+Ce que, pour étonner l'histoire,
+Certains hommes coûtent de pleurs…
+
+
+En exprimant l'horreur qu'inspire
+Des rois le caprice fatal,
+Je n'ai fait ici que traduire
+Le silence des morts et dire
+Les cris sortant de l'hôpital.
+
+
+
+LE CHEVAL ET LE CAVALIER
+BALLADE1
+
+« En avant !… » et dans la mêlée,
+Le colonel, l'épée au vent,
+Guide la colonne ébranlée
+Qui gronde et s'écrie : « En avant ! »
+Dédaigneux d'effleurer la terre,
+Fendant l'air d'un front familier,
+Voyez bondir vers le cratère
+Le cheval et le cavalier !
+
+
+Ils volent : l'audace les mène.
+Les tranchants tombent sans remords.
+Le bruit de la tempête humaine
+Trouble jusqu'au monde des morts.
+Contre les fers et les cartouches,
+Là, ni rempart, ni bouclier.
+Mais qu'importe aux élans farouches
+Du cheval et du cavalier !
+
+
+Dans la flamme un globe sonore
+Monte et se fraie un long chemin.
+Le sanglant et lourd météore
+Fait pleuvoir partout du carmin.
+Malheur ! un double cri d'angoisse
+Répond à l'éclair meurtrier…
+Le tourbillon poursuit et froisse
+Le cheval et le cavalier.
+
+
+Les morts rapides sont sereines.
+Le soldat semblait endormi :
+De la main, il serrait les rênes,
+De l’œil, il cherchait l'ennemi.
+Son compagnon dans les batailles
+Agonise sur le hallier.
+Le canon tinte aux funérailles
+Du cheval et du cavalier.
+
+
+Noble animal ! la douleur ronge
+Tes flancs par l'obus entr'ouverts.
+Pourtant tu lèches, comme en songe,
+Les pleurs taris des gazons verts.
+Vivras-tu ? De ta riche veine
+Perdras-tu le trésor entier ?
+Toute espérance est-elle vaine ?
+Vas-tu suivre ton cavalier ?
+
+
+Mais ton jarret souple et rapide
+Bat l'air, tressaille et se roidit.
+Sur ton œil jadis intrépide
+La Mort étend son doigt maudit.
+Tout est fini ! Plus rien ne bouge
+A ton col vierge du collier.
+Dormez sous votre linceul rouge,
+Dormez, cheval et cavalier.
+
+
+S'il est une sphère invisible
+Dont nul hôte ne doit périr,
+Qu'elle soit bientôt accessible
+Au couple qui sort de mourir.
+Dieu du monde, vaste génie
+De ce séjour hospitalier,
+Dans cette existence infinie
+Joins le cheval au cavalier.
+
+
+Là, dans leur dernière patrie,
+Là, par un éternel printemps,
+Le long d'une molle prairie,
+Qu'ils bondissent, les combattants !
+Qu'un seul souvenir les escorte,
+Le seul qui ne doit s'oublier :
+Celui de l'amitié que porte
+A son cheval le cavalier.
+
+
+
+15 septembre 1870.
+
+Écrit en souvenir de la charge des cuirassiers 
+au Mont-de-Breune, près de Mouzon. 
+(Journée du 30 août 1870.)
+
+
+
+LES PRISONNIERS DE GUERRE EN MARCHE
+
+Allons, conscrit, ranime ton courage.
+De notre escorte il faut suivre le pas.
+Le faible oiseau qui tourne dans l'orage,
+Gémit en vain, mais ne s'arrête pas.
+Prends ce bâton : dans un vallon kabyle
+Je le taillai d'un olivier âgé.
+Sur mon vieux bras, soutiens ton pied débile.
+Je sais souffrir, moi, j'ai plus d'un congé.
+
+
+Le malheur coûte à ton âme encor tendre.
+Ah ! trop de maux sur ta tête ont fondu !
+La loi d'abord au. foyer vint te prendre ;
+Deux mois après, marche et combat perdu.
+Un peu de gloire eût doré nos fatigues.
+Sans l'espérer, l'ennemi fut vainqueur.
+Nos généraux, aguerris dans les brigues,
+Cherchaient en vain leur science — ou leur cœur.
+
+
+Jeune, jeté sur le brûlant rivage
+De cette Afrique, au nom français depuis,
+Je fus traîné longtemps en esclavage
+Dans un désert que n'humecte aucun puits.
+Courbé, souffrant, je pleurai ma défaite.
+Puis la fierté chassa le désespoir.
+Même captif, il doit lever la tête
+Celui qui fit jusqu'au bout son devoir.
+
+
+Un roi voisin fit déborder la coupe
+Pleine déjà de fiel et de dédain.
+On cria : « Guerre ! » Une brillante troupe
+Du Louvre alors éblouit le jardin.
+Mais le palais qui fût jadis une aire
+Avait nourri des paons au lieu d'aiglons ;
+Et nous payons leur splendeur adultère,
+Toi de tes pleurs, moi de mes vieux galons.
+
+
+Les Allemands, ivres de leur victoire,
+Nous froissent tous d'un talon méprisant.
+Pas un ne sait, purifiant sa gloire,
+De son respect nous faire le présent.
+Pourtant la France, à leur race plaintive,
+A mille fois offert son sein tendu.
+Ce sein béni de leur mère adoptive,
+Comme ils sont fiers tous de l'avoir mordu !
+
+
+A trop conter ma colère s'attise.
+Viens, mon enfant, marchons silencieux,
+Morbleu ! des pleurs sur ma moustache grise ?
+Heureusement, la nuit tombe des cieux.
+De notre soir, bien que chargé d'orages,
+Peut naître encore un radieux matin.
+La Liberté, mère des grands courages,
+Oui, j'en suis sûr, domptera le Destin.
+
+
+
+12 septembre 1870
+
+
+
+
+LA MENDIANTE DE BAZEILLES
+
+« Donnez ! » me criait sur la route
+Une enfant qui courait pieds nus.
+« Donnez ! que votre cœur écoute
+Les pleurs amers du mien venus.
+Donnez ! Autrefois notre père
+Du travail tirait un peu d'or.
+Seulement de quoi vivre encor,
+Mes petites sœurs et mon frère !
+
+
+Les ennemis forts et nombreux
+S'en vinrent déchirer la France.
+Partout — riches ou malheureux —
+Ce fut un long cri de souffrance.
+Après des batailles, un soir,
+Il en vint un, puis un cortège.
+Ma mère dit : « Dieu nous protège !
+« Longtemps il nous faudra les voir. »
+
+
+Pour apprivoiser leur colère,
+On servit pain, chair et boisson,
+Jamais aux jours de grand salaire
+On n'en vit tant à la maison.
+Mais toujours, d'une voix terrible,
+A nouveau chacun exigeait ;
+Et son fusil se dirigeait
+Sur nous, comme sur une cible.
+
+
+De peur, nous frémissions tout bas.
+Ma mère osa trahir ses larmes.
+Soudain l'un d'eux bondit, — hélas ! —
+Jure et la perce de ses armes.
+L’œil en feu, mon père à leurs coups
+Oppose une hache : on l'écrase.
+Nous fuyons ; le toit qui s'embrase
+Pétille au loin derrière nous.
+
+
+Nous errons près de la frontière.
+Au village habite la Mort.
+La Mort est douce au cimetière :
+Là, près de Dieu, l'innocent dort.
+Mais une ruine flétrie,
+Pour nos parents quel dur tombeau !
+Pas un débris, pas un lambeau
+Qui ne parle de leur furie !
+
+
+Nous mendions par les chemins,
+Vivant des dons de tout le monde.
+Il est des êtres inhumains
+Qui disent : « Va-t'en, vagabonde ! »
+Amer est le pain d'étranger ;
+Mais il aide notre misère.
+Donnez, et notre petit frère
+Pourra grandir et nous venger !…
+
+
+
+20 septembre 1870.
+
+
+
+
+LE CONQUÉRANT
+
+Des bruits avant-coureurs ont semé l'épouvante.
+A la vitre déserte, on voit percer le deuil.
+Le carrefour s'emplit d'une .masse vivante ;
+Dans l'air silencieux quelque voix discordante
+Porte au loin la terreur et sonne avec orgueil.
+Sur le seuil attendri par le pas d'une mère
+Retentissent le sabre et l'éperon vibrant ;
+Ils rompent des verrous la défense éphémère…
+Le foyer envahi ! quelle douleur amère !
+Mais cachons bien nos pleurs : voici le conquérant !
+
+
+Dans les scintillements de mille baïonnettes,
+Il s'avance escorté de ses sanglants drapeaux.
+La crainte a mis un sceau sur les lèvres muettes,
+Et nul ne saurait lire, aux faces inquiètes,
+Si l'amour ou la haine anime ses troupeaux.
+Un soldat épuisé, sans pain, chancelle et tombe.
+Dans une fosse humide, il se couche mourant.
+Encore un jeune espoir englouti par la tombe !
+Mais que fait au vautour le sort dé la colombe ?
+C'est dans un nid d'airain qu'éclôt un conquérant.
+
+
+Humble, la cité tremble et s'agenouille en larmes.
+Sa prosternation fait grandir le vainqueur.
+Dans le temple chrétien il engouffre ses armes,
+Et le clairon répand d'insolentes alarmes
+Sous les arceaux troublés de la nef et du chœur.
+L'orgue élève pour lui sa voix douce et profonde ;
+Et les flots vaporeux de l'encens enivrant,
+De l'encens réservé pour le Sauveur du monde,
+Baignent un front chargé d'une tiare immonde :
+Le casque d'un soudard appelé conquérant.
+
+
+La victoire aujourd'hui couronna la bataille.
+Il est nuit. Des flambeaux constellent le quartier.
+Partout fument les plats chers à la valetaille.
+La céleste Harmonie, au pied de la muraille,
+Chante, prostituée à l'écraseur altier.
+Dans un hangar voisin, le vent du nord soupire :
+Là, gisent des blessés sur l'un et l'autre rang ;
+L'un conjure le ciel, l'autre en silence expire.
+Leurs membres ont valu des duchés à l'empire.
+Qu'est-ce qu'à leurs foyers rendra le conquérant ?
+
+
+Quelle aurore nocturne empourpre la verdure ?
+Un incendie immense aux élans furieux,
+Comme un tigre emportant une fraîche pâture,
+Bondit de seuil en seuil, de toiture en toiture,
+Et de sa griffe rouge ose tâter les cieux.
+Un long débris d'humains, éplorés, pêle-mêle,
+S'efforcent d'échapper au monstre dévorant.
+Lorsque retombera la dernière étincelle,
+Des squelettes noircis, seuls, — monument fidèle, —
+Diront : « Ces lieux ont vu passer un conquérant. »
+
+
+Il est au fond de l'Inde une infernale idole.
+Sur un char monstrueux son autel est porté.
+Il roule ; tout un peuple en vertige s'immole,
+Et le sage brahmane aspire à l'auréole
+De se faire broyer sous sa divinité.
+L'heureuse Europe assiste à des pompes pareilles.
+J'ai vu, — sortant du Nord, — un peuple délirant
+De son dieu par ses cris réjouir les oreilles,
+Et pétrir de sa chair de sanglantes merveilles
+Au monarque prussien, Jaguernauth-conquérant.
+
+
+
+28 octobre 1870.
+
+
+
+
+LE BLESSE
+ESSAI
+
+Au printemps, quand tombe le givre,
+Blessé s'en revint un conscrit.
+La poudre l'avait laissé vivre :
+Dieu sait pourtant ce qu'il souffrit !
+Déchiffrant son maigre visage
+Par un poil inculte ombragé,
+Les petits enfants du village
+Dirent : « C'est Pierre ! Oh ! dieux ! qu'il est changé ! »
+
+
+Sur un seuil ceint d'une charmille
+Où la sève prenait l'essor,
+De son rire une jeune fille
+Égayait un noir corridor.
+La voyant, le soldat s'écrie :
+« Votre amour seul m'a protégé ! »
+Mais, presque honteuse, Marie
+Balbutiait : « Combien il est changé ! »
+
+
+« Je reviens meurtri par la guerre, —
+Dit-il ; — mais j'ai gardé l'espoir.
+Voyez ! cette boucle légère
+Me fut par vous donnée un soir.
+Votre bouche froide et muette,
+Quoi ! me laisse découragé ? »
+Confuse et détournant la tête,
+Elle répond : « Que vous êtes changé ! »
+
+
+« Oui, — dit-il ; — mais sachez la cause.
+Qui rougirait d'un tel destin ?
+Ce bras vous payait d'une rose
+Un frais tribut chaque matin.
+Un boulet l'eut en sacrifice.
+Du moins mon pays est vengé !
+Heureux qui comprend la justice ! »
+Elle répond : « Que vous êtes changé ! »
+
+
+Il s'éloigne pressant ses larmes.
+Combien il enviait le sort
+De ceux qui, tombant sous les armes,
+N'ont d'autre douleur que la mort !
+Il marche sans voir, sans entendre,
+Un poignard dans l'âme plongé.
+Cruelle est la voix jadis tendre
+Qui vous apprend que vous êtes changé !
+
+
+Il tombe attristé chez sa mère
+Qui le serre en ses bras ravis.
+« Te voir finit ma peine amère.
+« Tu reviens blessé, mais tu vis !
+« Mes longs chagrins, je les oublie ;
+« Mon pauvre cœur bat allégé.
+« Malgré ta figure pâlie,
+« C'est toujours toi ! mon fils n'est pas changé ! »
+
+
+Mais Pierre, dardant un œil sombre :
+« Va, tu t'abuses,— poursuit-il.
+« Parti vivant, je reviens ombre ;
+« Mon hiver commence en avril. »
+— « Je devine l'âme frivole
+« Par qui tu viens d'être jugé.
+« Ah ! loin de croire à sa parole,
+« Crois seulement que son cœur a changé. »
+
+
+— « Ainsi, je serai pour la terre,
+Pour tous, un inutile poids.
+Jamais, à ma voix solitaire,
+Ne répondra, douce, une voix. »
+— « Crains-tu que, par un peu d'écume,
+Tout ton bonheur soit submergé ?
+Toute vie a son amertume.
+Et ton berceau, méchant, est-il changé ? »
+
+
+Comme elle achève ce reproche,
+Le seuil frémit d'un petit pas.
+Une ombre svelte entre et s'approche,
+Pleine d'un pudique embarras.
+D'un fermier c'est la chaste fille,
+Ange connu de l'affligé.
+Jamais, suspendant son aiguille,
+Le malheureux ne vit son cœur changé.
+
+
+D'une pitié douce, attendrie,
+Le front peint d'un tendre carmin,
+Murmurant le nom de « Patrie, »
+Au soldat elle tend la main.
+Pierre, tiré de son lourd rêve,
+Et du désespoir déchargé,
+Savoure une voix qui s'élève
+Et qui lui dit : « Vous n'êtes pas changé ! »
+
+
+Cependant, sans parler encore,
+Ses regards seuls font des aveux.
+Vers l'avenir qui se colore,
+Il vole sur l'aile des vœux.
+Noble débris, par la tendresse,
+Que ton malheur soit corrigé !
+Aime, et qu'un son plein de caresse
+Dise longtemps : « Non ! tu n'es point changé ! »
+
+
+
+Mars 1871.
+
+
+
+
+L'EMBUSCADE
+
+« Richard ! » — «, Mon lieutenant ? » — « Avance
+Là, vers ces houx, sur le gazon,
+Rampe, l'arme au poing, en silence.
+Entends-tu ? Veille à l'horizon.
+Si le Prussien, odieux fantôme,
+Affronte enfin nos carrefours,
+Tant mieux ! Ma carabine chôme ;
+La poudre attend depuis trois jours.
+
+
+Sous ce chêne, fier de son faîte,
+Je foule de joyeux débris.
+Là, des chasseurs auront en fête
+Traqué le cerf dans ses abris.
+Aujourd'hui, tout bras qui s'honore
+Poursuit un gibier exécré.
+Quel orgueil, quand le bois sonore
+Redit son cri désespéré !
+
+
+S'appuyant sur le droit du glaive,
+Un roi barbare a décrété
+Que tout vaincu qui se soulève
+Se met hors de l'humanité.
+Et de notre sang il le signe,
+Cet arrêt d'un cœur ténébreux !
+Honte au lâche qui se résigne
+A traîner ce joug onéreux !
+
+
+Sur nos murs flétris, — avec rage ; —
+J'ai vu, vieux soldat africain,
+Afficher ce royal outrage
+Dans un pays républicain.
+Aux tyrans on doit résistance,
+Et c'est le poignard à la main,
+Au travers de leur existence,
+Qu'un peuple se fraie un chemin.
+
+
+A notre jeunesse enhardie,
+J'ai crié : « Qui se sent du cœur ?
+Chassons ces valets d'incendie,
+Au bras cruel, à l’œil moqueur.
+Que leurs corps, — pour notre salaire, —
+Encombrent le monde infernal !
+Peuple, déchaîne ta colère :
+Elle vaut seule un arsenal. »
+
+
+On s'est armé. Ces vieilles roches
+Nous offrent un nid de vautour.
+Sur le vallon, sur ses approches,
+Planant, nous fondons tour à tour,
+Si les fils chéris de l'armée
+Ont compromis notre bonheur,
+Du moins de la patrie aimée,
+Nous, les bâtards, sauvons l'honneur.
+
+
+Alerte ! au loin, dans la poussière,
+Un détachement vient à nous.
+Du bois hérissons la lisière.
+Chacun à son poste, à genoux !
+Déjà plus près brillent leurs armes ;
+De leurs chevaux j'entends les pas.
+Leurs chants insultent à nos larmes :
+Qu'ils s'éteignent dans lé trépas !
+
+
+En tête marche un capitaine…
+Mon cœur ne peut se contenir…
+Cette face froide et hautaine
+En moi réveille un souvenir.
+Eh ! c'est lui !… lui qui, de sa lame,
+Parce qu'on n'avait plus de pain,
+Fouetta ma tante, vieille femme !…
+Bourreau, tu mourras de ma main.
+
+
+Venez, balles, et frappez juste !
+Viens, mon fusil, fais ton devoir !
+Qu'il sente là mort dans soft buste,
+Bien avant qu'il nous ait pu voir,
+Son corps aux vers ! à moi la selle !
+En joue, et visons sûrement…
+Feu !… la poudre est bonne… Il chancelle,
+Tombe… J'ai tenu mon serment.
+
+
+Anéantissons cette horde.
+Francs-tireurs, vengez vos cantons.
+Du plomb, et sans miséricorde !
+Pour la justice nous luttons.
+On creusera sous la feuillée
+Pour leurs morts un trou fraternel,
+Et la terre par eux souillée
+Sera leur séjour éternel. »
+
+
+
+Octobre 1870.
+
+
+
+
+LA VOIX DES RUINES
+
+Des murs flottants comme des ombres ;
+Des poutres, des fers, des tronçons ;
+Le silence sur ces décombres :
+Plus de meunier, plus de chansons.
+Là-bas, une ronce ennemie
+Enlace l'ailette endormie
+Et-sur les monceaux va grimpant
+Au lieu du babil de la roue,
+Un filet d'eau, rauque, s'enroue,
+Troublé par le lézard rampant.
+
+
+Moulin, meunier, meunière,
+Qui donc vous a fait taire
+Pour toujours à la fois ?
+C'est encore la guerre,
+Invention des rois.
+
+
+Deux princes, sinistres comètes,
+Ici, se heurtèrent un jour.
+Le chaos, roulant sur nos têtes,
+Ébranla cet obscur séjour.
+Voués à la grande hécatombe,
+Les époux dans la même tombe
+Tombèrent frappés du canon ;
+Et lorsque s'exhalait leur âme,
+Chez eux, par le fer et la flamme,
+Un conquérant gravait son nom.
+
+
+Ce fléau séculaire
+Dans sa seule colère
+Puise en tout temps ses droits.
+Tout broyer par la guerre,
+C'est le plaisir des rois.
+
+
+Quelle demeure hospitalière !
+De la main qui les nourrissait,
+Des oiseaux l'aile familière
+Ne craignait fusil ni lacet.
+Où donc es-tu, troupe infidèle ?
+Quoi ! déjà la tendre hirondelle
+A d'autres murs porte son nid.
+Oui, la meunière inconsolée
+Ne Verrait plus dans la vallée
+Les pigeons qu'elle y réunit.
+
+
+Cette tribu légère,
+De la paix messagère,
+Se plonge au fond des bois.
+Car elle hait la guerre
+Et les foudres des rois.
+
+
+Mon enfance, qui fut voisine
+Du chaume plus que du château,
+Reçut du meunier sans lésine
+Fraîches cerises, blanc gâteau.
+Comment payer ma vieille joie ?
+Paix est due à celui qui choie
+Tout être humain faible ou petit.
+Mais quand la force partout gronde,
+Le bien semé parmi le monde
+Ne sauve ni ne garantit.
+
+
+Ils sont là sous la terre
+De ce pré solitaire
+Où se penche une croix.
+C'est l’œuvre de la guerre,
+C'est l'ouvrage des rois !
+
+
+Pauvres gens ! l'histoire abandonne
+Vos noms à l'oubli détesté,
+Elle qui tresse une couronne
+Aux bourreaux de la Liberté.
+Votre meurtre, nul ne l'expie.
+Aux sons d'une fanfare impie,
+Vos mânes frémissent encor.
+— Juste Dieu ! cessez donc d'absoudre
+Les criminels qui, noirs de poudre,
+Tachent de sang leurs trônes d'or !
+
+
+Faites sur notre sphère,
+Aux éclats du tonnerre,
+Descendre cette voix :
+« Maudite soit la guerre !
+« Et maudits tous les rois !
+
+
+
+Novembre 1870.
+
+
+
+
+LA RÉQUISITION
+
+Jean grelotte au lit, de la fièvre.
+Sa femme berce au coin du feu
+Un frais nouveau-né dont la lèvre
+S'ouvre, rose, sous un œil bleu.
+
+
+Tout est triste ; aussi la fermière
+Pour son enfant ne chante point…
+Grand Dieu ! qui frappe à la barrière
+Du pied, de la lance et du poing ?
+
+
+C'est un uhlan couvert de neige.
+Il entre : la porte a cédé.
+Dix autres lui font un cortège.
+Devant eux le chien a grondé.
+
+
+Il presse le loquet fragile,
+Et lance — toujours en fumant,
+En salut au paisible asile,
+Dans la bouffée — un jurement.
+
+
+Pauvre mère, en son humble couche,
+Dépose ton frêle trésor.
+Sers vite l'étranger farouche,
+Pour qu'il soit patient encor.
+
+
+Il crie en sa langue barbare :
+« Pain, vin, viande ! » — et s'approchant
+De l'escabeau dont il s'empare,
+Son geste ajoute : « Et sur-le-champ, »
+
+
+La fermière couvre la table.
+Jean, qui ne sent plus ses douleurs,
+Court défendre dans son étable
+Sa génisse aux vives couleurs.
+
+
+Qui ne connaît le bruit étrange
+Des soudards parquant leurs chevaux,
+Et lançant partout dans la grange
+En litière les blés nouveaux ?
+
+
+Quel laboureur n'a, sous la chaîne,
+Vu partir ses bœufs mugissants
+Qui, sentant la masse prochaine,
+Ouvraient de grands yeux languissants ?
+
+
+Qui n'a vu la horde funeste,
+— Marchant sur la veuve à genoux —
+Lui prendre l'agneau qui lui reste ?
+Qui ne l'a vu ? qui d'entre nous ?
+
+
+A ton tour, Jean, de ta demeure
+Tu vois dégorger le butin.
+Ce n'est pas tout ; car voici l'heure
+De le conduire au camp lointain.
+
+
+Allons, Gaulois, allons, attelle !
+Aide au triomphe des Teutons.
+N'espère point d'être rebelle
+Sous l'amorce des mousquetons.
+
+
+A travers les frimas qui tombent,
+Au camp prussien, pousse, Français,
+Pousse tes chevaux qui succombent
+A frayer un pénible accès.
+
+
+Il t'a conté ses temps épiques,
+Ton père, vainqueur d'Iéna.
+Toi, tu marches entre les piques
+De ceux que l'autre domina.
+
+
+Voilà le cycle de la gloire !
+Les demi-dieux et les héros
+L'ouvrent, rayonnants, et l'histoire
+Le ferme par d'obscurs bourreaux.
+
+
+
+Décembre 1870.
+
+
+
+
+LA FLORAISON GUERRIÈRE
+
+Au soleil pâlissant, entre quatre murailles
+Qui protègent la paix des morts,
+Dans un angle où la terre a laissé ses entrailles
+S'ouvrir aux vaincus du dehors,
+Voyez quelques soldats pénètrent en silence,
+Courbés sur un obscur fardeau.
+Un haillon éploré dans leurs pieds se balance,
+De la mort triste et vain rideau.
+
+
+Le gazon soulevé, comme un flot sur les ondes,
+Dans l'air un instant suspendu,
+Sur l'étroite limite où se touchent deux mondes,
+Docile au signal attendu,
+Retombe ; — et la lueur vague du crépuscule
+Flotte encor dans l'éther pâli
+Que déjà sur les flancs du nouveau monticule
+S'asseoit le ténébreux oubli.
+
+
+Oui, soldat inconnu, les Voix confraternelles,—
+Les voix qui, naguère, en trinquant
+Sous les festons vineux des pendantes tonnelles
+T'offraient un verre provoquant,
+De tes traits disparus se souviendront à peine !
+A peine, pauvre fantassin,
+Ton départ s'est-il vu dans cette ruche humaine,
+Comble d'un éternel essaim.
+
+
+Un étranger se glisse en ta cellule vide.
+Il dort où ton bras désarmé
+Te berçait dans la nuit, de jours encore avide,
+Peut-être heureux, peut-être aimé. —
+Demain quand les clairons, émules de l'aurore,
+Demain quand les tambours, battants,
+Troublant de l'escalier la spirale sonore,
+Chasseront les songes flottants,
+
+
+Ton ombre, errante autour des murs de la caserne,
+A ton rang pourra voir demain,
+L'autre puiser la poudre ardente à ta giberne
+Et briller ton arme à sa main. '
+— Ainsi meurt le soldat. Sa courte renommée
+Tombe avec les rayons du jour ;
+Pour pleurer ses enfants, il faudrait à l'armée
+Trop de larmes et trop d'amour.
+
+
+Ce n'est pas une mère à la molle tendresse.
+Sur ses fils morts son cœur courbé
+N'épanche pas les flots d'une longue tristesse,
+Comme l'antique Niobé.
+Mais, imitant de Sparte une fière matrone,
+Elle offre aux autels infernaux
+Leurs mânes refroidis et, redoublant l'aumône,
+Enfante des guerriers nouveaux.
+
+
+Quand, au mois radieux l'arbuste se déflore,
+Sous les coups lointains d'un enfant,
+Une sève nouvelle aussitôt vient éclore
+A son front vert et triomphant.
+Ainsi, lorsque la Mort crible, dans sa colère,
+Les régiments épanouis,
+On voit poindre sans fin la sève populaire
+Sur les germes évanouis.
+
+
+
+A UN SOLDAT ENNEMI
+
+En déposant ta crosse meurtrière,
+Ton œil sourit près du fer menaçant.
+Ta voix se plie au ton de la prière
+Pour implorer la part hospitalière
+Que tout chrétien doit toujours au passant.
+
+
+Merci, soldat ! — Assieds-toi, le feu brille.
+La neige encor pèse à tes pieds fumeux.
+Dans les longs soirs, quand la souche pétille,
+Là, nos aïeux se chauffaient en famille.
+Sur leur fauteuil, étranger, fais comme eux.
+
+
+Mange ce pain ; prends cette tasse pleine.
+A nos repas ta faim trouvera mieux.
+Mais, quoi ! ta lèvre hésitante, incertaine,
+De ce vin pur s'est approchée à peine,
+Et sur ta main ton front pend soucieux…
+
+
+Ah ! je comprends ! je comprends à ton geste,
+A ton regard d'une larme obscurci,
+Un père âgé—là bas, là bas te reste.
+Ta mère tremble à tout penser funeste
+Près d'un foyer paisible, comme ici.
+
+
+Jeune soldat, j'ignore si ta lame
+A fait cesser de battre un cœur humain.
+Mais la piété n'a point de source infâme.
+Non ! rien n'a pu rejaillir sur ton âme
+Du sang versé — sans désir — par ta main.
+
+
+Si j'ai maudit l'implacable délire
+Dont contre nous ton peuple est animé,
+A contempler ton triste et doux sourire,
+A te parler, ma sourde haine expire.
+Encore un jour, et tu serais aimé !
+
+
+Car on pardonne au guerrier magnanime
+Qui, traversant le tumulte infernal,
+Fait son devoir sans glisser dans le crime,
+Et montre en lui l'alliance sublime
+D'un bras vaillant et d'un cœur virginal.
+
+
+
+Décembre 1870
+
+
+
+
+LA SUISSE
+
+Voici la saison de clémence !
+Laboureur, prends le soc en main ;
+A la glèbe unis la semence.
+Toi, soleil, bénis leur hymen.
+La terre a craint un éternel veuvage,
+En fossoyeurs se changeaient les colons ;
+Mais, pour fermer cette ère de ravage,
+Un peuple ami dépouille ses vallons.
+
+
+La France eut des jours de richesse.
+Des États oublieux l'ont su.
+L'ennemi même qui l'oppresse
+Pourrait dire le pain reçu.
+Booz connaît la disette cruelle
+Dans ses champs, où le pauvre a tant glané.
+Honneur à Ruth ! elle offre sa javelle,
+Elle sourit au maître infortuné.
+
+
+O Suisse ! ô terre généreuse !
+Ton cœur ici s'est révélé
+Insensible à la force heureuse,
+Épris du courage accablé !
+Sans écouter siffler la calomnie,
+Pour nos vaincus tu parais ton berceau.
+Les fils errants du chantre d'Athalie
+Ont dû la vie aux neveux de Rousseau.
+
+
+Qu'on aime à deviner en rêve
+Tes lacs, tes monts et tes torrents !
+Là-bas les ennemis font trêve
+Et mêlent leurs flots émigrants.
+Là-bas, surtout, aucune ombre de maître
+N'ose infecter l'âme du pèlerin.
+Suisses, jamais nul n'a pu vous soumettre :
+Le Devoir seul est votre souverain.
+
+
+Vos dons consolent la nature.
+Elle a trop gémi sous le poids
+Des guerres qui, pour leur pâture,
+Épuisaient bourgs, prés, champs et bois.
+Le blé tombant de vos mains fraternelles
+En verts parfums bientôt aura germé.
+Le vent de France en chargera ses ailes,
+Et vous prépare un message embaumé.
+
+
+Chaque grain d'une gerbe est père ;
+La gerbe aura mille épis mûrs.
+On verra l'aisance prospère
+Des ruines relever les murs.
+Et quand viendront les tempêtes neigeuses,
+A leur foyer, tranquilles, les époux
+Réveilleront, des luttes orageuses,
+Deux souvenirs… Le vôtre sera doux !
+
+
+Dans le destin qui nous afflige
+Renaissent d'antiques vertus
+Par qui reprendront leur prestige
+Nos drapeaux, hélas ! abattus.
+Sur le Jura les feux de délivrance
+Luiront un jour ; mais alors point d'oubli !
+Ils vous peindront l'amitié de la France,
+Et leur reflet salûra le Grûtli.
+
+
+
+Mars 1871.
+
+
+
+
+A GAMBETTA
+
+Puisque, tombé, de serviles colères
+Jettent ton nom aux fanges des ruisseaux ;
+Puisque, insultant à tes faits consulaires,
+En vils poignards on change tes faisceaux,
+
+
+Grand citoyen, laisse un libre poète
+A ta disgrâce envoyer ses saluts.
+Sous ton pouvoir son estime muette
+Peut s'exprimer si ton pouvoir n'est plus.
+
+
+Pour notre honneur, oui, le ciel te fit naître
+Où, dans la Gaule implantant ses autels,
+Rome, encor pure et vierge de tout maître,
+Marqua nos champs de ses pas immortels.
+
+
+Les souvenirs, là-bas, parlent en foule !
+L’œil d'un consul impose au monde entier ;
+César s'élève, et la grandeur s'écroule ;
+Du Capitole un Goth est l'héritier.
+
+
+En réveillant cette poussière humaine,
+Il te plaisait, néophyte gaulois,
+D'adorer seul la déité romaine,
+La Liberté, source sainte des lois.
+
+
+Dans l'onde antique ainsi l'âme trempée,
+Tu vins au Nord ranimer les vertus.
+Ton premier mot, tranchant comme une épée,
+Fut pour quelqu'un le poignard de Brutus.
+
+
+De quel éclat retentit ta justice !
+Paris captif sentit mollir ses fers,
+Paris qui s'est offert en sacrifice,
+Divinisant tout, jusqu'à nos revers.
+
+
+Les courtisans, accourus à la fête,
+Déifiaient un homme de hasard,
+Quand tu marquas, de ton doigt de prophète,
+Les jours comptés d'en haut à Balthazar.
+
+
+Et ce héros aspirait à la lutte !…
+Ah ! s'il eût su du moins, par sa grandeur,
+Vif météore, éblouir dans sa chute,
+Et, dans la nuit, rentrer avec splendeur !
+
+
+Mais, déserteur de son aire natale,
+Avec les cours même s'apprivoisant,
+L'aigle amolli, quand vint l'heure fatale,
+Ne put lancer le tonnerre écrasant.
+
+
+L'orage accourt, gronde, éclate, redouble.
+Le dieu menteur retombe foudroyé,
+Ne laissant voir au monde qui se trouble
+Qu'un reste impur par le vent balayé.
+
+
+Alors on vit le vautour germanique,
+Depuis longtemps de la France affamé,
+Gonflé d'orgueil et d'un triomphe unique,
+Fouiller les flancs d'un peuple désarmé.
+
+
+J'entends encor tes mâles cris de rage,
+Quand lé pays se disait tout en pleurs :
+« Qui vengera cet éternel outrage ?
+Nos cœurs meurtris ? nos immenses malheurs ? »
+
+
+De notre honneur tu prêchas la croisade,
+De la patrie en tous semant la foi.
+Tout s'ébranla, ville, hameau, bourgade,
+Contre un bandit qui s'intitule roi.
+
+
+Cinq mois entiers, d'un court tronçon de glaive,
+Digne du moins du nom de nos aïeux,
+La jeune Gaule osa cribler sans trêve
+De coups vengeurs ses bourreaux furieux.
+
+
+Si l'arme échappe à sa main frémissante,
+C'est qu'ils ont pris pour complice la faim ;
+Comme un phénix, sa force renaissante
+Dans l'avenir médite une autre fin.
+
+
+Le sang versé veut-il qu'on le déplore ?
+Non ! chaque goutte effaçait un affront.
+D'Ophélia l'on vit des fleurs éclore :
+De nos tombeaux des guerriers renaîtront.
+
+
+Tous ces martyrs, retranchés de ce monde,
+Nous ont laissé leur âme pour soutien.
+Morts glorieux ! Leur semence est féconde,
+Comme aux beaux jours du vieux printemps chrétien.
+
+
+Et toi, poursuis d'épandre l'évangile
+Par un grand siècle en mourant annoncé.
+Les rois, faux dieux, et leur culte fragile
+Iront se joindre aux cendres du passé.
+
+
+Presse l'heure où, du peuple, chêne sombre,
+Tout suintant et de pleurs et de maux,
+La Liberté, soleil naissant de l'ombre,
+Réchauffera les plus obscurs rameaux.
+
+
+Ah ! parle-nous, parle-nous d'espérance,
+Comme en hiver on rêve aux fleurs de mai ;
+Et, fils pieux, chéris toujours la France :
+Celui qui souffre a tant droit d'être aimé !
+
+
+
+10 mars 1871
+
+
+
+
+LE GUÉ
+
+Il n'est plus doux abri dans la calme vallée,
+Il n'est gazon plus mol au loisir nonchalant
+Que la rive penchante et de saules voilée,
+Que ces bords sinueux du fleuve, déroulant
+Son écharpe bleuâtre aux joncs souples mêlée.
+
+
+Là croissent, en flottant, les parfums des cressons,
+Autour du sable où fuit l'ablette, sémillante.
+Le frais myosotis y trempe ses buissons ;
+La forêt de roseaux, légère et vacillante,
+A tout vent qui frémit exhale de vains sons.
+
+
+Comme tout souriait jadis sur cette rive !
+L'écolier vagabond, inhabile lutteur,
+Y venait exercer son adresse craintive,
+Sondait de son pied nu le gouffre tentateur,
+Et, les bras arrondis, domptait l'onde rétive.
+
+
+C'est là qu'au soir tombant les troupeaux égarés,
+Oubliés des abois du molosse fidèle,
+Descendaient lentement, tachant le vert des prés.
+L'épervier et l'agneau, le bœuf et l'hirondelle,
+Sur le même abreuvoir se penchaient altérés.
+
+
+Mais un jour, effrayant les tremblantes colombes,
+Une ardente bataille ici se déchaîna.
+Le duel aérien des obus et des bombes,
+En longs sillons de feu dans l'azur rayonna ;
+Et des humains tombaient, tombaient par hécatombes !
+
+
+Au souffle mugissant de l'ouragan fatal,
+Que d'âmes en leur fleur, là, se sont envolées !
+Que de cris ont monté vers le grand tribunal !
+Et, quand le plomb rompait les phalanges troublées,
+Que de sang a rougi ce fluide cristal !
+
+
+Car la guerre n'est pas aisément assouvie.
+Et l'obus poursuivait de ses éclats d'acier
+Le blessé qui traînait le reste de sa vie,
+L'artilleur qui poussait, son robuste coursier,
+A travers le courant, vers l'autre berge amie.
+
+
+Que d'hommes, enlacés par le bras de la Mort,
+Ont vu fuir à la fois le rivage et le monde !
+Que de corps non pleurés ont, sur ce même bord,
+Tournoyé lentement, pâles, au fil de l'onde !…
+— Et pourtant (ô Nature !) aujourd'hui même encor,
+
+
+Il n'est plus doux abri dans la calme vallée,
+Il n'est gazon plus mol au loisir nonchalant,
+Que la rive penchante et de saules voilée,
+Que ces bords sinueux du fleuve, déroulant
+Son écharpe bleuâtre aux joncs souples mêlée.
+
+
+
+Mai 1871.
+
+
+
+
+POUR DES OUBLIÉS
+
+Oiseaux amis des fleurs nouvelles,
+Du printemps joyeux troubadours,
+Vous dont le vol aux mille tours
+S'égaie aux folles ritournelles,
+Chantez ici, chantez toujours.
+
+
+Ne fuyez point, l'aile effrayée,
+Si vous voyez dans les buissons
+Reluire d'étranges tronçons :
+Ce n'est qu'une lame broyée
+Par les boulets ou les caissons.
+
+
+Oui, c'est là que tonnait la guerre !
+Et peut-être aux éclairs sanglants
+Que le bronze couve en ses flancs,
+Mêliez-vous, étonnés naguère,
+Vos cris, vos jeux et vos élans ?
+
+
+Suspendez votre nid fragile
+Autour de ce tertre où tout dort,
+Nulle faux n'en rase le bord,
+Nul pied n'attente à cet asile,
+Car un ange y veille : la Mort !
+
+
+Là sont tombés, pour la patrie,
+Trois fiers soldats, trois artilleurs.
+Nul n'adoucit leurs derniers pleurs :
+Tout fumait dans la batterie,
+Et tant d'autres tombaient ailleurs !
+
+
+Les fleurs ont prêté leur parure
+A la terre qui les couvrit.
+Mais où survit leur nom écrit ?
+Du buis, qui plante la verdure ?
+Mais à leurs ombres qui sourit ?
+
+
+Ah ! souvent sans doute, à l'aurore
+Ou quand se meurt le jour lointain,
+On pourrait, des bords du chemin,
+Les entendre se plaindre encore
+Que nul ne pleure leur destin.
+
+
+Mais nos lèvres ont trop de haines…
+C'est à vous, chantres innocents,
+D'épancher ce funèbre encens.
+Pour charmer les cendres humaines,
+Il faut de doux et purs accents.
+
+
+Attendrissez vos ritournelles,
+Oiseaux charmants, gais troubadours ;
+Ralentissez vos mille tours ;
+Flattez, du doux bruit de vos ailes,
+Ceux qui dorment là pour toujours.
+
+
+
+Avril 1871.
+
+
+
+
+

@@ -1,0 +1,236 @@
+Version TXT du texte obtenue par extraction à partir du fichier XML.
+┌───────────────────────┐
+│ Entête du fichier XML │
+└───────────────────────┘
+EON
+EON_2
+
+Francis ÉON
+1879-1942
+
+Le tiers livre de Monelle
+1944
+_________________________________________________________________
+Édition électronique
+Corpus Malherbə
+Laboratoire CRISCO, Université de Caen
+Contact : crisco.incipit@unicaen.fr
+_________________________________________________________________
+Préparation du texte :
+
+▫ Manon Lavergne
+  (Préparation du texte, encodage XML)
+
+▫ Richard Renault
+  (Validation du document, application des programmes de traitement automatique, vérification et correction des données analysées)
+
+_________________________________________________________________
+Origine de la source électronique :
+
+Le tiers livre de Monelle
+Francis Éon
+
+
+https://gallica.bnf.fr/ark:/12148/bpt6k3383493g
+
+
+Le tiers livre de Monelle
+Francis Éon
+
+
+Le Divan
+1944
+
+
+
+
+┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
+texte hors droits distribué sous licence libre
+Licence Creative Commons : CC-BY-NC-SA
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┌───────┐
+│ TEXTE │
+└───────┘
+
+
+
+LE TIERS LIVRE DE MONELLE(I)
+
+(L’Esprit)
+
+VERS vous une pensée a frémi comme une aile
+Se rassemble, et bientôt s’élance sans retard
+De l’esprit de ces bois chacune aura sa part :
+La bruyère à Simone et la menthe à Monelle
+
+
+
+(Le Feu)
+
+L’azur incandescent consume le village,
+Au barrage les eaux ne sont plus que vapeurs.
+Simone ! La saison en flammes reste sage,
+Semblable au feu secret qui brûle dans nos cœurs.
+
+
+
+(Le Cactus)
+
+Monelle, je vois bien que vous êtes jalouse
+Du quatrain que j’ai fait pour Simone ce soir.
+Voici le vôtre. Et je vous aime. Je vais voir
+Si le cactus en feu fleurit sur la pelouse.
+
+
+
+(La Sauge)
+
+Je dédie à Simone une touffe tremblante
+De sauge paysanne, âme d’un pur matin.
+Adressez-vous, pour les vertus de cette plante,
+Au curé de Persac ou même au sacristain.
+
+
+
+(L’École buissonnière)
+
+Monelle, je voudrais vous promener au long
+Des hauts buissons mêlés de ronce et de ramures,
+Et parmi les sentiers couverts de ce vallon
+Baiser vos belles mains noires du sang des mûres.
+
+
+
+(La Rosée)
+
+À présent vous voilà joliment barbouillée,
+Simone qui courez dans ces chemins de chèvres !
+Mais de rosée encore une mûre mouillée
+Se donne, et mon baiser l’écrase sous vos lèvres.
+
+
+
+(Le Jeu)
+
+Monelle, taisez-vous, qu’avez-vous donc à rire ?
+Certes je vous entends très bien. Vous prétendez
+Connaître un autre jeu meilleur encore (ou pire)
+À quoi vos sentiments se sont vite accordés.
+
+
+
+(Midi)
+
+Si le brutal excès de cette heure vous blesse,
+L’ombre de mes grands buis en berceaux vous attend ;
+Et là vous prouverez à votre pénitent
+QU’AMOUR, Simone, est synonyme de NOBLESSE.
+
+
+
+(Le Nuage)
+
+Monelle, vous boudez ? vous aurais-je fâchée ?
+Vous faites la rétive et le mauvais esprit.
+Mon Dieu ! que vous voilà lointaine, et détachée…
+Mais déjà j’entrevois Simone, qui me rit.
+
+
+
+(Mémoire)
+
+Monelle bien-allante, amour, te souviens-tu
+Comme tu frissonnais de toute ta personne,
+Ce dimanche de juin, sous le frêne tortu,
+Au jardin où brûlaient les roses de Simone ?
+
+
+
+(La Minerve)
+
+Je tiens de votre grâce et de votre largesse,
+Et de vos mains — une Minerve de Poitiers.
+C’est à vous que je dois, Simone, ma sagesse :
+Vous m’avez donné mieux que vous ne promettiez.
+
+
+
+(Château l’Archer)
+
+Cette église et ce gros donjon que vous aimez,
+Mon beau rêve jaloux, Monelle, les dessine.
+Je vous pense là-bas, je vois (les yeux fermés)
+Une chambre, et son mur qu’embrasse une glycine.
+
+
+
+(Dimanche)
+
+Simone, au loin de vous le dimanche se traîne
+Morne sous le timbre étouffé des heures lasses…
+— Soudain une pensée exacte et souveraine
+Se lève, et son rayonnement brise les glaces.
+
+
+
+(La bienvenue)
+
+Vous venez sur ma route, et c’est le bon chemin,
+Monelle aux souffles chauds de septembre bercée.
+C’est vous. Je le savais. Je vous baise la main.
+Un choc au fond de moi vous avait annoncée.
+
+
+
+(De l’ombre)
+
+De l’ombre nous aimons, Simone, le mystère.
+Un jour trop éclatant à soi-même se nuit.
+Longtemps je vous respire et vous sentez la terre
+Chaude et mouillée après un orage de nuit.
+
+
+
+(L’Alerte)
+
+Vous fléchissez, Monelle, et que le ciel est tendre,
+Monelle ! et captieux sur la ville en péril.
+Mais reprise déjà vous me dites : « Septembre,
+« Je l’aime ! et je sais bien qu’il rime avec avril. »
+
+
+
+(L’Abri)
+
+Mais Simone songeuse écoute un bruit lointain,
+Et sans entendre plus Monelle un peu vexée,
+S’avoue (et cependant sûre de son destin ! )
+Dans cette cave, et d’axe en axe, désaxée.
+
+
+
+(Don du Poème)
+
+Ainsi, pour vous, douces compagnes de mon rêve,
+Filles claires ! je chante et chante sans remord.
+Et trouvez dans ce chant qu’il faut bien que j’achève
+La vie — enfin victorieuse de la mort.
+
+
+
+
+Champ-Noir,
+août 1943. 
+
+Poitiers,
+septembre 1943.
+
+Le premier Livre de Monelle reste à Marcel Schwob. L’Autre
+
+Livre de Monelle, le second, a paru au Divan de mars 1939.
+
+
+
+

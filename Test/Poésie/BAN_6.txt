@@ -1,0 +1,2468 @@
+Version TXT du texte obtenue par extraction à partir du fichier XML.
+┌───────────────────────┐
+│ Entête du fichier XML │
+└───────────────────────┘
+BAN
+BAN_6
+
+Théodore de BANVILLE
+1823-1891
+
+ODELETTES
+1856
+_________________________________________________________________
+Édition électronique
+Corpus Malherbə
+Laboratoire CRISCO, Université de Caen
+Contact : crisco.incipit@unicaen.fr
+_________________________________________________________________
+Préparation du texte :
+
+▫ Richard Renault
+  (Encodage XML, application des programmes de traitement automatique, vérification et correction des données analysées)
+
+▫ Éliane Delente
+  (Vérification des données analysées)
+
+_________________________________________________________________
+Origine de la source électronique :
+
+ODELETTES
+Théodore de Banville
+
+
+http://poesies.net/banvilleodelettes.txt
+L'édition électronique ne mentionne pas l'édition imprimée d'origine.
+_________________________________________________________________
+Édition de référence pour les corrections métriques :
+
+ Poésies complètes. Les Éxilés. Odelettes, Améthystes, Rimes dorées, Rondels, les Princesses, Trente-six ballades joyeuses.
+Théodore de Banville
+
+Bibliothèque Charpentier, Eugène Fasquelle, Éditeur
+1878
+
+
+┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
+texte hors droits distribué sous licence libre
+Licence Creative Commons : CC-BY-NC-SA
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┌───────┐
+│ TEXTE │
+└───────┘
+
+
+
+Loisir
+
+Nous avons vu ce mois d'Avril
+Engourdi par un froid subtil :
+Le printemps était en péril.
+
+
+Enfin, tout se métamorphose !
+Mai, comme un jeune sein, arrose
+De pourpre le bouton de rose.
+
+
+Le vieil Hiver est aux abois.
+Lauriers, c'est à vous que je bois :
+Si, nous irons encore au bois !
+
+
+Les pommiers sont couverts de neige.
+Avec tout son riant cortège,
+Le nouveau soleil nous assiège.
+
+
+Enfants blonds comme les épis,
+Ébattez-vous, Amours, tapis
+Sur mes divans et mes tapis !
+
+
+Voici les jours où tout me presse
+De chercher ta molle caresse,
+Poétique et sage Paresse !
+
+
+L'utile est enfin négligé.
+Depuis ce beau temps enragé,
+Chacun prend un petit congé.
+
+
+Chacun, dans le mois de la sève,
+A son dur labeur donne trêve,
+Pour dorloter un peu son rêve.
+
+
+L'homme grave songe aux houris :
+On le voit quêter les souris
+De mesdemoiselles Souris.
+
+
+On a du répit, même au bagne.
+Le feuilletoniste en campagne
+Va revoir la Grèce ou l'Espagne.
+
+
+Ploutos dédaigne son trésor,
+Et, pour six semaines encor,
+Défend qu'on lui montre de l'or.
+
+
+Nous, par les mêmes théories,
+Nous fuyons les imprimeries,
+Le mélodrame et les féeries.
+
+
+Le soir on ne boit plus de thé,
+Et notre journal endetté
+Entame les romans d'été.
+
+
+Les théâtres n'ont plus de queues ;
+Scapin court pendant quatre lieues
+Après les petites fleurs bleues.
+
+
+L'artiste, affolé de rayons,
+S'en va regarder les Troyons
+Que le bon Dieu fait sans crayons.
+
+
+Rose sort à pied, sans berline,
+Sans fard, sans diamants. Céline
+Met sa robe de mousseline.
+
+
+Le savant au cœur plein de foi
+Bouquine avec un tendre émoi
+Pour trouver un Estienne. Et moi,
+
+
+Cependant que les violettes
+Ouvrent leurs fraîches cassolettes,
+Je rimerai des Odelettes.
+
+
+
+Mai 1855.
+
+
+
+
+A Arsène Houssaye
+
+Grâce aux Dalilas,
+Nos rimeurs sont las
+De gloire,
+Et, comme un hochet,
+Ont jeté l'archet
+D'ivoire !
+
+
+Au rhythme ailé d'or
+Il fallait encor
+Un maître
+Fou de volupté,
+Alors j'ai dompté
+Le Mètre !
+
+
+J'ai repris mon luth,
+Et, suivant le but
+Féerique,
+Je m'en vais cherchant
+Le secret du chant
+Lyrique.
+
+
+Œil épanoui,
+Je peins ébloui
+Ou triste,
+Le ciel radieux,
+Et, mélodieux
+Artiste,
+
+
+Près du fleuve grec
+Murmurant avec
+Les cygnes
+Fiers de leur candeur,
+Je dis la splendeur
+Des lignes.
+
+
+Mon vin triomphant,
+Sais-tu quelle enfant
+Le verse ?
+Viens, et tu verras,
+Poëte, quel bras
+Me berce !
+
+
+O chasseur altier,
+Qui fuis le sentier
+Profane,
+Songeur qu'autrefois
+Rencontrait au bois
+Diane !
+
+
+Comme toi, qui vins
+Si jeune aux divins
+Rivages,
+Ami, j'ai toujours
+Voulu des amours
+Sauvages.
+
+
+Ah ! quand Mai sourit
+Aux prés où fleurit
+La menthe,
+Trouveurs de loisir,
+Sachons y choisir
+L'amante !
+
+
+Nymphe au regard bleu,
+Si sa lèvre en feu
+Caresse
+Nos fronts sans témoins,
+Qu'elle soit au moins
+Déesse !
+
+
+Toi, pâle et rêvant,
+Au bois que le vent
+Assiège,
+Tu suis à dessein
+La guerrière au sein
+De neige !
+
+
+Moi, parmi nos jeux,
+Mon plus orageux
+Délire
+Toujours s'en revient
+Vers celle qui tient
+La lyre !
+
+
+Sans doute elle a pris
+La foule en mépris,
+Et porte
+Un peu trop souvent
+Sa crinière au vent.
+Qu'importe !
+
+
+J'aime sa pâleur,
+Et sa bouche en fleur
+Est saine !
+Son sang et sa chair
+Les voilà, mon cher
+Arsène.
+
+
+O sens embrasés !
+Maîtresse aux baisers
+Savante !
+Tendre et chère voix,
+Ici tu la vois
+Vivante.
+
+
+Dos flexible et nu !
+Sourire ingénu
+Qui m'aime !
+L'or de ses cheveux
+M'enivre, et je veux,
+De même,
+
+
+Dans mon sang qui bout
+Gardant jusqu'au bout
+Ma fièvre
+Tout comme à présent,
+Mourir en baisant
+Sa lèvre !
+
+
+
+Mai 1855.
+
+
+
+
+A Sainte-Beuve
+
+A la porte d'un beau château
+Bâti pendant la Renaissance,
+Une dame au riche manteau,
+Les cheveux baignés d'une essence
+Divine, rit au vert coteau.
+
+
+Elle a l'œil superbe et moqueur ;
+Ses sourcils noirs aux courbes jointes
+Enivrent comme une liqueur,
+Et des rayons baisent les pointes
+Folâtres de sa bouche en cœur.
+
+
+Elle montre l'un de ses seins
+Nu. Plus souple qu'une liane,
+Cette Nymphe, heureuse aux larcins,
+A pris les armes de Diane
+Qui lui servent pour ses desseins.
+
+
+Son arc est d'un bois lisse et dur,
+Et ses flèches bien aiguisées,
+Cachant leurs pointes d'acier pur
+Sous la dorure déguisées,
+Sonnent dans le carquois d'azur.
+
+
+Quand sa tresse inonde son cou,
+(Bien que cette amante farouche
+Vous plante là pour un bijou,)
+Pour les morsures de sa bouche
+On se résigne à mourir fou.
+
+
+Cette chasseresse d'Amours
+Dont il faut, même au prix d'un crime,
+Idolâtrer les fiers atours
+Et les belles mains, c'est la Rime,
+Délice et tourment de nos jours.
+
+
+Quel bonheur, d'orner ses appas
+De joyaux ! Au bois qu'avril dore,
+Quel bonheur de baiser ses pas !
+Quand on l'a connue, on l'adore
+Pour jamais, et jusqu'au trépas.
+
+
+Oh ! pour moi, rien n'éclipsera
+Sa lèvre indignée et rieuse !
+Sa voix seule me bercera
+Et mon sang tout entier sera
+Bu par cette victorieuse.
+
+
+Car, s'il faut la fuir, quel tourment !
+Loin de son regard comme on jeûne !
+Ce que vaut ce clair diamant
+Tu le sais bien, toi qui, tout jeune,
+As été son plus cher amant !
+
+
+
+Mai 1855.
+
+
+
+
+A Charles Asselineau
+
+Vainement tu lui fais affront,
+Votre brouille m'amuse,
+Car je reconnais sur ton front
+Le baiser de la Muse.
+
+
+Tout est fini, si tu le veux ;
+Mais que le vent les bouge,
+Vite on le voit sous tes cheveux,
+La place est encor rouge.
+
+
+Tu fuis le bois des lauriers verts
+Et la troupe des cygnes,
+Et, pour mieux laisser l'art des vers
+A des chanteurs plus dignes,
+
+
+Tu ne t'égares plus jamais
+Sous la lune blafarde.
+La modestie est bonne, mais
+Cette fois prends-y garde !
+
+
+Par ces scrupules obligeants,
+Trop souvent on condamne
+La fée amoureuse à des gens
+Coiffés de têtes d'âne.
+
+
+Firdusi ne vit plus à Thus !
+Toutes les nuits un ange
+Vient baiser les fleurs de lotus
+Aux bords sacrés du Gange ;
+
+
+L'hyacinthe frissonne encor
+Dans les clairières lisses ;
+Toujours, faisant du soleil d'or
+Les plus chères délices,
+
+
+La rose à sa douce senteur
+Enivre Polymnie,
+Mais je connais plus d'un auteur
+Qui n'a pas de génie !
+
+
+Viens ! ne laisse pas galamment
+Notre gentille escrime
+Aux sots, privés également
+De raison et de rime.
+
+
+Au moins, reprends notre lien
+Pour une année entière !
+Et d'ailleurs, ami, tu peux bien
+Chez le vieux Furetière
+
+
+Errer comme en un Sahara ;
+Acheter et revendre
+Des bouquins ; Érato saura
+Toujours où te reprendre !
+
+
+Au mois où s'ouvrent les boutons,
+Tous ceux qui l'ont aimée
+Reviennent comme des moutons
+Sur sa trace charmée.
+
+
+Or, justement, pris à l'attrait
+De mes rimes prolixes,
+J'entends errer dans la forêt
+Les elfes et les nixes ;
+
+
+Et, dans le parc où nous songeons,
+La sève, dont la force
+Croît, gonfle déjà les bourgeons
+Prêts à rompre l'écorce.
+
+
+
+Mai 1855.
+
+
+
+
+A Henry Murger
+
+Comme l'autre Ophélie,
+Dont la douce folie
+S'endort en murmurant
+Dans le torrent,
+
+
+Pâle, déchevelée
+Et dans l'onde étoilée
+Éparpillant encor
+Ses tresses d'or,
+
+
+Et comme Juliette,
+Qui craignait l'alouette
+Éveillée au matin
+Parmi le thym,
+
+
+Elle est morte aussi jeune
+Au bel âge où l'on jeûne,
+Ta pensive Mimi
+Au front blêmi,
+
+
+Et, dans la matinée
+De la vingtième année,
+Elle a fermé ses yeux
+Insoucieux.
+
+
+Parmi les pâles ombres
+Qui, joyeuses ou sombres,
+A l'entour de ton front
+Voltigeront,
+
+
+Dis, il en est plus d'une
+Dont la tendre infortune
+Souvent nous consola :
+Mais celle-là,
+
+
+C'est notre bien-aimée !
+Sa trace parfumée
+Reste encor dans les champs
+Avec nos chants !
+
+
+Lorsque, dans la nuit brune,
+Un frais rayon de lune
+Argente les berceaux
+Et les ruisseaux,
+
+
+Ta naïve Giselle
+Effleure de son aile
+Des lys et des rosiers
+Extasiés,
+
+
+Et, diaphane et blanche,
+Le soir vers nous se penche,
+En posant ses deux mains
+Sur les jasmins.
+
+
+Sa plainte triste et pure
+Dans le ruisseau murmure,
+Et s'envole en rêvant
+Avec le vent.
+
+
+Que le printemps renaisse,
+Âme de ta jeunesse,
+Elle tressaille aux sons
+De tes chansons,
+
+
+Et parfois se soulève,
+Pour les entendre en rêve
+Dans la brise passer
+Et s'effacer.
+
+
+Rendors-toi, dors heureuse,
+Pauvre fille amoureuse :
+Notre amour te défend
+Comme un enfant !
+
+
+Croise tes mains d'ivoire :
+Car, du moins, ta mémoire
+Qui sait nous attendrir,
+Ne peut mourir !
+
+
+Que le zéphyr en fête
+Te berce ! le poëte,
+Qui jadis te pleura,
+Se souviendra !
+
+
+Dans l'herbe toujours verte
+Où, de roses couverte,
+Penche sous le tombeau
+Ton front si beau,
+
+
+La fleur de la prairie
+Brille, toujours fleurie,
+Et peut se marier
+A son laurier !
+
+
+
+Mai 1855.
+
+
+
+
+A Edmond et Jules de Goncourt
+
+Comme sur un beau lac où le feuillage tremble,
+Deux cygnes dans l'azur au loin voguent ensemble ;
+Comme deux fiers chevaux, buvant au flot des airs,
+Courent échevelés dans le feu des déserts ;
+Comme en un bas-relief plus blanc que les étoiles,
+S'avancent le front haut deux vierges aux longs voiles ;
+Comme deux vers jumeaux volent d'un même essor,
+Attachés par la Rime avec des liens d'or ;
+De même, avec amour, frères, vos deux pensées
+Marchent d'un pas égal, l'une à l'autre enlacées.
+O poëtes heureux ! comme dans votre esprit,
+Le même ardent rayon sur vos lèvres fleurit,
+Et, par un double effort, vos âmes fraternelles
+Vers le même Idéal ensemble ouvrent leurs ailes !
+
+
+
+Mai 1855.
+
+
+
+
+A Alphonse Karr
+
+Que de fois sous les tilleuls,
+Tous deux seuls
+Avec ma maîtresse blonde,
+Ton livre m'a fait songer,
+Étranger
+A tout le reste du monde !
+
+
+Je m'alanguissais, à voir
+Son œil noir,
+Et, me répétant : Je t'aime !
+Sans songer au lendemain,
+Dans sa main
+Elle tenait le poëme.
+
+
+Oh ! les charmants écoliers !
+Vous mêliez
+Votre voix et votre haleine
+Et vos soupirs amoureux,
+Couple heureux,
+O Stéphen, ô Magdeleine !
+
+
+Tel, au mois couleur du jour
+Où l'amour
+A la terre se marie,
+Au fond des vertes forêts
+Je pleurais
+Sur les genoux de Marie !
+
+
+Telle Eunice emporte Hylas !
+Puis, hélas !
+Tout s'enfuit de la mémoire,
+L'oubli vient, puis le remord,
+Puis la mort,
+C'est bien l'éternelle histoire.
+
+
+Il en est une autre aussi,
+Dieu merci !
+Douce à mon âme inquiète :
+Roméo tombe au printemps,
+A vingt ans,
+Auprès de sa Juliette !
+
+
+Il sort par un beau matin
+Du festin,
+Plein de jeunesse et de sève,
+Et meurt les yeux embrasés
+De baisers :
+Mais, celle-là, c'est le rêve !
+
+
+
+Mai 1855.
+
+
+
+
+A Zélie
+
+Ma sœur, ma sœur, n'est-il pas de défense
+Contre l'affront du temps ?
+Qui les a pris, ces jours de notre enfance
+Où, les cheveux flottants,
+
+
+Beaux, enviés par les mères jalouses,
+Couple au regard vermeil,
+Tu me suivais à travers les pelouses,
+Malgré le grand soleil ?
+
+
+Te souvient-il de ce jardin sauvage
+Tout au cœur de Moulins,
+Où nous courions, ignorant tout servage,
+Sous les arbres câlins ?
+
+
+Il était triste et rempli de mystères.
+Jamais ses beaux fruits mûrs
+N'étaient cueillis, et les pariétaires
+Envahissaient les murs.
+
+
+Sur leur sommet que la mousse inégale
+Peignait de ses couleurs,
+Montait superbe un rosier du Bengale
+Écrasé sous les fleurs.
+
+
+Parfois, bercé dans un songe illusoire
+Dont s'enchantent mes yeux,
+Quand je revois au fond de ma mémoire
+Ce lieu mystérieux,
+
+
+Mon souvenir, empli de ses murmures
+Et de ses floraisons,
+Y réunit les diverses parures
+De toutes les saisons,
+
+
+Et tout se mêle ainsi qu'une famille :
+Les soucis et les lys,
+La vigne folle avec la grenadille ;
+Près des volubilis
+
+
+Le glaïeul rose et ses feuilles en pointes ;
+Partout le vert lézard
+Venait courir sur les pierres disjointes ;
+La liberté sans art
+
+
+Avait rendu leurs énergiques poses
+Aux vieux arbres fruitiers,
+Et sur le mur pendaient, blanches et roses,
+Des touffes d'églantiers,
+
+
+Les nénufars, dans la mare déserte,
+Fleurissaient sur les eaux,
+Où se formait une enveloppe verte
+A l'abri des roseaux.
+
+
+Dis, nous vois-tu dévastant les groseilles
+Et les grains du cassis ?
+Autour de nous voltigeaient les abeilles,
+L'éclatante chrysis,
+
+
+Et mille oiseaux, en bandes familières,
+Se penchaient tout le jour
+Pour boire, au bord des urnes que des lierres
+Tapissaient à l'entour.
+
+
+La solitude avait pris sa revanche.
+Dans ce recueillement
+L'ortie, hélas ! coudoyait la pervenche :
+C'était morne et charmant.
+
+
+Nous jouions là, gais pour une chimère,
+Courant, ou bien assis
+Dans le gazon. Parfois notre grand'mère,
+La veuve aux chers soucis
+
+
+Qui fut si belle et qui mourut si jeune,
+Se montrait sur le seuil,
+Le front pâli comme par un long jeûne,
+Triste et douce, en grand deuil.
+
+
+
+Juin 1846.
+
+
+
+
+A Léon Gatayès
+
+Avec ses sanglots, l'instrument rebelle,
+Qui sent un pouvoir plus fort que le sien,
+Donne l'harmonie enivrante et belle
+Au musicien.
+
+
+Le cheval meurtri, qui saigne et qui pleure,
+Cède au cavalier, rare parmi nous,
+Dont aucun effort ne peut avant l'heure
+Lasser les genoux.
+
+
+De même d'abord, le Rhythme farouche
+Devant la Pensée écume d'horreur,
+Et, pour se soustraire au dieu qui le touche,
+Se cabre en fureur.
+
+
+Mais bientôt, léchant la main qui l'opprime,
+Il marche en cadence, et comme par jeu,
+Son vainqueur lui met le mors de la Rime
+Dans sa bouche en feu.
+
+
+Tu le sais, ami, toi dont l'Art s'honore,
+Homme à la main souple, au jarret d'acier,
+Qui fais obéir la harpe sonore
+Et l'ardent coursier ;
+
+
+Lorsque aimé d'Isis aux triples ceintures,
+Un homme intrépide a baisé son sein,
+La création et les créatures
+Suivent son dessein.
+
+
+Le Génie en feu donne à l'âme altière
+Le Commandement, ce charme vanté,
+Et l'Esprit captif dans l'âpre Matière
+Cède épouvanté.
+
+
+
+Mai 1855.
+
+
+
+
+A Méry
+
+Plus vite que les autans,
+Saqui, l'immortelle, au temps
+De sa royauté naissante,
+Tourbillonnait d'un pied sûr,
+A mille pieds en l'air, sur
+Une corde frémissante.
+
+
+Et l'on craignait que d'un bond
+Parfois son vol vagabond
+Décrochât, par aventure,
+Parmi les cieux étoilés,
+Les astres échevelés
+Fouettés par sa chevelure.
+
+
+En haut vers elle parfois,
+Comme de tremblantes voix,
+Montaient les cris de la foule
+Qu'elle voyait du ciel clair
+Confuse comme une mer
+Où passe l'ardente houle.
+
+
+Et, soit qu'en faisant un pas
+Elle regardât en bas
+Ou vers les célestes cimes,
+Aux cieux que cherchait son vol,
+Comme à ses pieds sur le sol,
+Elle voyait deux abîmes.
+
+
+Dans les nuages vermeils,
+Au beau milieu des soleils
+Qu'elle touchait de la tête
+Et parmi l'éther bravé,
+Elle songeait au pavé.
+Tel est le sort du poète.
+
+
+Il trône dans la vapeur.
+Beau métier, s'il n'avait peur
+De tomber sur quelque dalle
+Parmi les badauds sereins,
+Et de s'y casser les reins
+Comme le fils de Dédale.
+
+
+Dans l'azur aérien
+Qui le sollicite, ou bien
+Sur la terre nue et froide
+Qu'il aperçoit par lambeau,
+Il voit partout son tombeau
+Du haut de la corde roide,
+
+
+Et, sylphe au ventre changeant
+Couvert d'écailles d'argent,
+Il se penche vers la place
+Du haut des cieux irisés,
+Pour envoyer des baisers
+A la vile populace.
+
+
+
+Mai 1855.
+
+
+
+
+A Gavarni
+
+La Beauté, fatal aimant,
+Est pareille au diamant
+Que la fange peut mouiller
+Sans le souiller.
+
+
+Jusqu'au milieu du ruisseau,
+L'éclat pur de son berceau
+Garde un charme essentiel
+Qui vient du ciel.
+
+
+Ainsi, leurs cheveux au vent,
+Vois ces folles qui souvent
+Bercent le premier venu
+Sur leur bras nu.
+
+
+Ces filles aux teints flétris,
+Qui dévisagent Paris
+Avec leur regard moqueur,
+N'ont plus de cœur.
+
+
+Leur sein insensible et froid
+Que mord le corset étroit,
+N'a jamais pendant un jour
+Tremblé d'amour.
+
+
+Idoles ivres d'encens,
+Dont rien n'éveille les sens,
+Elle n'ont jamais pleuré
+Ni soupiré.
+
+
+Plus pâles que nos Ennuis,
+Ces spectres des folles nuits
+Ne mentent même pas bien,
+Et n'aiment rien.
+
+
+Rien ! ni l'orgie et le bal
+Qui se tord en carnaval
+Sous les clairons furieux,
+La flamme aux yeux,
+
+
+Ni le Vin, or ruisselant,
+Âme du raisin sanglant
+Qui met ses riches manteaux
+Sur nos coteaux,
+
+
+Ni la colère du Jeu,
+Qui rend puissants comme un dieu
+Les combattants éblouis
+De ses louis,
+
+
+Ni cette perle des mers
+Arrachée aux flots amers,
+Ni Golconde et son trésor,
+Ni même l'Or !
+
+
+Car l'Or sur notre chemin,
+C'est l'Art sacré dont la main
+Embellit les horizons
+De nos prisons ;
+
+
+C'est la sereine fierté,
+C'est un jour de liberté
+Sous les ombrages fleuris
+Loin de Paris ;
+
+
+C'est l'Amitié, douce voix,
+Qu'on peut encore une fois
+Accueillir et mieux choyer
+A son foyer.
+
+
+Mais ce gouffre où tout se perd !
+Mais elles ! L'or ne leur sert
+Qu'à se parer de chiffons
+Pour des bouffons.
+
+
+Pourquoi donc les chantons-nous,
+Cœurs de l'Idéal jaloux,
+Qui toujours au ciel obscur
+Cherchons l'azur ?
+
+
+Sur leurs têtes sans douceur
+Pourquoi, poëte et penseur,
+Fais-tu jaillir un rayon
+De ton crayon ?
+
+
+O philosophe subtil,
+Dis-le-moi, que reste-t-il
+A leur front désenchanté ?
+Quoi ? la Beauté !
+
+
+La Beauté, miroir secret,
+Où l'amour divin paraît
+Reflété comme en un ciel
+Matériel !
+
+
+
+Mai 1855.
+
+
+
+
+A Adolphe Gaïffe
+
+Jeune homme sans mélancolie,
+Blond comme un soleil d'Italie,
+Garde bien ta belle folie.
+
+
+C'est la sagesse ! Aimer le vin,
+La beauté, le printemps divin,
+Cela suffit. Le reste est vain.
+
+
+Souris, même au destin sévère !
+Et quand revient la primevère,
+Jettes-en les fleurs dans ton verre.
+
+
+Au corps sous la tombe enfermé
+Que reste-t-il ? D'avoir aimé
+Pendant deux ou trois mois de mai.
+
+
+Cherchez les effets et les causes,
+Nous disent les rêveurs moroses.
+Des mots ! des mots ! cueillons les roses.
+
+
+
+Mai 1855.
+
+
+
+
+
+Il est dans l'île lointaine
+Où dort la péri,
+Sur le bord d'une fontaine,
+Un rosier fleuri
+
+
+Qui s'orne toute l'année
+Des plus belles fleurs.
+Il est une coupe ornée
+De mille couleurs,
+
+
+Dont le sein de marbre voile
+Les flots d'un doux vin.
+Il est une blanche étoile
+Au rayon divin,
+
+
+Qui verse de blanches larmes
+Au cœur des lys blancs.
+Il est un seuil, plein de charmes
+Pour mes pas tremblants,
+
+
+Où je vais poser ma tête
+Pour me reposer.
+Il est un jardin en fête
+Plus doux qu'un baiser,
+
+
+Qui le soir, au clair de lune,
+Tressaille embaumé,
+C'est ton front, ta tresse brune,
+Ta lèvre, ô Fatmé !
+
+
+
+Juin 1847.
+
+
+
+
+A Raoul Lebarbier
+
+Lorsque avec les sons
+Dont tu les complètes,
+Tu fais des chansons
+De mes odelettes,
+Mille aspects divers
+De grâce physique
+Naissent dans mes vers
+Avec ta musique !
+
+
+A ta seule voix,
+Tout en eux s'éveille
+Et vit à la fois.
+O rare merveille !
+A ma vigne en fleur,
+A ma moisson mûre,
+Tu rends la couleur
+Avec le murmure !
+
+
+Au ciel rougissant
+De clartés sans voiles,
+La nuit en naissant
+Frissonne d'étoiles,
+Et sous les berceaux
+Où sa voix touchante
+Ravit les ruisseaux,
+Le rossignol chante !
+
+
+La biche qui court
+Parmi les charmilles
+S'arrête tout court,
+Et des jeunes filles
+Sous tes feux tremblants,
+O lune incertaine,
+Lavent leurs pieds blancs
+Dans une fontaine.
+
+
+C'est sous le bouleau,
+Dont les feuilles sombres
+Découpent dans l'eau
+De légères ombres,
+Et lorsqu'un éclair
+Montre leurs visages,
+On sent courir l'air
+Dans ces paysages !
+
+
+Derniers enchanteurs
+Des âmes en fête,
+O divins chanteurs,
+Qui sur notre tête
+Agitez encor
+D'une main hardie
+Les clochettes d'or
+De la mélodie !
+
+
+Dans l'azur secret,
+Un sylphe voltige
+Sur votre forêt
+Où tout est prestige.
+Chaque art a le sien,
+Mais rien ne s'achève,
+O musicien,
+Qu'avec votre rêve !
+
+
+Le monde amoureux
+De la Poésie
+Se sent plus heureux
+Lorsqu'il s'extasie
+Aux accords si doux
+Nés de ce délire,
+Mais c'est toujours vous
+Qui tenez la lyre !
+
+
+
+Mai 1855.
+
+
+
+
+
+Aimons-nous et dormons
+Sans songer au reste du monde !
+Ni le flot de la mer, ni l'ouragan des monts,
+Tant que nous nous aimons
+Ne courbera ta tête blonde,
+Car l'amour est plus fort
+Que les Dieux et la Mort !
+
+
+Le soleil s'éteindrait
+Pour laisser ta blancheur plus pure.
+Le vent, qui jusqu'à terre incline la forêt,
+En passant n'oserait
+Jouer avec ta chevelure,
+Tant que tu cacheras
+Ta tête entre mes bras !
+
+
+Et lorsque nos deux cœurs
+S'en iront aux sphères heureuses
+Où les célestes lys écloront sous nos pleurs,
+Alors, comme deux fleurs
+Joignons nos lèvres amoureuses,
+Et tâchons d'épuiser
+La Mort dans un baiser !
+
+
+
+Janvier 1846.
+
+
+
+
+A Philoxène Boyer
+
+David, brûlé de pures flammes,
+Dans un chant aux notes divines,
+Pour faire soupirer deux âmes
+Croise des rimes féminines.
+
+
+La Volupté ravie embrase
+Tout ce cantique des cantiques,
+Et jamais si suave extase
+Ne charma les odes antiques.
+
+
+On dirait deux blanches colombes
+Que les feux de l'amour meurtrissent,
+Roucoulant au-dessus des tombes
+Au mois où les roses fleurissent.
+
+
+Si comme toi, quand tu te penches
+Sur sa féerie où tout respire,
+J'avais entrevu sous les branches
+Le songe étoilé de Shakspere,
+
+
+Je voudrais écrire un poëme
+Dans ce rhythme des cœurs fidèles,
+Aussi doux que le mot : Je t'aime,
+Et rempli de langueurs mortelles,
+
+
+Et, comme dans une peinture
+Où se lamente le génie,
+Toutes les voix de la nature
+Pleureraient dans ma symphonie.
+
+
+
+Juin 1856.
+
+
+
+
+A un riche
+
+Ma foi, vous avez bien raison,
+Vous pour qui tout est floraison
+Et violettes
+Parfumant les pieds de vos lys,
+De ne pas célébrer Phyllis
+En odelettes.
+
+
+Vous qui pouvez chaque matin,
+Bercé par le flot de satin
+Qui vous arrose,
+Voir dans l'or de votre salon
+Tomber les flèches d'Apollon,
+Parlez en prose !
+
+
+Mais pour nous qui, jusqu'à présent,
+Soupons sous la treille en causant
+Avec la lune,
+(Et c'est notre meilleur repas !)
+Ami, ne nous enlevez pas
+Notre fortune.
+
+
+Dans les fleurs, près de frais bassins,
+Nous nous couchons sur des coussins
+Très prosaïques,
+La pourpre au dos, vous le savez !
+Et dans des bains de stuc pavés
+De mosaïques.
+
+
+Le col paré de nos présents,
+De belles filles de seize ans
+Nous versent même
+Avec le charme oriental,
+Le vin du Rhin dans ton cristal,
+Sainte Bohême !
+
+
+O nuit d'étoiles sous les cieux !
+Jardins, nectar délicieux,
+Voûte sublime !
+Nous les possédons en effet,
+Mais, hélas ! ce beau monde est fait
+Avec la rime.
+
+
+Sans elle et ses prismes fleuris,
+Pour pouvoir chercher hors Paris
+L'eau murmurante
+Qui court dans les gazons naissants,
+Il nous faudrait bien quatre cents
+Écus de rente !
+
+
+Ou, je frissonne d'y penser !
+Nous n'oserions pas nous passer
+La fantaisie
+De perdre un quart d'heure aux genoux
+De Cidalise. Ah ! laissez-nous
+La poésie !
+
+
+
+Mai 1855.
+
+
+
+
+Chant séculaire
+
+Notre Eldorado,
+Mes amis, enfin doit éclore :
+Malgré mon bandeau,
+Je vois une nouvelle aurore.
+Aux cieux extasiés
+Tout est pourpre et rosiers :
+Voici l'heure, ô sainte colère !
+De chanter le chant séculaire :
+Les temps sont venus
+Pour les Dieux inconnus !
+
+
+O sombres penseurs
+Forts et seuls comme les grands chênes,
+O vierges nos sœurs,
+Tendres lys brisés par des chaînes !
+Laissez le saint amour
+Éclater au grand jour,
+Car Cypris, la pâle captive,
+A lavé son front dans l'eau vive :
+Les temps sont venus
+Pour les Dieux inconnus !
+
+
+Tout ce qu'on pleura,
+Dévouement, liberté, génie,
+Tout refleurira
+Pour le règne de l'harmonie :
+L'art sera dévoilé
+Comme un ciel étoilé,
+Et la Muse, pareille aux femmes,
+Chantera ses épithalames :
+Les temps sont venus
+Pour les Dieux inconnus !
+
+
+Je vois les doux vers
+Rejaillir en strophes écloses,
+Et des arbres verts
+Un miel pur couler dans les roses.
+Les Grâces vont pieds nus
+Sur les monts chevelus
+Et leur pas dans les fleurs naissantes
+Guide en chœur les vierges dansantes :
+Les temps sont venus
+Pour les Dieux inconnus !
+
+
+L'Auguste Beauté
+A quitté les bois de Cythère ;
+Son calme enchanté
+Resplendit sur toute la terre,
+Et le mal abattu
+Sous ses pieds meurt vaincu.
+Nous tenons sans honte et sans fièvres
+L'Idéal vivant sous nos lèvres :
+Les temps sont venus
+Pour les Dieux inconnus !
+
+
+
+Avril 1846.
+
+
+
+
+A Roger de Beauvoir
+
+Ce temps est si sévère
+Qu'on n'ose pas
+Remplir deux fois son verre
+Dans un repas,
+
+
+Ni céder à l'ivresse
+De son désir,
+Ni chanter sa maîtresse
+Et le plaisir !
+
+
+On croit que, pour paraître
+Rempli d'orgueil,
+Il est distingué d'être
+Toujours en deuil !
+
+
+Les topazes, la soie,
+La pourpre et tout,
+Ne font pas une joie
+D'assez bon goût,
+
+
+Et les bourgeois que flatte
+Un speech verbeux,
+Ont peur de l'écarlate
+Comme les bœufs !
+
+
+O pauvres gens sans flamme,
+Qui, par devoir,
+Mettent, même à leur âme,
+Un habit noir !
+
+
+Qu'ils ne puissent plus boire
+Sans déroger,
+C'est bien fait pour leur gloire !
+Mais, cher Roger,
+
+
+Nous de qui le cœur aime
+Un doux regard,
+Admirons ce carême
+Comme objet d'art,
+
+
+Et restons à notre aise
+Dans le soleil
+Qu'a fait Paul Véronèse
+Aux Dieux pareil !
+
+
+Sa lèvre nous embrase !
+Que ces marchands
+Gardent pour eux l'emphase,
+Et nous les chants !
+
+
+Tant que des gens moroses
+Le ciel épris
+Ne mettra pas aux roses
+Un habit gris,
+
+
+Tant qu'au dôme où scintillent
+Les firmaments,
+Parmi les saphirs brillent
+Des diamants,
+
+
+Tant qu'au bois, où m'accueille
+Un vert sentier,
+Naîtront le chèvrefeuille
+Et l'églantier,
+
+
+Tant que sous les dentelles
+Daignent encor
+Nous sourire les belles
+Aux cheveux d'or,
+
+
+Tant que le vin de France
+Et les raisins
+Porteront l'espérance
+A nos voisins,
+
+
+Gardons la jeune Grâce
+Pour échanson,
+Que jamais rien ne lasse
+Notre chanson !
+
+
+Et vous que j'accompagne
+Jusqu'au mourir,
+Versez-nous le champagne !
+Laissons courir,
+
+
+Avec l'or et la lie
+De sa liqueur,
+L'inconstante folie
+Dans notre cœur.
+
+
+Buvons ce flot suave
+Et sans rival,
+Et nous prendrons l'air grave
+Au carnaval !
+
+
+
+Mai 1855.
+
+
+
+
+La Vendangeuse
+
+Toi dont les cheveux doux et longs
+Se déroulent en onde fière,
+Comme les flots de ta rivière,
+O belle fille de Châlons !
+Penche ta tête parfumée,
+Que je puisse, ô ma bien-aimée !
+Voir baigné par ces cheveux blonds
+Ton riant profil de camée.
+
+
+O fille d'un climat divin !
+Tu naquis plus blanche qu'un cygne
+Et ton grand-père dans sa vigne
+Mouilla ta lèvre avec du vin !
+Aussi, lorsque la primevère
+Triomphe du climat sévère,
+Loin du monde vulgaire et vain,
+Vers les cieux tu lèves ton verre.
+
+
+Toute à l'instant qu'il faut saisir,
+Tu mords, et d'une ardeur pareille,
+Aux raisins gonflés de la treille
+Comme à la grappe du plaisir !
+Et sur ta poitrine, où se noie
+Une lumière ivre de joie,
+Mûrissent les fruits du Désir
+Comme une vendange qui ploie.
+
+
+En tes veines, de toutes parts,
+Bourguignonne aux tresses dorées,
+Le sang des Bacchantes sacrées
+Bouillonne dans ton sang épars,
+Et tu tiens tes idolâtries
+De ces guerrières des féeries
+Qui conduisaient les léopards
+Avec des guirlandes fleuries !
+
+
+Il fut ton aïeul, cet amant
+De la chanson ivre et sauvage,
+Menant sur son char de feuillage,
+Par l'Attique, un troupeau charmant !
+C'est pourquoi, danseuse étourdie,
+Tu fais d'une main si hardie
+Carillonner joyeusement
+Les grelots de la Comédie !
+
+
+O vendangeuse ! tu souris,
+Embrassons-nous jusqu'à l'ivresse !
+Buvons encore, ô ma maîtresse !
+Déroule tes cheveux chéris
+Sur ces raisins ! car, ô merveilles !
+Tes tresses blondes sont pareilles
+Au soleil qui les a mûris,
+Et ta bouche aux grappes vermeilles.
+
+
+
+Septembre 1853.
+
+
+
+
+A Théophile Gautier
+
+Quand sa chasse est finie,
+Le poëte oiseleur
+Manie
+L'outil du ciseleur.
+
+
+Car il faut qu'il meurtrisse,
+Pour y graver son pur
+Caprice,
+Un métal au cœur dur.
+
+
+Pas de travail commode !
+Tu prétends, comme moi,
+Que l'Ode
+Garde sa vieille loi,
+
+
+Et que, brillant et ferme,
+Le beau rhythme d'airain
+Enferme
+L'idée au front serein.
+
+
+Car toi qui, fou d'extase,
+Mènes par les grands cieux
+Pégase,
+Le cheval aux beaux yeux ;
+
+
+Toi qui sur une grève
+Sais prendre en ton réseau
+Le Rêve,
+Comme un farouche oiseau ;
+
+
+Maître, qui nous enseignes
+L'amour du vert laurier,
+Tu daignes
+Être un bon ouvrier.
+
+
+
+Mai 1856.
+
+
+
+
+A Odette
+
+Odette, vos cheveux vermeils
+Ont le jaune éclat des soleils
+Parmi les moissons enchantées,
+Et caressent en nappes d'or
+Vos tempes plus blanches encor
+Que des étoiles argentées.
+
+
+Quand l'aurore rose à demi
+Se joue et frissonne parmi
+Cette douce toison fatale,
+De pâles et tristes lueurs
+Éclairent de reflets rêveurs
+Votre joue aux teintes d'opale.
+
+
+Sur votre jeune front penché
+L'étincelle d'un feu caché
+Brille dans vos yeux clairs et sombres,
+Et comme de tendres pistils,
+Les bandeaux soyeux de vos cils
+Vous caressent de grandes ombres.
+
+
+Vos lèvres déjà tout en fleur
+Ont l'harmonieuse pâleur
+De la sensitive froissée,
+Et ce lys que rien n'outragea,
+Votre front se courbe déjà
+Sous l'orage de la pensée.
+
+
+Vos regards sont si languissants
+Qu'à votre petit cœur je sens
+Saigner de secrètes blessures,
+Et parfois dans vos yeux pensifs
+Je crois voir s'amasser, captifs,
+Tous les pleurs des amours futures.
+
+
+Ah ! que ces pleurs silencieux
+Ne coulent jamais de vos yeux !
+Et ne voyez jamais éclore,
+Autour de vos cheveux flottants,
+De nos saisons que le printemps
+Et de notre jour que l'aurore !
+
+
+Que rien n'emplisse de sanglots
+Votre âme pareille à ces flots
+Où Dieu lui-même se reflète !
+Parlez aux cieux, aux champs, aux bois,
+Avec votre plus douce voix,
+Soyez heureuse, chère Odette !
+
+
+Dites aux bosquets de rosiers :
+Je veux que vous me le disiez
+Comment vos fleurs s'épanouissent,
+Et parmi de calmes amours
+Je veux que ma vie et mes jours
+Ainsi que vos roses fleurissent !
+
+
+A la source dont le flot clair
+Boit le bleu transparent de l'air,
+Dites : Je veux, ô flots sans nombre,
+Que mes jours coulent, comme vous,
+Sur un chemin facile et doux,
+A l'abri d'un feuillage sombre !
+
+
+Au bel Ange qui suit vos pas :
+Je veux que ma route ici-bas
+Ne soit qu'harmonie et sourires !
+Tel dans l'oasis du désert
+On entend parfois un concert
+De voix humaines et de lyres.
+
+
+Tous écouteront votre vœu !
+Vous parliez encore au bon Dieu
+Hier dans les célestes féeries,
+Et vous devez encor savoir
+En quels mots se parlent au soir
+Un ange et des roses fleuries.
+
+
+
+Juillet 1846.
+
+
+
+
+A Eugène Grangé
+
+La fille du gai Thespis
+Est tout endormie
+Et penche son front de lys
+Sur sa main blêmie.
+Ses Bacchantes aux doux yeux
+Ne versent plus le vin vieux ;
+Assez de pleurs ! j'aime mieux
+L'amour de ma mie.
+
+
+On dit que nous triomphons !
+O gaîté facile,
+Où sont tes joyeux bouffons
+Venus de Sicile ?
+Les grands mots ont effrayé
+Ce peuple au manteau rayé
+Dont Molière a défrayé
+La verve docile !
+
+
+Mais ta Muse lace encor
+A son pied d'albâtre
+Le léger brodequin d'or
+Qui sied au théâtre.
+L'Amour est votre échanson,
+Il rit à votre moisson :
+Qu'il nous rende la chanson
+Rieuse et folâtre !
+
+
+Que la Comédie au moins
+Ait son chant du cygne !
+Ah ! sans prendre tant de soins
+Pour paraître digne,
+Son beau rire était si prompt !
+Ami, sans lui faire affront,
+Rien ne sied mieux à son front
+Qu'un rameau de vigne.
+
+
+
+Mai 1855.
+
+
+
+
+A Jules de Prémaray
+
+Lecteur, prompt à nous consoler,
+Toi qui sais encore voler,
+Comme l'abeille, au miel attique,
+Ton enthousiaste rumeur
+Encourage le doux rimeur,
+O voix émue et sympathique !
+
+
+O mon ami, c'est déjà vieux !
+Depuis dix ans, les envieux,
+Acharnés sur la même lime,
+Ensanglantent leurs yeux ardents,
+Et viennent se briser les dents
+Contre l'acier pur de ma rime.
+
+
+O Poésie ! ange fatal !
+Des fous marchent d'un pied brutal
+A travers tes Édens splendides,
+Comme, aux approches de la nuit,
+Par les déserts de fleurs s'enfuit
+Le troupeau des buffles stupides.
+
+
+Mais croissez, pervenches et thym !
+Comme ces lueurs du matin
+Qu'enveloppent en vain des voiles,
+O symboles de mes amours !
+C'est vous seuls qui vivrez toujours,
+Printemps, lauriers, chansons, étoiles !
+
+
+
+Mai 1855.
+
+
+
+
+Théophile Gautier
+
+I
+
+Théophile Gautier ! poëte
+Au regard limpide et vermeil,
+Dont l'œuvre fut un hymne en fête
+A la vie ivre de soleil !
+
+
+A l'heure où la Mort en délire,
+Avec un regret insensé,
+Admire encor ton fier sourire
+Qu'elle éteint de son doigt glacé,
+
+
+Pardonne-moi, maître des charmes,
+Dont l'esprit s'enfuit vers le ciel,
+Si tu vois mes yeux pleins de larmes
+Devant toi, songeur immortel.
+
+
+Pardonne-moi si je te pleure,
+Car, ô maître, c'est l'humble ami
+Qui prie et sanglote à cette heure
+Auprès du lutteur endormi.
+
+
+Mais ma propre fierté s'irrite
+De s'attrister en ces douleurs,
+Et je sais qu'un tel deuil mérite
+Bien autre chose que des pleurs !
+
+
+Car, ô pur génie, âme immense
+Qu'emplissait la sainte beauté,
+A cet instant pour toi commence
+Une double immortalité.
+
+
+Et tandis que de ta poitrine,
+Déployant son aile de feu,
+Ce qui fut la flamme divine
+S'envole et retourne vers Dieu,
+
+
+Fier meurtrier de la nuit noire,
+Vainqueur du silence étouffant,
+Ton génie entre dans la gloire,
+Libre, superbe et triomphant.
+
+
+Cependant que tes filles pleurent
+Et que tes fils sont pleins d'effroi,
+Mornes comme ceux qui demeurent
+Après des hommes tels que toi ;
+
+
+Cependant qu'en ce triste bagne
+Songent leurs vivants désespoirs,
+Et cependant que ta compagne
+Pleure sous ses longs voiles noirs ;
+
+
+Artiste, créateur sans tache,
+Sage et patient ouvrier,
+Souriante, la Muse attache
+Sur ton front le divin laurier.
+
+
+Sereine et fixant sur ton livre
+Son regard clair comme un flambeau,
+A jamais elle te délivre
+De l'épouvante du tombeau.
+
+
+Et l'Envie aux dents de couleuvre
+A beau se plaindre et crier : Non !
+Elle fait briller sur ton œuvre
+Luxuriante, et sur ton nom,
+
+
+L'éclat lumineux et féerique,
+Le flamboiement mélodieux
+Qui sied au poëte lyrique
+Dans son triomphe radieux ;
+
+
+Et s'éveillant sous son doigt rose,
+Chanteur illustre et vénéré,
+Les clartés de l'apothéose
+Ruissellent sur ton front sacré !
+
+
+
+II
+
+Déjà la France, à qui nous sommes,
+Douce mère frappée au flanc,
+Dans le troupeau de ses grands hommes
+Choisit ta place au premier rang ;
+
+
+Et, te célébrant dans ses veilles,
+Elle te bénit, fils pieux,
+D'avoir égalé les merveilles
+Qu'enfantèrent nos grands aïeux.
+
+
+O fils d'Orphée et de Pindare,
+Instruit par eux dans l'art des vers,
+Qu'elle est belle, en ce siècle avare,
+Ton œuvre aux cent aspects divers !
+
+
+Ta jeune maîtresse la Rime,
+Qui fait toujours ce que tu veux,
+Te donne, prodigue sublime,
+Les diamants de ses cheveux ;
+
+
+Elle t'offre ces pierreries
+Qui semblent transir et brûler,
+Et l'on voit leurs flammes fleuries
+Dans ton poëme étinceler.
+
+
+Statuaire, que le vil piège
+De la chair appelait en vain,
+Tu sais du marbre au flanc de neige
+Faire jaillir un corps divin,
+
+
+Et ravir à la nuit fatale
+Son frissonnement enchanté,
+Et le vêtir, forme idéale,
+D'une invincible chasteté.
+
+
+Et la Nature, ô coloriste !
+Veut que tu prennes ses trésors :
+Diamant, rubis, améthyste,
+Et les bleus saphirs et les ors ;
+
+
+Et, par ton génie animées,
+Tu fais, pour enchanter nos yeux,
+Avec ces matières charmées
+Un mélange mystérieux !
+
+
+Russie, Égypte, Espagne, Grèce,
+Où les grands Dieux vivent encor,
+On voit, si tu veux qu'il paraisse,
+Tout le prodigieux décor :
+
+
+Vertes forêts, plaines moroses,
+Mers d'azur aux charmants reflets,
+Pics géants de neige, ciels roses,
+Montagnes aux flancs violets ;
+
+
+Et les grandes architectures,
+Où tous les arts sont mariés,
+Développent leurs lignes pures
+Et leurs détails coloriés,
+
+
+Temple à la blanche colonnade,
+Burg dont l'herbe envahit la cour,
+Cathédrale, palais de jade,
+Alhambra découpant le jour !
+
+
+En ce décor passent et vivent
+Des rois, des guerriers, des amants,
+Les justes, et ceux que poursuivent
+Les ailes des noirs Châtiments ;
+
+
+Toute la folle engeance humaine
+Dont le Destin fait son jouet,
+Tous les mortels tremblants que mène
+Amour avec son cruel fouet ;
+
+
+Et surtout, mille, mille femmes
+Jetant sur leurs mates pâleurs
+Des ors divins aux belles gammes
+Ou de vivants colliers de fleurs ;
+
+
+Vierges priant dans leurs alcôves,
+Et folles aux regards surpris,
+Dénouant leurs crinières fauves
+Sur les rouges damas fleuris ;
+
+
+Les unes pleurant comme un cygne,
+D'autres avec l'air irrité,
+Mais toutes laissant voir le signe
+De l'irrésistible Beauté.
+
+
+
+III
+
+La Beauté ! c'est le seul poëme
+Que tu chantas sous le ciel bleu,
+Grand porteur de lyre, et toi-même
+Tu fus sage et beau comme un dieu.
+
+
+Sans que rien jamais la courrouce,
+Un regard calme et contempteur
+Brillait dans ta prunelle douce ;
+On eût dit qu'un divin sculpteur,
+
+
+Dans son jardin planté de vignes,
+Épris du beau comme du bien,
+Avait pétri les nobles lignes
+De ton visage olympien.
+
+
+Ta barbe légère et farouche
+Tombait, soyeuse, en s'effilant,
+Pour encadrer ta belle bouche
+Aussi rouge qu'un fruit sanglant,
+
+
+Et comme au Zeus de l'ode ancienne
+Qui songe aux éternels devoirs,
+Ta chevelure ambroisienne
+Ruisselait en brillants flots noirs.
+
+
+Sur ton large visage austère
+Quelle douceur, mais quel mépris
+Pour tous les hochets de la terre
+Auxquels on attache du prix !
+
+
+Rhéteurs aux démarches hautaines
+Bâtissant un néant profond,
+Et se penchant vers les fontaines
+Pour remplir des urnes sans fond ;
+
+
+Orateurs dévorés de fièvre,
+Dans le carrefour éhonté
+Baisant de leur ardente lèvre
+L'ignoble Popularité ;
+
+
+Amants de l'or, pourris de plaies,
+Monnoyant l'angoisse et les pleurs,
+Blêmes, et comptant des monnaies
+Dans la nuit, comme les voleurs ;
+
+
+Ineptes don Juans de romance,
+Sous ses haillons d'or, en plein jour,
+Adorant tous, en leur démence,
+Le spectre fardé de l'Amour ;
+
+
+Maîtres des Odes éclatantes,
+Se résignant au rire amer
+Pour des foules plus inconstantes
+Que le flot fuyant de la mer ;
+
+
+O pasteur des rhythmes sans nombre,
+Comme tu regardais ces fous
+Acharnés à l'ombre d'une ombre,
+Avec un air pensif et doux,
+
+
+Toi qui t'asseyais sous un arbre
+En plaignant le cerf aux abois !
+Toi, l'amant des Nymphes de marbre
+Et de la source dans les bois,
+
+
+Qui donnais la richesse vile
+Et tout leur or matériel
+Pour une âpre strophe d'Eschyle,
+S'envolant terrible en plein ciel !
+
+
+Toi qui, dans ton cœur invincible,
+N'eus pas d'autre rêve étoilé
+Que de lire la grande bible
+Et de voir dans le ciel fermé !
+
+
+Toi qui, dans ta candeur sincère,
+Souriais, ignorant du mal,
+Et qui remplissais ton grand verre
+Avec le vin de l'Idéal !
+
+
+
+IV
+
+Reprends-les, ce divin sourire
+Et ce verre où ta lèvre but,
+Car voici l'heure de te dire,
+Maître, non : Adieu, mais : Salut !
+
+
+Oui, sois le bienvenu, poëte,
+Parmi ceux que nomme les siens
+La Muse qui fut leur conquête ;
+Car tu ne t'en vas pas, tu viens !
+
+
+Fier de ton renom qui te vante,
+Tu viens vers la postérité,
+Ayant sur ta lèvre vivante
+L'inéluctable vérité,
+
+
+Et dans ta main mystérieuse
+Apportant, vainqueur du tombeau,
+Toute une œuvre victorieuse
+Où resplendit l'éclat du Beau !
+
+
+Au festin de la poésie,
+Où chacun, levant son bras nu,
+Boit le nectar et l'ambroisie,
+O chanteur, sois le bienvenu !
+
+
+Toi qui, pareil à Véronèse,
+Parmi les satins et les fleurs,
+Fais resplendir en ta fournaise
+Les femmes aux belles couleurs !
+
+
+Toi qui, dans un temps qui végète,
+Nous fais songer aux chœurs dansants
+Qui bondissaient sur le Taygète,
+Avec tes vers éblouissants !
+
+
+Toi qui, savant aux hardiesses,
+Peux, comme Myron et Scyllis,
+Tailler l'image des Déesses
+Dans le marbre pareil au lys !
+
+
+Toi qui sus donner à la prose
+Le prisme durable et charmant
+Que traverse un éclair de rose,
+Et le poli du diamant !
+
+
+Toi qui répands de ta main pleine
+Toute une riche floraison !
+Dernier fils du chantre d'Hélène !
+Âme, sagesse, esprit, raison,
+
+
+Amant du beau, du vrai, du juste,
+Règne parmi les Dieux de l'art,
+Et viens prendre ta place auguste
+Entre Rabelais et Ronsard !
+
+
+
+23-24 octobre 1872.
+
+
+
+
+
+A Alfred Dehodencq
+
+Tenir la lumière asservie
+Lorsqu'elle voudrait s'envoler,
+Et voler
+A Dieu le secret de la vie ;
+
+
+Pour les mélanger sur des toiles
+Dérober même aux cieux vengeurs
+Leurs rougeurs
+Et le blanc frisson des étoiles ;
+
+
+Comme on cueille une fleur éclose,
+Ravir à l'Orient en feu
+Son air bleu
+Et son ciel flamboyant et rose ;
+
+
+Pétrir de belles créatures,
+Et sur d'éblouissants amas
+De damas
+Éparpiller des chevelures ;
+
+
+Inonder de sang le Calvaire
+Ou jeter un éclat divin
+Sur le vin
+Qu'un buveur a mis dans son verre ;
+
+
+Se réjouir des pierreries,
+Et jeter le baiser vermeil
+Du soleil
+Jusque sur les rouges tueries ;
+
+
+Créer des êtres, et leur dire :
+Misérables, c'est votre tour !
+Que l'Amour
+De sa folle main vous déchire ;
+
+
+Enfin pour ce monde risible
+Forçant la couleur à chanter,
+L'enchanter
+Par une musique visible,
+
+
+Voilà vraiment ce que vous faites,
+Peintres ! qui pour nous préparez
+Et parez
+Sans repos d'éternelles fêtes !
+
+
+Ouvriers, inventeurs, génies !
+Par un miracle surhumain,
+Votre main
+Réalise ces harmonies
+
+
+Où la couleur qui se déploie
+En accords de la nuit vainqueurs,
+Dans nos cœurs
+Fait jaillir des sources de joie.
+
+
+Et nos fronts sont baignés d'aurore.
+Mais vous, par un retour fatal,
+L'Idéal
+Vous martyrise et vous dévore.
+
+
+Et vos enchantements sublimes,
+Vous les payez de votre chair ;
+Il est cher,
+Le feu qu'on vole sur les cimes !
+
+
+Si tu montas avec délice
+L'escalier bleu des paradis
+Interdits,
+Un inexprimable supplice
+
+
+Te punit, ô rêveur étrange
+Qui sus donner l'illusion
+Du rayon
+De lumière où s'envole un Ange ;
+
+
+Et lorsque tout le ciel flamboie
+Dans ta prunelle ivre d'amour,
+Un vautour
+Vient manger ton cœur et ton foie.
+
+
+
+24 novembre 1872.
+
+
+
+
+Les Muses au Tombeau
+
+Près de la pierre close
+Sous laquelle repose
+Théophile Gautier,
+(Non tout entier,
+
+
+Car par son œuvre altière
+Ce dompteur de matière
+Est comme auparavant
+Toujours vivant,)
+
+
+Regardant cette tombe
+De leurs yeux de colombe,
+Les Muses vont pleurant
+Et soupirant.
+
+
+Toutes se plaignent : celle
+Dont l'œil sombre étincelle
+Et qui réveille encor
+Le clairon d'or,
+
+
+Celle que le délire
+Effréné de la Lyre
+Offre aux jeux arrogants
+Des ouragans,
+
+
+Celle qui rend docile
+Un mètre de Sicile
+Et tire du roseau
+Des chants d'oiseau,
+
+
+Celle qui, dans son rêve
+Farouche, porte un glaive
+Frissonnant sur son flanc
+Taché de sang,
+
+
+Et celle qui se joue
+Et pour orner sa joue
+Prend aux coteaux voisins
+Les noirs raisins,
+
+
+Et la plus intrépide,
+La Nymphe au pied rapide,
+Celle qui, sur les monts
+Où nous l'aimons,
+
+
+Par sa grâce savante,
+Fait voir, chanson vivante,
+Les rhythmes clairs dansants
+Et bondissants.
+
+
+Oui, toutes se lamentent
+Et pieusement chantent
+Dans l'ombre où leur ami
+S'est endormi.
+
+
+Car il n'en est pas une
+Qui n'ait eu la fortune
+D'obtenir à son tour
+Son fier amour ;
+
+
+Pas une qu'en sa vie
+Il n'ait prise et ravie
+Par un chant immortel
+Empli de ciel !
+
+
+Ses pas foulaient ta cime,
+Mont neigeux et sublime
+Où nul Dieu sans effroi
+Ne passe ; et toi,
+
+
+Fontaine violette,
+Il a vu, ce poëte,
+Errer dans tes ravins
+Les chœurs divins !
+
+
+Et toi, monstre qui passes
+A travers les espaces,
+Usant ton sabot sur
+Les cieux d'azur,
+
+
+Cheval aux ailes blanches
+Comme les avalanches,
+Tu prenais ton vol, l'œil
+Ivre d'orgueil,
+
+
+Quand sa main blanche et nue
+T'empoignait sous la nue,
+Ainsi que tu le veux,
+Par les cheveux !
+
+
+Mais, ô Déesses pures,
+Ornez vos chevelures
+De couronnes de fleurs,
+Séchez vos pleurs !
+
+
+Car le divin poëte
+Que votre voix regrette
+Va sortir du tombeau
+Joyeux et beau.
+
+
+Les Odes qu'il fit naître
+Lui redonneront l'être
+A leur tour, et feront
+Croître à son front
+
+
+Victorieux de l'ombre,
+L'illustre laurier sombre
+Que rien ne peut faner
+Ni profaner.
+
+
+Toujours, parmi les hommes,
+Sur la terre où nous sommes
+Il restera vivant,
+Maître savant
+
+
+De l'Ode cadencée,
+Et sa noble pensée
+Que notre âge adora,
+Joyeuse, aura
+
+
+Pour voler sur les lèvres
+Que brûleront les fièvres
+De notre humanité
+L'éternité !
+
+
+
+Jeudi, 7 novembre 1872.
+
+
+
+
