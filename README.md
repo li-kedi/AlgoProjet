@@ -92,6 +92,10 @@ Il est possible de créer de nouveaux sous-dossiers et leurs fichiers, ou d'ajou
 * **LM.txt**
 
   * Les deux fichers sont utilisés pour tester la classification.
+  
+* **111.json**
+
+  * Le résultat de 'save'
 
 
 
