@@ -10,7 +10,7 @@ Ensuite, c'est ["veillez donner votre ordonnance: (Choix parmi 'classify','add_c
 
   * ['add_class'→"Veillez donner le label: " → "Veillez donner les vecteurs (sous forme de liste de dictionnaires): "  ](http://blog.csdn.net/guodongxiaren)  
 
-             On va donner un type de ficher, tels que poésie, roman, article... Si le label existe dans le data, on renouvelle le vecteur, si il n'existe    pas, on ajouter cette classe dans le data. Mais quand on saisi les vecteurs, il faut respecter le format suivant, sinon l'ajout est un échec:
+    On va donner un type de ficher, tels que poésie, roman, article... Si le label existe dans le data, on renouvelle le vecteur, si il n'existe    pas, on ajouter cette classe dans le data. Mais quand on saisi les vecteurs, il faut respecter le format suivant, sinon l'ajout est un échec:
 
     [  
     { "key_1_1_1": float_1_1_1, "key_1_1_2": float_1_1_2,... },  
