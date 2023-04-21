@@ -93,55 +93,57 @@ Il est possible de créer de nouveaux sous-dossiers et leurs fichiers, ou d'ajou
 * **def read_dict(stoplist_filename)**
   * Description: Cette méthode lit un fichier de liste de stop words et renvoie un ensemble de stop words
   * stoplist_filename : nom du fichier de stop words
-  * 
+  * return : un ensemble de stop words
 * **def tokenize(text,tok_grm)**
   * Description: Cette méthode tokenize un texte avec une expression régulière 
   * Text: Ficher texte à tokenizer
   * Tok_grm : Les expressions régulières pour tokenizer le texte
-  *
+  * Return : liste des tokens
 * **def vectorise(tokens)**
   * Description: Cette méthode transforme une liste de tokens en un dictionnaire avec leur fréquence associée
   * Liste des tokens à transformer en dictionnaire
-  *
+  * Return : dictionnaire contenant les fréquences des tokens
 * **def doc2vec(cls,label:str)**
   * Description: Cette méthode convertit tous les fichiers textes d'un dossier en vecteurs en utilisant la méthode de vectorisation
   * Label : nom du dossier contenant les fichiers textes
-  * 
+  * Return : un dictionnaire contenant le nom du dossier et la liste des vecteurs de chaque fichier texte
 * **def txt2vec(cls,file_name:str)**
   * Description: Cette méthode convertit un fichier texte en un vecteur de mots
   * File_name (str): Le nom du fichier texte à convertir.
-  *
+  * Return: Un dictionnaire contenant le label du fichier et sa représentation sous forme de vecteur de mots.
 * **def filtrage(cls,stoplist_filename, documents, non_hapax)**
   * Description: Cette méthode effectue le filtrage des tokens d'un document
   * stoplist_filename : nom du fichier de stop words
   * documents : dictionnaire contenant les informations du document
   * non_hapax : booléen pour déterminer si on élimine les hapax ou non
-  *
+  * return : dictionnaire contenant les informations du document filtré
 * **def tf_idf(documents:list)->list**
   * Description: Cette méthode effectue le calcul du poids tf-idf de chaque mot dans chaque document
   * Documents: une liste de documents contenant les vecteurs de mots et les libellés
-  *
-* **def scalaire(vector1,vector2)**
-  * Description: 
-  * 
+  * une liste de documents modifiés avec les poids tf-idf pour chaque mot
+* **def scalaire(vector1,vector2) -> float **
+  * Description: Cette fonction calcule le produit scalaire
+  * vector1: un dictionnaire représentant le premier vecteur
+  * vector2: un dictionnaire représentant le deuxième vecteur
 * **def norme(vector)**
   * Description: Cette fonction calcule la norme d'un vecteur donné.
-  * Vextor: Un dictionnaire représentant le vecteur dont on souhaite calculer la norme.
+  * Vector: Un dictionnaire représentant le vecteur dont on souhaite calculer la norme.
+  * return : la norme du vecteur donné. 
 * **def sim_cosinus(cls,vector1,vector2)  -> float**
   * Description: Cette méthode calcule la similarité cosinus entre deux vecteurs
   * vector1 : un dictionnaire représentant le premier vecteur.
   * vector2 : un dictionnaire représentant le deuxième vecteur
-  *
+  * Return : la similarité cosinus entre les deux vecteurs donnés.
 * **def euclidean_distance(vec1: dict, vec2: dict) -> float**
   * Description: Cette fonction calcule la distance euclidienne entre deux vecteurs donnés
   * vec1 : un dictionnaire représentant le premier vecteur.
   * vec2 : un dictionnaire représentant le deuxième vecteur
-  *
+  * return : la distance euclidienne entre les deux vecteurs donnés.
 * **def manhattan_distance(vec1: dict, vec2: dict) -> float**
   * Description: Cette fonction calcule la distance manhattan entre deux vecteurs donnés
   * vec1 : un dictionnaire représentant le premier vecteur
   * vec2 : un dictionnaire représentant le deuxième vecteur
-  *
+  * return : la distance manhattan entre les deux vecteurs donnés.
 * **def doc2tf_idf(cls)**
   * Description: Cette fonction calcule le score tf-idf pour chaque document d'un corpus donné.
   * documents_input (str): le nom d'un document ou "test" si l'on veut traiter plusieurs documents.
