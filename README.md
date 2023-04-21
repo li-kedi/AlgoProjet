@@ -70,7 +70,7 @@ Il est possible de créer de nouveaux sous-dossiers et leurs fichiers, ou d'ajou
      Fichers.py
     
 
-* **TextVect.py
+* **TextVect.py**
 
   * Transforme des textes en vecteurs au format TF-IDF, et de les stoker dans les données(data)
 
