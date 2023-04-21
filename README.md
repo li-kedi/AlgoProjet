@@ -70,17 +70,22 @@ Il est possible de créer de nouveaux sous-dossiers et leurs fichiers, ou d'ajou
      Fichers.py
     
 
-* TextVect.py
+* **TextVect.py
 
   * Transforme des textes en vecteurs au format TF-IDF, et de les stoker dans les données(data)
 
-* KNNClass.py
+* **KNNClass.py
 
   * Fait appel aux données contenues dans data pour ajouter ou supprimer des classes, ajouter des vecteurs, les stocker ou les télécharger sous forme de fichiers json et classer le ficher texte. 
   
-* Main.py
+* **Main.py
 
   * Mettre en œuvre les méthodes des deux fichiers précédents selon les instructions entrées par l'utilisateur.
+
+
+
+# API
+
 
 
 
