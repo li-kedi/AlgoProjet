@@ -121,7 +121,7 @@ Il est possible de créer de nouveaux sous-dossiers et leurs fichiers, ou d'ajou
   * Description: Cette méthode effectue le calcul du poids tf-idf de chaque mot dans chaque document
   * Documents: une liste de documents contenant les vecteurs de mots et les libellés
   * une liste de documents modifiés avec les poids tf-idf pour chaque mot
-* **def scalaire(vector1,vector2) -> float **
+* **def scalaire(vector1,vector2) -> float**
   * Description: Cette fonction calcule le produit scalaire
   * vector1: un dictionnaire représentant le premier vecteur
   * vector2: un dictionnaire représentant le deuxième vecteur
@@ -166,7 +166,7 @@ Il est possible de créer de nouveaux sous-dossiers et leurs fichiers, ou d'ajou
   * vertor : Liste des vecteurs associés à la classe.
 * **def del_class(self,label:str)->None**
   * Description: Supprime une classe des données.
-  * lavel: Nom de la classe à supprimer
+  * label: Nom de la classe à supprimer
 * **def save_as_json(self, filename: str) -> None**
   * Description: Enregistre les données dans un fichier JSON.
   * filename : Nom du fichier dans lequel on va sauvegarder les données.
