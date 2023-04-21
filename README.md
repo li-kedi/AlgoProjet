@@ -179,7 +179,8 @@ Il est possible de créer de nouveaux sous-dossiers et leurs fichiers, ou d'ajou
 
 ## Améliorations possibles
 
-* 
+* Ce code parcourt tous les échantillons pour calculer les similarités, par conséquent, le prix de calcul est élevé. Si le dossier test est le ficher à classer est trop lourd, cela peut être très lent. Ainsi il est possible de choisir les meilleurs méthodes.
+* Si l'utilisateur compte d'agrandir le document test, il n'existe qu'une méthode, à savoir créer de nouveux sous-dossiers dans le document test. Il est possible de créer une fonction consistant à ajouter directement 
          
           
        
