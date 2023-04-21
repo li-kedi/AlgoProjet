@@ -22,3 +22,10 @@ Ensuite, c'est ["veillez donner votre ordonnance: (Choix parmi 'classify','add_c
 
 
      Il faut s'assurer que le label saisi existe bien dans les données, sinon une exception sera levée, ValueError. Et le format des vecteurs est la même que précédemment.
+     
+  * [‘del_class’→"Veillez donner le label: "](http://blog.csdn.net/guodongxiaren) 
+  
+
+     Il faut s'assurer que le label saisi existe bien dans les données, sinon une exception sera levée, ValueError.
+
+    
