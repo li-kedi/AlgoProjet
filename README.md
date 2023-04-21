@@ -18,4 +18,5 @@ Ensuite, c'est ["veillez donner votre ordonnance: (Choix parmi 'classify','add_c
     ]  
 
   * ['add_vector'→"Veillez donner le label: "→"Veillez donner les vecteurs (sous forme de liste de dictionnaires): "](http://blog.csdn.net/guodongxiaren) 
+ 
               Il faut s'assurer que le label saisi existe bien dans les données, sinon une exception sera levée, ValueError. Et le format des vecteurs est la même que précédemment.
