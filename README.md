@@ -38,8 +38,22 @@ Ensuite, c'est ["veillez donner votre ordonnance: (Choix parmi 'classify','add_c
   *  ['classify'→“ veillez taper le nom de documents” → " Veuillez indiquer la méthode de calcul. (cosinus=1,euclidean_distance=2, manhattan_distance=3): " → "Veuillez indiquer la valeur de k: "](http://blog.csdn.net/guodongxiaren)
 
 
-      * “ veillez taper le nom de documents” 
+      * “veillez taper le nom de documents” 
     
-          Noter ici que le type de fichier d'entrée est un fichier txt.
+          Notez ici que le type de fichier d'entrée est un fichier txt.
+          
+      * "Veuillez indiquer la méthode de calcul"
+
+         Notez que des méthodes de calcul différentes donneront des résultats différents.
+         
+         Cosinus: La valeur est proche de 1, plus les deux vecteurs sont similaires.
+         
+         Euclidean_distance & manhattan_distance : Plus la valeur est élevée, plus les deux vecteurs sont similaires.
+         
+      * "Veuillez indiquer la valeur de k: "
+ 
+         C'est-à-dire le nombre de résultats à conserver.
+         
+          
        
     
