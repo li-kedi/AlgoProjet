@@ -265,7 +265,7 @@ label: pièce de théâtre n: 1 average similarity: 140796.95321169504</br>
 
 ***Les poèmes et les pièces de théâtre contiennent beaucoup de français archaïque, ou il y a des erreurs dans le processus de conversion de pdf en txt.***
 
-***Deuxièmement, il n'a pas été constaté qu'il y avait un problème de décodage dans ce code, même s'il était entièrement défini en UTF-8.***
+***Deuxièmement, il y a un problème de décodage dans ce code, même s'il est entièrement défini en UTF-8.***
 
 
 
