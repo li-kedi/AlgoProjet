@@ -30,10 +30,12 @@ Ensuite, c'est ["veillez donner votre ordonnance: (Choix parmi 'classify','add_c
      
   *  ['save'→"Veillez donner le nom du fichier JSON de sauvegarde: "](http://blog.csdn.net/guodongxiaren)
      
+     Il vaut mieux entrer un fichier json, mais même si ce n'est pas le cas, il sera modifié en fichier json.
+     
      
   *  ['laod'→ "Veillez donner le nom du fichier JSON de chargement: "](http://blog.csdn.net/guodongxiaren)
 
-
+     Veillez que le fichier d'entrée existe et qu'il s'agit d'un fichier json, sinon une exception sera levée.
 
   *  ['classify'→“ veillez taper le nom de documents” → " Veuillez indiquer la méthode de calcul. (cosinus=1,euclidean_distance=2, manhattan_distance=3): " → "Veuillez indiquer la valeur de k: "](http://blog.csdn.net/guodongxiaren)
 
