@@ -86,7 +86,12 @@ Il est possible de créer de nouveaux sous-dossiers et leurs fichiers, ou d'ajou
   
 * **stop_words_french.txt**
 
-  *Il est utilisé pour filtrer les documents.
+  * Il est utilisé pour filtrer les documents.
+  
+* **BOU.txt**
+* **LM.txt**
+
+  * Les deux fichers sont utilisés pour tester la classification.
 
 
 
@@ -189,7 +194,6 @@ Ce code en Python définit une classe KNNClass qui implémente l'algorithme des 
 * Description: il permet de réaliser une classification de textes en utilisant l'algorithme KNN (K-nearest neighbors).Le principe est de représenter les textes sous forme de vecteurs TF-IDF, puis de mesurer les similarités entre ces vecteurs pour déterminer les K textes les plus proches d'un texte donné. La classe KNNClass implémentée permet de stocker les vecteurs TF-IDF des différents textes dans différentes classes, et de réaliser des opérations telles que l'ajout ou la suppression de classes ou de vecteurs selon le choix de l'utilisateur.
 
 ## Les bougues
-* 
 veillez taper le nom de documents：test</br>
 veillez donner votre ordonnance: (Choix parmi 'classify','add_class','add_vector','del_class','save','laod'): classify</br>
 veillez taper le nom de documents：BOU.txt</br>
@@ -206,12 +210,67 @@ Veuillez indiquer la valeur de k: 11</br>
 label: roman n: 8 average similarity: 0.9993879411416243</br>
 label: poésie n: 3 average similarity: 0.999368047283594</br>
 
-- this will be highlighted in red
+***J'ai testé "classer" avec un poème pour lequel j'ai donné des valeurs K de 5 et 11, mais les résultats ont tous eu tendance à le classer comme roman.***
+
+Veuillez indiquer la valeur de k: 5</br>
+label: roman n: 2 average similarity: 5283.684809030999</br>
+label: poésie n: 1 average similarity: 4539.824016687306</br>
+label: article n: 1 average similarity: 12332.47741120811</br>
+label: pièce de théâtre n: 1 average similarity: 13558.77854114023</br>
+
+Veuillez indiquer la valeur de k: 11</br>
+label: roman n: 3 average similarity: 8110.784406143844</br>
+label: poésie n: 2 average similarity: 10997.610117599866</br>
+label: article n: 2 average similarity: 13090.301379082877</br>
+label: pièce de théâtre n: 4 average similarity: 16155.05989731519</br>
+
+***Ici, j'ai changé le méthode de calcul, 'euclidean_distance', quand k=11, il le clasee en roman, quand K=5, il le clasee en poésie***
+
+Veuillez indiquer la valeur de k: 5</br>
+label: roman n: 3 average similarity: 24731.536660835543</br>
+label: poésie n: 1 average similarity: 26669.635271293613</br>
+label: pièce de théâtre n: 1 average similarity: 30117.648519685958</br>
+
+Veuillez indiquer la valeur de k: 11</br>
+label: roman n: 3 average similarity: 24731.53666083544</br>
+label: poésie n: 4 average similarity: 30085.40088810601</br>
+label: pièce de théâtre n: 4 average similarity: 31479.586894157335</br>
+
+***Dans le cas de manhattan_distance=3, il le clasee en roman, on n'a toujours pas trouvé la bonne réponse.***
+
+Veuillez indiquer la méthode de calcul. (cosinus=1,euclidean_distance=2, manhattan_distance=3): 1</br>
+Veuillez indiquer la valeur de k: 5</br>
+label: roman n: 4 average similarity: 0.9996885508381328</br>
+label: poésie n: 1 average similarity: 0.9995243077265208</br>
+
+Veuillez indiquer la méthode de calcul. (cosinus=1,euclidean_distance=2, manhattan_distance=3): 3</br>
+Veuillez indiquer la valeur de k: 7</br>
+label: roman n: 6 average similarity: 178927.4426842699</br>
+label: poésie n: 1 average similarity: 217871.26829574726</br>
+
+Veuillez indiquer la méthode de calcul. (cosinus=1,euclidean_distance=2, manhattan_distance=3): 2</br>
+Veuillez indiquer la valeur de k: 11</br>
+label: roman n: 7 average similarity: 100966.59592344206</br>
+label: poésie n: 1 average similarity: 131750.83274455252</br>
+label: article n: 2 average similarity: 140282.92981039645</br>
+label: pièce de théâtre n: 1 average similarity: 140796.95321169504</br>
+
+***J'ai testé "classer" avec un roman, quand K=5, méthode de calcul = cosinus, il le clasee en roman. Quand K=7, méthode de calcul = manhattan_distance, il le clasee en roman. Quand K=11, méthode de calcul = euclidean_distance, il le clasee en roman. La réponse est toujours bonne.***
+
+***J'ai vérifié le fichier json stocké, et j'ai peut-être trouvé la raison pour laquelle les résultats des deux tests différaient autant. 
+
+***Les poèmes et les pièces de théâtre contiennent beaucoup de français archaïque, ou il y a des erreurs dans le processus de conversion de pdf en txt.***
+
+***Deuxièmement, il n'a pas été constaté qu'il y avait un problème de décodage dans ce code, même s'il était entièrement défini en UTF-8.***
+
+
+
 
 ## Améliorations possibles
 
 * Ce code parcourt tous les échantillons pour calculer les similarités, par conséquent, le prix de calcul est élevé. Si le dossier test est le ficher à classer est trop lourd, cela peut être très lent. Ainsi il est possible de choisir les meilleurs méthodes.
 * Si l'utilisateur compte d'agrandir le document test, il n'existe qu'une méthode, à savoir créer de nouveux sous-dossiers dans le document test. Il est possible de créer une fonction consistant à ajouter directement les poids tf-idf de chaque mot dans les données de KNN.
+* Il est possible de changer le doucument de Test pour améliorer la fonction de classification
 * ...
          
           
