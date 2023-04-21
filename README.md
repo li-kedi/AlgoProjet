@@ -134,7 +134,17 @@ Il est possible de créer de nouveaux sous-dossiers et leurs fichiers, ou d'ajou
     resultat_tfidf (list de dicts): une liste de dictionnaires contenant le vecteur TF-IDF de chaque document si l'entrée est "test".<br />
     autre_doc_filtres_tfidf (dict): un dictionnaire contenant le vecteur TF-IDF du document saisi par l'utilisateur si l'entrée n'est pas "test".<br />
 
+### KNNClass.py
+* **def __init__(self,description,data)->None**
+* **def add_class(self, label:str, vectors:list) -> None**
+* **def add_vector(self,label:str,vector:dict)->None**
+* **def del_class(self,label:str)->None**
+* **def save_as_json(self, filename: str) -> None**
+* **def load_as_json(self, filename:str) -> None**
+* **def classify(self, vector_1: dict, k: int, sim_func=None) -> None**
 
+### Main.py
+    * Description: il permet de réaliser une classification de textes en utilisant l'algorithme KNN (K-nearest neighbors). Le principe est de représenter les textes sous forme de vecteurs TF-IDF, puis de mesurer les similarités entre ces vecteurs pour déterminer les K textes les plus proches d'un texte donné. La classe KNNClass implémentée permet de stocker les vecteurs TF-IDF des différents textes dans différentes classes, et de réaliser des opérations telles que l'ajout ou la suppression de classes ou de vecteurs selon le choix de l'utilisateur.
 
 
 
