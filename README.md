@@ -136,12 +136,30 @@ Il est possible de créer de nouveaux sous-dossiers et leurs fichiers, ou d'ajou
 
 ### KNNClass.py
 * **def __init__(self,description,data)->None**
+  * Description: Constructeur qui initialise l'objet avec une description et une liste de données.
+  * description : Description des données.
+  * data : Liste des classes et de leurs vecteurs.
 * **def add_class(self, label:str, vectors:list) -> None**
+  * Description: Ajoute une classe aux données avec une étiquette et une liste de vecteurs.
+  * label : noms des classes
+  * vertors : Liste des vecteurs associés à la classe.
 * **def add_vector(self,label:str,vector:dict)->None**
+  * Description: Ajoute un vecteur aux données.
+  * label : noms des classes
+  * vertor : Liste des vecteurs associés à la classe.
 * **def del_class(self,label:str)->None**
+  * Description: Supprime une classe des données.
+  * lavel: Nom de la classe à supprimer
 * **def save_as_json(self, filename: str) -> None**
+  * Description: Enregistre les données dans un fichier JSON.
+  * filename : Nom du fichier dans lequel on va sauvegarder les données.
 * **def load_as_json(self, filename:str) -> None**
+  * Description: Charge les données à partir d'un fichier JSON.
+  * filename : Nom du fichier à partir duquel on charge les données.
 * **def classify(self, vector_1: dict, k: int, sim_func=None) -> None**
+  * Description: Effectue la classification à l'aide de l'algorithme des k-plus proches voisins.
+  * vector : Vecteur du ficher à classifier
+  * k : Nombre de voisins le plus proche à considérer.
 
 ### Main.py
 * Description: il permet de réaliser une classification de textes en utilisant l'algorithme KNN (K-nearest neighbors). Le principe est de représenter les textes sous forme de vecteurs TF-IDF, puis de mesurer les similarités entre ces vecteurs pour déterminer les K textes les plus proches d'un texte donné. La classe KNNClass implémentée permet de stocker les vecteurs TF-IDF des différents textes dans différentes classes, et de réaliser des opérations telles que l'ajout ou la suppression de classes ou de vecteurs selon le choix de l'utilisateur.
