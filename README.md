@@ -8,7 +8,7 @@ Lorsque nous exécutons le fichier "Main.py", on reçoit des instructions. D'abo
 
 Ensuite, c'est ["veillez donner votre ordonnance: (Choix parmi 'classify','add_class','add_vector','del_class','save','laod'): "](http://blog.csdn.net/guodongxiaren),
 
-['add_class'→"Veillez donner le label: " → "Veillez donner les vecteurs (sous forme de liste de dictionnaires): "  ](http://blog.csdn.net/guodongxiaren)  
+  * ['add_class'→"Veillez donner le label: " → "Veillez donner les vecteurs (sous forme de liste de dictionnaires): "  ](http://blog.csdn.net/guodongxiaren)  
              On va donner un type de ficher, tels que poésie, roman, article... Si le label existe dans le data, on renouvelle le vecteur, si il n'existe    pas, on ajouter cette classe dans le data. Mais quand on saisi les vecteurs, il faut respecter le format suivant, sinon l'ajout est un échec:
 
 [  
