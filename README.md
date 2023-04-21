@@ -93,8 +93,7 @@ Il est possible de créer de nouveaux sous-dossiers et leurs fichiers, ou d'ajou
 ## API
 ### TextVect.py
 Description:</br>
-Le code comprend plusieurs méthodes de classe pour effectuer des tâches de traitement de texte telles que la </br>
-tokenisation, la vectorisation et le filtrage.</br>
+Le code comprend plusieurs méthodes de classe pour effectuer des tâches de traitement de texte telles que la tokenisation, la vectorisation et le filtrage.
 
 * **def read_dict(stoplist_filename)**
   * Description: Cette méthode lit un fichier de liste de stop words et renvoie un ensemble de stop words
